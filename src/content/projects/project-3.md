@@ -1,64 +1,39 @@
 ---
-title: 'RoboChef - AI Powered Cooking Guide'
-description: RoboChef Recipe Assistant is a groundbreaking mobile application that leverages artificial intelligence to redefine the cooking experience.
-publishDate: 'Oct 12 2023'
+title: 'Protocolo de Mantenimiento Para Incubadoras de Alta Complejidad de Neonatología'
+description: Desarrollo del protocolo de mantenieminto Preventivo para incubadoras de neonatología necesario para aprobar los estandares IRAM
+publishDate: 'Dec 12 2024'
 isFeatured: true
 seo:
   image:
     src: '../../assets/images/project-3.jpg'
 ---
+<div class="post-contenido texto-pequeno">
 
-![Project preview](../../assets/images/project-3.jpg)
+### Protocolo de mantenimiento preventico para incubadora de neonatología
 
-**Note:** This case study is entirely fictional and created for the purpose of showcasing [Dante Astro.js theme functionality](https://justgoodui.com/astro-themes/dante/).
+Durante mi trabajo en el hoospital Paroissien, unos de los trabajos más comunes era la realización de mantenimientos preventivos (MP) a todos los equipos y dispositivos médicos. Para cada uno de estos (MP) es necesario tener un protocolo de chequeos que evaluen las condiciones y funcionamiento de equipo bajo los estándares requeridos.
 
-**Project Overview:**
-RoboChef Recipe Assistant is a groundbreaking mobile application that leverages artificial intelligence to redefine the cooking experience. By combining machine learning with culinary expertise, RoboChef empowers users to explore a world of flavors, improve their cooking skills, and enjoy personalized recipe recommendations.
+Para desarrollar estos protocolos de mantenimiento es necesario hacer una contrastación de los protocolos con los manuales técnicos proporcionados por el fabricante. 
+con esta información y los equipos necesarios para testearlo, se realiza una check list junto con un documento paso a paso de como realizar cada prueba.
 
-## Objectives
+<div class="img-flotante izq">
+  <img src="/src/assets/images/paroissien1.jpg" alt="hsopital 1" />
+</div>
 
-1. Develop a user-friendly mobile app that utilizes AI to provide personalized recipe suggestions based on user preferences, dietary restrictions, and available ingredients.
-2. Create an interactive cooking guide that assists users with step-by-step instructions, cooking tips, and real-time assistance.
-3. Implement a smart learning system that refines recommendations over time, adapting to users' taste preferences and dietary changes.
 
-## Features
 
-1. **AI-Powered Recipe Recommendations:**
+<div class="pdf-container" style="margin: 2rem 0;">
+  <iframe 
+    src="/formulario incubadora.pdf" 
+    width="100%" 
+    height="600px" 
+    style="border: none; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
+  </iframe>
+  <p style="text-align: center; margin-top: 10px;">
+    <a href="/formulario incubadora.pdf" download class="btn-download">
+      📥 Descargar Protocolo (PDF)
+    </a>
+  </p>
+</div>
 
-- RoboChef analyzes users' taste preferences, dietary restrictions, and ingredient availability to suggest personalized recipes.
-- Machine learning algorithms continuously learn from user interactions, refining recommendations for an increasingly tailored experience.
-
-2. **Ingredient Scanner and Inventory Management:**
-
-- Users can scan their pantry and refrigerator using the app's built-in ingredient scanner.
-- RoboChef provides recipe suggestions based on available ingredients and helps users manage their inventory by suggesting recipes that utilize soon-to-expire items.
-
-3. **Step-by-Step Cooking Guide:**
-
-- Each recipe includes a detailed step-by-step cooking guide with interactive multimedia elements.
-- Users can watch video tutorials, view images, and receive real-time tips from RoboChef as they progress through each cooking stage.
-
-4. **Nutritional Insights and Meal Planning:**
-
-- RoboChef provides nutritional information for each recipe, helping users make informed decisions about their meals.
-- The app offers meal planning features, allowing users to create weekly menus based on dietary goals and preferences.
-
-5. **Voice-Activated Assistance:**
-
-- Users can interact with RoboChef using voice commands for a hands-free cooking experience.
-- The AI assistant responds to queries, provides cooking tips, and adapts recipes based on user preferences.
-
-## Technology Stack
-
-- Frontend: Flutter for a seamless cross-platform mobile app experience.
-- Backend: Django for handling server-side logic and API integration.
-- Database: PostgreSQL for efficient data storage and retrieval.
-- AI Integration: TensorFlow for machine learning models powering recipe recommendations.
-
-> Ethan Donovan possesses a rare blend of technical expertise and creative flair. They skillfully transformed our vague ideas into a visually stunning and highly functional website. The end result exceeded our expectations, and we continue to receive compliments on the design and user experience.
-
-## Outcome
-
-RoboChef Recipe Assistant has revolutionized the way users approach cooking, making it an enjoyable and educational experience. The AI-powered features not only simplify the cooking process but also contribute to users' culinary growth, creating a personalized and evolving cooking journey.
-
-**Note:** This case study is entirely fictional and created for the purpose of showcasing [Dante Astro.js theme functionality](https://justgoodui.com/astro-themes/dante/).
+</div>

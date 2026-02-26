@@ -1,50 +1,106 @@
 ---
-title: 'Essential Security Measures Every Web Developer Should Know'
-excerpt: 'Create a post on essential security practices for web developers. Cover topics such as secure coding, HTTPS implementation, and protection against common web vulnerabilities.'
-publishDate: 'October 8 2023'
-tags:
-  - Security
-  - Web
+title: 'Bioingeniero (Integral Biomedical Solutions)'
+excerpt: Reparación, mantenimiento y desarrollo de equipamineto médico e instalaciones hospitalarias.
+publishDate: 2024-02-02
+dateRange: '[Mendoza Argentina] Oct 2022 - Feb 2024'
+isFeatured: true
 seo:
   image:
-    src: '../../assets/images/post-5.jpg'
-    alt: Dark sphere
+    src: '../../assets/images/post-14.jpg'
+    alt: Abstract snow
 ---
+<div class="post-contenido texto-pequeno">
 
-![Dark sphere](../../assets/images/post-5.jpg)
+### Experiencia en la empresa Integral Biomedical Solutions
 
-**Note:** This post was created using Chat GPT to demonstrate the features of the _[Dante Astro.js theme functionality](https://justgoodui.com/astro-themes/dante/)_.
+IBS es una empresa Argentina de soluciones ingenieriles y desarrollos de equipos orientados al ambiente hospitalario. Esta empresa tiene sedes en varias provincias de Argentina y se está expandiendo tanto dentro del país como por Chile. Esta compañia básicamente soluciona cualquier problema que se presente en entornos hospitalarios o de equipamiento médico, Ya sea reparación de equipos, venta e instalación de dispositivos médicos, reparación e instalación de generadores industriales e instalaciones eléctricas para hospitales, etc.
 
-In an era dominated by digital advancements, web developers play a crucial role in shaping the online landscape. As the creators of websites and web applications, developers carry the responsibility of ensuring the security and integrity of the platforms they build. With cyber threats on the rise, implementing robust security measures is no longer an option but a necessity. Here are some fundamental security measures that every web developer should be well-versed in:
+<div class="img-flotante izq">
+  <img src="/src/assets/images/ibs1.jpeg" alt="ibs 1" />
+</div>
 
-1. **HTTPS Encryption:**
-   Implementing HTTPS (Hypertext Transfer Protocol Secure) is non-negotiable. It encrypts the data exchanged between the user's browser and the server, protecting sensitive information from eavesdroppers. Acquiring an SSL/TLS certificate is a fundamental step toward establishing a secure connection.
+Luego de unos meses trabajando en el hospital Paroissien me ofrecieron trabajar por las tardes en esta empresa que es una de las más fuertes en la región de Cuyo. En un principio trabajaba algunas tardes nada mas, ya que necesitaba tiempo para estudiar y terminar la facultad, pero una vez finalizada ya me dedique a trabajar más horas con ellos.
 
-2. **Input Validation:**
-   Unvalidated user inputs are a common entry point for security breaches. Developers should validate and sanitize all user inputs to prevent injection attacks such as SQL injection, cross-site scripting (XSS), and cross-site request forgery (CSRF).
+<div class="img-flotante der">
+  <img src="/src/assets/images/ibs2.jpg" alt="ibs 2" />
+</div>
 
-3. **Password Policies:**
-   Enforce strong password policies and consider incorporating multi-factor authentication (MFA). Encourage users to create complex passwords and regularly update them. Hash and salt passwords before storing them in databases to add an extra layer of protection.
+Lo interesante de esta empresa es que hacen de todo, cualquier problema que no puedas resolver en un hospital o un equipamiento médico, ellos lo van a solucionar. Con este tipo de filosofía nos encontramos con trabajos muy interesantes como tener que mover un Autoclave entero de un establecimiento a otro (hablo de un autoclave hospitalario, que ocupa toda una habitacion y va conectado a todos los servicios del hospital), así como también reconstruir sillones odontológicos o reparar generadores industriales que son el backup de todo un hospital.
 
-4. **Content Security Policy (CSP):**
-   CSP mitigates the risks of XSS attacks by allowing developers to define and control the sources of content that a browser can load. It helps prevent unauthorized execution of scripts and protects against other code injection attacks.
+Lo interesante de trabajar con esta empresa es que comprendí la diferencia de optimizar recursos al 200%, ya que la ganancia de la empresa esta en la optimisación máxima de cada trabajo. Así es como en ocaciones es necesario desarmar hasta la pieza más pequeña para encontrar una solución antes de comprar repuestos nuevos.
+<div class="img-flotante izq">
+  <img src="/src/assets/images/ibs3.jpg" alt="ibs 3" />
+</div>
 
-5. **Regular Software Updates:**
-   Keeping all software, including web servers, frameworks, and libraries, up-to-date is essential. Regular updates patch known vulnerabilities and strengthen the overall security of the web application.
+Este tipo de prácticas, obviamente funcionan en argentina donde el costo de los bienes es excesivamente alto en comparación con el costo de mano de obra. Obviamente que si aplicamos este tipo de soluciones en países como Australia en dónde el coste de los bienes es infimo en comparación al valor hora-hombre, la historia sería distinta.
 
-6. **Session Management:**
-   Implement secure session management practices, including unique session IDs, session timeout settings, and secure session storage. Invalidate sessions after logout to prevent session hijacking.
+<div class="img-flotante der">
+  <img src="/src/assets/images/ibs4.jpeg" alt="ibs 4" />
+</div>
 
-7. **Cross-Origin Resource Sharing (CORS):**
-   Define and enforce a proper CORS policy to control which domains can access resources on your server. This helps prevent cross-origin attacks and enhances the overall security of the web application.
+Adaptarme a este tipo de prácticas me dió mayor conocimiento en cuanto al funcionamiento interno de muchas piezas y equipos, conocimientos que son realmente útiles a la hora de resolver problemas dónde la solución no es tan sensilla a primera vista.
 
-8. **Security Headers:**
-   Utilize HTTP security headers such as Strict-Transport-Security (HSTS), X-Content-Type-Options, X-Frame-Options, and Content-Security-Policy to enhance the security posture of the web application.
+En esta empresa también tuve que aprender a usar materiales y capaciades distintas, como por ejemplo en la reconstruccion de silones odontológicos; donde tuve que aprender a trabajar con fibra de vidrio, algunas soldaduras especificas, asi como también primers y pinturas especiales.
 
-9. **Error Handling:**
-   Customize error messages to provide minimal information to users while logging detailed error reports internally. This prevents attackers from exploiting potential vulnerabilities by gaining insights into the system.
 
-10. **Regular Security Audits and Testing:**
-    Conduct thorough security audits and penetration testing regularly. Identify and address vulnerabilities before they can be exploited. Automated tools and manual testing should be part of the security testing process.
+</div>
 
-By incorporating these security measures into their development practices, web developers can contribute to the creation of safer and more resilient online experiences. As the digital landscape evolves, staying informed about emerging threats and best practices is crucial for maintaining the security of web applications.
+<style>
+  .post-contenido {
+    width: 100%;
+    display: block;
+    font-size: 0.9rem;
+    line-height: 1.6;
+    color: #444;
+    text-align: justify;
+  }
+
+  /* Estilo general para las imágenes flotantes */
+  .img-flotante {
+    max-width: 250px;
+    margin-bottom: 15px;
+  }
+
+  .img-flotante img {
+    width: 100% !important;
+    height: auto !important;
+    border-radius: 6px;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+  }
+
+  /* Clases para alternar lados */
+  .izq {
+    float: left;
+    margin-right: 20px;
+  }
+
+  .der {
+    float: right;
+    margin-left: 20px;
+  }
+
+  /* Sangría a los párrafos */
+  .post-contenido p {
+    text-indent: 30px;
+    margin-bottom: 1.2rem;
+  }
+
+  /* Limpieza de floats */
+  .post-contenido::after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+
+  /* Ajuste para móviles: las imágenes se centran y ocupan todo el ancho */
+  @media (max-width: 600px) {
+    .img-flotante {
+      float: none !important;
+      margin: 0 auto 20px auto !important;
+      max-width: 100%;
+    }
+    .post-contenido p {
+      text-indent: 20px;
+    }
+  }
+</style>

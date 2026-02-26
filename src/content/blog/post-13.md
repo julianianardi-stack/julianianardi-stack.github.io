@@ -1,53 +1,104 @@
 ---
-title: 'A Guide to Web Performance Metrics'
-excerpt: Dive deep into web performance metrics, including tools and techniques for measuring and optimizing loading times. Discuss the significance of metrics like First Contentful Paint, Time to Interactive, and more.
-publishDate: 'Jan 03 2024'
-tags:
-  - Web
-  - Guide
+title: 'Biomedical engineer (ARDEN Australia)'
+excerpt: 'Reparación y mantenimiento de equipamiento médico, esterilización y lavandería industrial.'
+publishDate: 2026-02-04
+dateRange: '[Mackay Australia] Ago 2025 - Feb 2026'
 isFeatured: true
 seo:
   image:
-    src: '../../assets/images/post-13.jpg'
-    alt: Abstract snow
+    src: '../../assets/images/arden1.jpg'
+    alt: ARDEN Australia
 ---
 
-![Abstract snow](../../assets/images/post-13.jpg)
+<div class="post-contenido texto-pequeno">
 
-**Note:** This post was created using Chat GPT to demonstrate the features of the _[Dante Astro.js theme functionality](https://justgoodui.com/astro-themes/dante/)_.
+### Experiencia en ARDEN
 
-In the ever-evolving landscape of the internet, user expectations for fast and responsive websites continue to rise. **Web performance is a critical factor** that directly impacts user experience, search engine rankings, and overall business success. To ensure your website meets these expectations, it's essential to understand and optimize key web performance metrics. In this guide, we'll explore some crucial metrics and offer insights on how to improve them.
+<div class="img-flotante izq">
+  <img src="/src/assets/images/arden1.jpg" alt="ARDEN Australia" />
+</div>
 
-> Web performance is user experience. It's not just about faster pages; it's about creating a smoother, more enjoyable journey for your visitors.
+Arden es una empresa local de Mackay, la cual tenía  a cargo principalmente el service y reparación de equipos médicos de baja complejidad asi como también la reparación de equipos de esterilización (autoclaves, lavadoras, etc). Pero esta empresa era una compañia "comodin", ya que enrealidad le encargaban todo tipo de reparaciones que ningún otra empresa podía o quería hacer; desde reparaciones mecánicas en tractores de jardineria o maquinas indutriales de lavandería, hasta reparaciones en equipos muy complejos como autoclaves o equipos de refrigeración.
 
-## Page Load Time
+<div class="img-flotante der">
+  <img src="/src/assets/images/arden2.jpg" alt="autoclave" />
+</div>
 
-Page load time is the total time it takes for a web page to fully load. This metric is a cornerstone of web performance, as users tend to abandon slow-loading sites. Google, in particular, considers page speed as a ranking factor for search results. To optimize page load time, consider compressing images, leveraging browser caching, and minimizing HTTP requests.
+Cuando ellos me contactan para ofrecerme trabajo, era porque estaban haciendo demasiados trabajos complejos en autoclaves y estaban empezando a llegar trabajos de reparaciones electrónicas en equipos médicos que no podian afrontar por falta de técnicos capacitados.
 
-## Time to First Byte (TTFB)
+<div class="img-flotante izq">
+  <img src="/src/assets/images/arden3.jpg" alt="lavadora esterilizacion" />
+</div>
 
-TTFB measures the time it takes for a browser to receive the first byte of data from the server. It includes the time spent on server processing, network latency, and data transfer. A low TTFB contributes to faster page load times. To improve TTFB, optimize server response times, utilize content delivery networks (CDNs), and consider server upgrades if necessary.
+Esta empresa me posibilitó la ampliación de mi campo de conocimiento, ya que en un principio solo me dedicaba a reparar placas y dispositivos electrónicos juntos con autoclaves y equipos de esterilización (en donde tengo mayor experiencia); pero con el tiempo, el dueño de la empresa se dió cuenta de que tenia conocimientos en mecánica y él estaba desbordado de trabajo para poder hacerle frente a todos los requerimientos.
 
-## Render Time
+<div class="img-flotante izq">
+  <img src="/src/assets/images/arden4.jpg" alt="quirofano" />
+</div>
 
-Render time focuses on how quickly a web page can render and display content. This metric is crucial for providing a seamless user experience. Optimize render time by minimizing render-blocking resources, optimizing CSS and JavaScript, and utilizing techniques like lazy loading for images.
+Asi fue como incursioné en reparaciones de todo tipo, en equipos industriales de lavandería, dispositivos electrónicos complejos para testear autos de carrera asi como también dispositivos de electromedicina.
 
-## Mobile Performance
 
-With the increasing prevalence of mobile users, optimizing web performance for mobile devices is paramount. Google's mobile-first indexing means that mobile performance directly influences search rankings. Ensure your website is responsive, utilize mobile-friendly design practices, and prioritize mobile performance metrics such as mobile page speed and mobile-friendliness.
+Luego de un tiempo trabajando con ellos, La multinacional Arjo compro una parte de esta empresa (incluido el contrato con sus técnicos) lo cual me obligó a mudarme con esta nueva compañia. Sin embargo continué trabajando con ARDEN como contratista externo, en donde ellos me llamaban para trabajos específicos en los que ellos no tenian los técnicos necesarios.
 
-## Resource Utilization
+</div>
 
-Monitoring resource utilization involves tracking how efficiently your website uses server resources, such as CPU and memory. Overloaded servers can lead to slower response times and degraded user experience. Regularly audit and optimize your website's code, databases, and server configurations to ensure efficient resource utilization.
+<style>
+  .post-contenido {
+    width: 100%;
+    display: block;
+    font-size: 0.9rem;
+    line-height: 1.6;
+    color: #444;
+    text-align: justify;
+  }
 
-## Conversion Rate and Bounce Rate
+  /* Estilo general para las imágenes flotantes */
+  .img-flotante {
+    max-width: 250px;
+    margin-bottom: 15px;
+  }
 
-Web performance directly affects user engagement and conversion rates. Slow-loading pages can result in higher bounce rates and lower conversion rates. Use tools like Google Analytics to track user behavior, analyze bounce rates, and identify pages that may need performance improvements.
+  .img-flotante img {
+    width: 100% !important;
+    height: auto !important;
+    border-radius: 6px;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+  }
 
-## Web Vitals
+  /* Clases para alternar lados */
+  .izq {
+    float: left;
+    margin-right: 20px;
+  }
 
-Google's Web Vitals initiative introduced three core metrics – Largest Contentful Paint (LCP), First Input Delay (FID), and Cumulative Layout Shift (CLS). These metrics focus on key aspects of user experience, including loading performance, interactivity, and visual stability. Aim to optimize these metrics to enhance overall user satisfaction and meet Google's performance expectations.
+  .der {
+    float: right;
+    margin-left: 20px;
+  }
 
-## Conclusion
+  /* Sangría a los párrafos */
+  .post-contenido p {
+    text-indent: 30px;
+    margin-bottom: 1.2rem;
+  }
 
-Prioritizing web performance metrics is essential for creating a positive user experience, improving search engine rankings, and achieving business goals. Regularly monitor and optimize these metrics to ensure your website not only meets but exceeds user expectations in an ever-competitive online environment. By implementing best practices and staying informed about evolving performance standards, you can future-proof your website and provide a seamless experience for your visitors.
+  /* Limpieza de floats */
+  .post-contenido::after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+
+  /* Ajuste para móviles: las imágenes se centran y ocupan todo el ancho */
+  @media (max-width: 600px) {
+    .img-flotante {
+      float: none !important;
+      margin: 0 auto 20px auto !important;
+      max-width: 100%;
+    }
+    .post-contenido p {
+      text-indent: 20px;
+    }
+  }
+</style>

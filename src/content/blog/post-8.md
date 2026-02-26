@@ -1,86 +1,103 @@
 ---
-title: 'Unveiling the Magic: Exploring the Latest CSS Features'
-excerpt: 'Highlight and explain the newest CSS features or updates. Include examples and demonstrate how these features can enhance the styling and layout of web pages.'
-publishDate: 'October 11 2023'
-tags:
-  - CSS
-  - Web development
+title: 'Farm Hand (Keringa Angus)'
+excerpt: Mantenieminto del campo, manejo de tractores y maquinaria agrícola, alimentación del ganado y reparación de maquinaria
+publishDate: 2024-05-01
+dateRange: '[South Australia, Australia] Feb 2024 - may 2024'
 isFeatured: true
 seo:
   image:
-    src: '../../assets/images/post-8.jpg'
-    alt: Light lines on a dark background
+    src: '../../assets/images/post-14.jpg'
+    alt: Abstract snow
 ---
 
-![Light lines on a dark background](../../assets/images/post-8.jpg)
+<div class="post-contenido texto-pequeno">
 
-**Note:** This post was created using Chat GPT to demonstrate the features of the _[Dante Astro.js theme functionality](https://justgoodui.com/astro-themes/dante/)_.
+### Experiencia en Keringa Angus Farm
 
-CSS, the styling powerhouse of the web, is constantly evolving to meet the demands of modern web development. In the ever-expanding landscape of front-end technologies, staying abreast of the latest CSS features is crucial for creating sleek, responsive, and visually stunning websites. Let's take a deep dive into some of the most exciting and powerful CSS features that have emerged in recent times.
+Keringa Angus fué el primer trabajo que tuve al llegar a Australia. Esta empresa era una productora de ganado con mas de 16.000Ha en las cuales no solo criaban vacas, sino que en temporada de lluvia, tambien sembraban el alimento que les daban.
 
-## 1. Grid Layouts for Responsive Design
+<div class="img-flotante izq">
+  <img src="/src/assets/images/farm1.jpg" alt="farm 1" />
+</div>
 
-CSS Grid Layout has been a game-changer in web design, allowing developers to create complex layouts with ease. It provides a two-dimensional grid system, enabling precise control over both rows and columns. This feature is especially valuable for responsive design, as it facilitates the creation of flexible and dynamic page structures.
+Al llegar a Australia, tenía que realizar 3 meses trabajando en farm para extender mi visa. Asi fué como encontré este trabajo al otro lado del continente, dónde nos tuvimos que mudar al medio de la nada, a 2 hs del pueblo más cercano y quedarnos trabajando alli el resto de la extensión.
 
-```css
-.container {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-  gap: 20px;
-}
-```
+<div class="img-flotante der">
+  <img src="/src/assets/images/farm2.jpeg" alt="farm 2" />
+</div>
 
-## 2. Custom Properties (CSS Variables)
+Lo interesante de este trabajo es que yo nunca antes había trabajado en el campo, ni con vacas y mucho menos manejado tractores o cosas similires. En este trabajo aprendí mucho de este mundo y lo sacrificado que es la vida de los productores.
+<div class="img-flotante izq">
+  <img src="/src/assets/images/farm3.webp" alt="farm 3" />
+</div>
 
-Custom properties, or CSS variables, bring a new level of flexibility and maintainability to stylesheets. They allow you to define reusable values and apply them throughout your CSS, making it easier to update styles consistently across a project.
+Durante mi experiencia aquí, tuve que aprender a manejar todo tipo de maquinaria agricola (ya sea para alimentar vacas o para semabrar), aprendi a hacer fencing, a convivir con el frio y aislado de la ciudad. Definitivamente fué un gran aprendizaje y una buena manera de arrancar este viaje. 
 
-```css
-:root {
-  --primary-color: #3498db;
-}
+<div class="img-flotante der">
+  <img src="/src/assets/images/farm4.jpg" alt="farm 4" />
+</div>
 
-.button {
-  background-color: var(--primary-color);
-}
-```
+Con el tiempo, los jefes empezaron a tener algunos problemas con la maquinaria en la etapa de siembra y me pidieron ayuda para ver si podiamos poner en marcha la maquinaria necesaria para empezar lo antes posible. En este punto me tocó investigar  y resolver problemas eléctricos con sistemas de embriagues de tractores, arreglar sistemas de cámaras que se usasn para  monitorear las tolbas con las semillas, asi como también reparar drones que usaban para el monitoreo aereo de los paddoks.
 
-## 3. Dark Mode Styling
+Oviamente en nuestros tiempos libres no había mucho para hacer en la farm por lo que usaba las herrameintas que había y los materiales que encontraba tirados para hacer algun que otro proyecto personal, como la parrilla que me acompañó mis dos años en australia y que tantas alegrias me dió.
+</div>
 
-With the rise of dark mode preferences among users, CSS has adapted to provide better support for this feature. The `prefers-color-scheme` media query allows developers to adjust styles based on the user's preferred color scheme.
-
-```css
-@media (prefers-color-scheme: dark) {
-  body {
-    background-color: #1a1a1a;
-    color: #ffffff;
+<style>
+  .post-contenido {
+    width: 100%;
+    display: block;
+    font-size: 0.9rem;
+    line-height: 1.6;
+    color: #444;
+    text-align: justify;
   }
-}
-```
 
-### 4. Scroll Snap for Smooth Navigation
+  /* Estilo general para las imágenes flotantes */
+  .img-flotante {
+    max-width: 250px;
+    margin-bottom: 15px;
+  }
 
-Scroll Snap enhances the user experience by providing a smooth scrolling effect. It allows you to define specific points within a container to which the scroll should snap, creating a more polished and user-friendly interface.
+  .img-flotante img {
+    width: 100% !important;
+    height: auto !important;
+    border-radius: 6px;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+  }
 
-```css
-.container {
-  scroll-snap-type: y mandatory;
-}
+  /* Clases para alternar lados */
+  .izq {
+    float: left;
+    margin-right: 20px;
+  }
 
-.section {
-  scroll-snap-align: start;
-}
-```
+  .der {
+    float: right;
+    margin-left: 20px;
+  }
 
-### 5. Responsive Typography with Clamp()
+  /* Sangría a los párrafos */
+  .post-contenido p {
+    text-indent: 30px;
+    margin-bottom: 1.2rem;
+  }
 
-The `clamp()` function is a powerful addition for achieving responsive typography. It allows you to set a font size that is responsive within a specified range, ensuring readability across various screen sizes.
+  /* Limpieza de floats */
+  .post-contenido::after {
+    content: "";
+    display: table;
+    clear: both;
+  }
 
-```css
-h1 {
-  font-size: clamp(2rem, 5vw, 4rem);
-}
-```
-
-## Conclusion
-
-As web development continues to evolve, staying informed about the latest CSS features is essential for creating modern and user-friendly interfaces. These features empower developers to build more responsive, visually appealing, and accessible websites. Incorporating these tools into your workflow will not only enhance your development process but also contribute to a richer and more engaging web for users around the globe. Happy coding!
+  /* Ajuste para móviles: las imágenes se centran y ocupan todo el ancho */
+  @media (max-width: 600px) {
+    .img-flotante {
+      float: none !important;
+      margin: 0 auto 20px auto !important;
+      max-width: 100%;
+    }
+    .post-contenido p {
+      text-indent: 20px;
+    }
+  }
+</style>

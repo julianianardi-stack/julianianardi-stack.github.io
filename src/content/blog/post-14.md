@@ -1,67 +1,94 @@
 ---
-title: Your Roadmap to Framework Selection Success
-excerpt: Choosing the right framework for your web project is a critical decision that can significantly impact the development process and the success of your project. With so many options available, it's essential to consider various factors before making a choice.
-publishDate: 'Jan 11 2024'
+title: 'Biomedical engineer (Arjo Australia)'
+excerpt: Reparación y mantenimiento de equipamiento médico y dispositivos de rehabilitación para pacientes.
+publishDate: 2026-02-06
+dateRange: '[Mackay Australia] Sep 2025 - Feb 2026'
 isFeatured: true
-tags:
-  - Web
-  - Guide
 seo:
   image:
     src: '../../assets/images/post-14.jpg'
-    alt: Wavy lines
+    alt: Abstract snow
 ---
 
-![Wavy lines](../../assets/images/post-14.jpg)
+### Experiencia en ARJO
 
-**Note:** This post was created using Chat GPT to demonstrate the features of the _[Dante Astro.js theme functionality](https://justgoodui.com/astro-themes/dante/)_.
+  Arjo es una empresa multinacional con presencia en Asia, Europa, Norte América y Oceanía; la cual fabrica equipamiento de soporte médico como elevadores para pacientes, camas ortopédicas inteligentes, entre otros.
 
-**Choosing the right framework** for your web project is a critical decision that can significantly impact the development process and the success of your project. With so many options available, it's essential to consider various factors before making a choice. Here's a step-by-step guide on how to choose the right framework for your web project.
+  <div class="img-flotante izq">
+  <img src="/src/assets/images/post-14.jpg" alt="mesa de cirugia" />
+  </div> 
+  En esta empresa desempeñé el rol de Técnico de campo en donde debía realizar el manteniemiento y reparación tanto de equipamiento propio de la empresa como de euquipo de terceros, ya que eramos el único servicio técnico en mackay y alrededores capáz de resolver problemas técnicos con los equipos médicos. (Mackay es un pueblo minero en el noreste de Australia que está a más de 12 horas en auto de la capital Brisbane y con poca frecuencia de vuelo. Es por esta razon que es muy dificil encontrar lo que ellos llaman técnicos on site que puedan reparar o resolver en el momento).
 
-> Web frameworks are the architectural blueprints that empower developers to build the digital landscapes of tomorrow.
+  Dada esta situación en el pueblo, nosotros estabamos encargados de resolver la mayor cantidad de "Brakedowns" en los hospitales y centros de cuidados de día allí.
 
-## Understand Your Project Requirements
+  El estilo de trabajo aqui era muy interesante ya que tenía que viajar de hospital en hospital y en pueblos de toda la zona (en ocaciones debía manejar mas de 5hs para llegar al pueblo de destino) con mi van cargada de Herramientas  y repuestos que me permitieran resolver cualquier problema que me encuentre al llegar a cada establecimiento.
 
-Start by thoroughly understanding the specific requirements of your web project. Consider factors such as the project's scope, complexity, and the features you need. Ask questions like:
+  <div class="img-flotante izq">
+  <img src="/src/assets/images/arjo1.jpg" alt="van de arjo" />
+  </div> 
 
-- What is the project's purpose?
-- What are the key functionalities it should have?
-- Are there any specific technical or performance requirements?
+  Con este estilo de trabajo aprendí a resolver lo máximo posible con los medios que teniamos. es importante mencionar que estuve trabajando en un país al otro lado del mundo, en el que se habla otro idioma, con vocabulario técnico, en pueblos del interior, en donde muchas veces la comunicación era una barrera a superar.
 
-## Define Your Tech Stack
+  En esta empresa, se trabajaba por objetivos y yo era al el encargado de manejar mis tiempos y soluciones. Aprendí a administrar mis tiempos y responder ante el cliente con soluciones que fueran acorde a sus necesidades apuntando al trabajo de mayor calidad posible.
 
-Determine your preferred technology stack. This includes choices for the frontend (HTML, CSS, JavaScript), backend (programming language, database), and any other technologies you plan to use. Your framework should align with your chosen tech stack.
+</div>
 
-## Consider Your Team's Expertise
+<style>
+  .post-contenido {
+    width: 100%;
+    display: block;
+    font-size: 0.9rem;
+    line-height: 1.6;
+    color: #444;
+    text-align: justify;
+  }
 
-Assess the skills and expertise of your development team. Choose a framework that your team is comfortable with or is willing to learn. If your team is experienced in a particular language or framework, it may be more efficient to stick with what they know.
+  /* Estilo general para las imágenes flotantes */
+  .img-flotante {
+    max-width: 250px;
+    margin-bottom: 15px;
+  }
 
-## Community and Ecosystem
+  .img-flotante img {
+    width: 100% !important;
+    height: auto !important;
+    border-radius: 6px;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+  }
 
-The strength and vitality of a framework's community and ecosystem are paramount considerations when making your choice. A thriving community signifies that the framework is actively used and supported by developers worldwide. Here's why this matters.
+  /* Clases para alternar lados */
+  .izq {
+    float: left;
+    margin-right: 20px;
+  }
 
-> Good code is its own best documentation. As you're about to add a comment, ask yourself, 'How can I improve the code so that this comment isn't needed? - **Steve McConnell**
+  .der {
+    float: right;
+    margin-left: 20px;
+  }
 
-**Support and Problem Solving:** A robust community ensures that you won't be left in the dark when you encounter issues or challenges during development. It's a vast network of developers who are willing to help and share their knowledge. You can turn to forums, Stack Overflow, GitHub discussions, and various online communities for assistance. The more active the community, the faster you're likely to get answers and solutions to your problems.
+  /* Sangría a los párrafos */
+  .post-contenido p {
+    text-indent: 30px;
+    margin-bottom: 1.2rem;
+  }
 
-**Third-Party Libraries and Plugins:** An active ecosystem often means a wealth of third-party libraries, plugins, and extensions that can extend the functionality of your chosen framework. This can significantly speed up development by providing pre-built solutions for common features and functionalities.
+  /* Limpieza de floats */
+  .post-contenido::after {
+    content: "";
+    display: table;
+    clear: both;
+  }
 
-**Continuous Improvement:** A large and engaged community usually translates to continuous improvement of the framework. Developers are more likely to contribute bug fixes, enhancements, and new features, leading to faster updates and a more stable platform. These contributions keep the framework up-to-date and aligned with industry standards.
-
-**Tutorials and Learning Resources:** A thriving community often generates a plethora of tutorials, blog posts, video courses, and documentation. This abundance of learning resources can be immensely valuable for both beginners and experienced developers looking to master the framework. It makes the learning curve smoother and promotes the adoption of best practices.
-
-**Long-Term Viability:** A framework with a strong community is more likely to have a longer lifespan. It's reassuring to know that the framework you choose today will still be supported and updated in the years to come, reducing the risk of your project becoming obsolete due to a lack of maintenance.
-
-## Documentation and Learning Resources
-
-Check the quality and availability of documentation and learning resources for the framework. Well-documented frameworks are easier for developers to learn and work with.
-
-## Scalability and Performance
-
-Consider whether the framework can scale to meet your project's future needs. Will it handle increased traffic and data without performance bottlenecks?
-
-## Security
-
-Security is crucial for any web project. Ensure that the framework has security features built in and is actively maintained to address security vulnerabilities promptly.
-
-In conclusion, choosing the right framework for your web project involves a careful evaluation of your project's requirements, your team's expertise, community support, and various technical factors. Taking the time to make an informed decision at the outset can save you time, resources, and headaches as your project progresses.
+  /* Ajuste para móviles: las imágenes se centran y ocupan todo el ancho */
+  @media (max-width: 600px) {
+    .img-flotante {
+      float: none !important;
+      margin: 0 auto 20px auto !important;
+      max-width: 100%;
+    }
+    .post-contenido p {
+      text-indent: 20px;
+    }
+  }
+</style>

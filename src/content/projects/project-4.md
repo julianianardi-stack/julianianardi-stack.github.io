@@ -1,61 +1,97 @@
 ---
-title: 'NeuralPlaylist - AI Generated Music Recommendations'
-description: Leveraging advanced algorithms and machine learning, NeuralPlaylist crafts personalized music recommendations based on users' preferences, moods, and even biometric data.
-publishDate: 'Oct 19 2023'
+title: 'Sistema Integral de Sensado Para Incubadoras de Neonatología'
+description: Sistema de sensado térmico en 5 puntos de una incubadora de neonatología para determinar el cumplimiento de los estándares IRAM.
+publishDate: 'jul 19 2025'
 seo:
   image:
     src: '../../assets/images/project-4.jpg'
 ---
+<div class="post-contenido texto-pequeno">
 
-![Project preview](../../assets/images/project-4.jpg)
+### Neotermómetro
 
-**Note:** This case study is entirely fictional and created for the purpose of showcasing [Dante Astro.js theme functionality](https://justgoodui.com/astro-themes/dante/).
+Este fué un dispositivo que desarrollé durante mis años trabajando en el hospital paroissien, donde no siempre teníamos acceso a todas las herramientas necesarias para realizar los mantenimientos preventivos a todos los equipos médicos.
 
-**Project Overview:**
-NeuralPlaylist is a cutting-edge web application that redefines music discovery through the power of artificial intelligence. Leveraging advanced algorithms and machine learning, NeuralPlaylist crafts personalized music recommendations based on users' preferences, moods, and even biometric data.
+Uno de los casos fué el de las incubadoras para neonatología, las cuales entre los chequeos que se dében realizar es la temperatura de la incubadora en 5 puntos diferentes de ella a diferente altura y el tiempo que la incubadora llega en todos estos puntos a la temperatura deseada.
 
-## Objectives
+Fué asi que con un esp 32, 4 sensores de temperatura ...., un display y el diseño en impresión 3D de soportes para los mismos; desarrollé un sistema capáz de realizar este sensado en 5 puntos a la vez y graficar con respecto al tiempo la evolución de la temperatura en la incubadora.
 
-1. Develop an intuitive and user-friendly web application that utilizes AI to curate personalized music playlists for users.
-2. Implement machine learning models that analyze user behavior, preferences, and physiological responses to create dynamic and context-aware music recommendations.
-3. Provide an immersive and interactive platform that enhances the music listening experience and introduces users to new genres and artists.
+Obviamente para este desarrollo es necesario tener concimientos tanto de electrónica como de Arduino, para poder construir el dispositivo
+<div class="img-flotante izq">
+  <img src="/src/assets/images/paroissien1.jpg" alt="hsopital 1" />
+</div>
 
-## Features
+<div class="img-flotante der">
+  <img src="/src/assets/images/paroissien2.jpg" alt="hospital 2" />
+</div>
 
-1. **Biometric Mood Analysis:**
+<div class="img-flotante izq">
+  <img src="/src/assets/images/paroissien3.jpeg" alt="hospital 3" />
+</div>
 
-- NeuralPlaylist incorporates biometric data analysis to understand users' moods and emotional states.
-- The AI algorithms use facial recognition and heart rate data to curate playlists that match users' current emotional states.
+<div class="img-flotante der">
+  <img src="/src/assets/images/paroissien4.jpg" alt="hospital 4" />
+</div>
 
-2. **Personalized Playlists:**
 
-- Users receive dynamic and highly personalized playlists based on their music history, preferences, and contextual factors.
-- NeuralPlaylist adapts to users' evolving tastes, introducing them to new genres and artists that align with their musical journey.
+</div>
 
-3. **Context-Aware Recommendations:**
+<style>
+  .post-contenido {
+    width: 100%;
+    display: block;
+    font-size: 0.9rem;
+    line-height: 1.6;
+    color: #444;
+    text-align: justify;
+  }
 
-- The application takes into account contextual factors such as time of day, weather, and location to tailor music recommendations.
-- Users receive playlists suited for specific occasions, moods, and environments.
+  /* Estilo general para las imágenes flotantes */
+  .img-flotante {
+    max-width: 250px;
+    margin-bottom: 15px;
+  }
 
-4. **Collaborative Playlists:**
+  .img-flotante img {
+    width: 100% !important;
+    height: auto !important;
+    border-radius: 6px;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+  }
 
-- NeuralPlaylist encourages social interaction by allowing users to create and share collaborative playlists with friends.
-- Friends can contribute to the playlist, creating a shared musical experience that adapts to the collective preferences of the group.
+  /* Clases para alternar lados */
+  .izq {
+    float: left;
+    margin-right: 20px;
+  }
 
-5. **Real-Time Feedback Integration:**
+  .der {
+    float: right;
+    margin-left: 20px;
+  }
 
-- Users can provide real-time feedback on song selections, allowing the AI to continuously refine recommendations.
-- The system learns from user interactions to enhance the accuracy of future music suggestions.
+  /* Sangría a los párrafos */
+  .post-contenido p {
+    text-indent: 30px;
+    margin-bottom: 1.2rem;
+  }
 
-## Technology Stack
+  /* Limpieza de floats */
+  .post-contenido::after {
+    content: "";
+    display: table;
+    clear: both;
+  }
 
-- Frontend: Vue.js for a dynamic and responsive user interface.
-- Backend: Flask for handling server-side logic and API integration.
-- Database: MongoDB for efficient storage and retrieval of user and music data.
-- AI Integration: PyTorch for developing machine learning models for music recommendation and biometric analysis.
-
-## Outcome
-
-NeuralPlaylist has redefined the music listening experience by harnessing the power of AI to provide users with hyper-personalized and context-aware playlists. The application not only adapts to users' musical preferences but also introduces them to new and exciting musical journeys based on their emotions and surroundings.
-
-**Note:** This case study is entirely fictional and created for the purpose of showcasing [Dante Astro.js theme functionality](https://justgoodui.com/astro-themes/dante/).
+  /* Ajuste para móviles: las imágenes se centran y ocupan todo el ancho */
+  @media (max-width: 600px) {
+    .img-flotante {
+      float: none !important;
+      margin: 0 auto 20px auto !important;
+      max-width: 100%;
+    }
+    .post-contenido p {
+      text-indent: 20px;
+    }
+  }
+</style>

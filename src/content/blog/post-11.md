@@ -1,72 +1,94 @@
 ---
-title: The Ultimate Front-End Developer Career Roadmap
-excerpt: Are you interested in embarking on a rewarding career as a front-end developer or looking to advance your existing skills in this dynamic field?
-publishDate: 'Dec 15 2023'
-tags:
-  - Web
-  - Guide
+title: 'Low voltage Technician (Battery world)'
+excerpt: Venta, instalación y reparación de sistemas de bajo voltaje (12v - 24v) para autos, motor homes y barcos.
+publishDate: 2025-02-01
+dateRange: '[Sunshine coast, Australia] sep 2024 - mar 2025'
+isFeatured: true
 seo:
   image:
-    src: '../../assets/images/post-11.jpg'
-    alt: Empty road into the Horizon
+    src: '../../assets/images/post-14.jpg'
+    alt: Abstract snow
 ---
 
-![Empty road into the Horizon](../../assets/images/post-11.jpg)
+<div class="post-contenido texto-pequeno">
 
-**Note:** This post was created using Chat GPT to demonstrate the features of the _[Dante Astro.js theme functionality](https://justgoodui.com/astro-themes/dante/)_.
+### Experiencia en Battery World
 
-Are you interested in embarking on a rewarding career as a front-end developer or looking to advance your existing skills in this dynamic field? Front-end development is an exciting and ever-evolving realm of the tech industry, and to succeed, having a well-defined roadmap can make all the difference. In this post, we'll provide you with "The Ultimate Front-End Developer Career Roadmap" to guide you through the journey from a beginner to an expert.
 
-## Stage 1: Getting Started
+Battery world es una franquicia Australiana que vende e instala todo tipo de soluciones con baterias, ya sea para autos, barcos, motorhomes o casas.
 
-**Learn HTML, CSS, and Basic JavaScript:** Begin your journey by mastering the fundamentals. Understand how HTML, CSS, and JavaScript work together to create web pages.
+<div class="img-flotante izq">
+  <img src="/src/assets/images/battery1.jpg" alt="battery1" />
+</div>
 
-**Create Simple Websites:** Practice by building basic websites and web pages. Get comfortable with the structure and layout.
 
-**Version Control:** Learn the basics of version control with Git and GitHub to track changes in your code.
+Este trabajo fué mi primer gran desafío con el idioma ya que tenia que atender clientes que llegaban al negocio con algún problema o buscando algún producto, y yo teníia que explicarles cual era la mejor solución que se me ocurria. Todo esto era obviamente en inglés, lo cual me ayudo mucho al desarrollo del lenguaje.
 
-**Responsive Web Design:** Understand the principles of responsive design to make your websites look great on all devices.
+El trabajo en este local concistia principalmente en la venta de baterias y asociados como, páneles solares, gestores de carga DC-DC, cargadores 220-DC y todo tipo de productos relacionados con las baterias.
 
-## Stage 2: Building a Solid Foundation
+Trabajando para esta compañía, obviamente tuve que realizar cursos de batereología y aprender a fondo los distintos tipos de quimicas que puede tener una bateria, como funcionan, cuales son los métodos de carga y por que. Ésta es un area en la que nunca había incursionado y la cual me gustó aprender. También tuve que aprender a usar scanners automotrices para realizar cambios de baterias en autos modernos y borrar codigos de error que aparecen luego de hacerlo.
+<div class="img-flotante der">
+  <img src="/src/assets/images/battery2.jpeg" alt="battery2" />
+</div>
+En este trabajo tenía tambien 2 tareas muy divertidas para mi, la primera era recibir llamados telefonicos de gente que tenía algún problema con el vehículo o barco y yo tenia que ir en la camioneta de la empresa a solucionarlo en la ruta o en el puerto. El otro trbajo divertido era atender a los backpacker que vivian en vans. En Sunshine Coast hay una gran comunidad de gente, muchos de habla hispana, que viven en vans y generalmente tienen sistemas de baterias auxiliares muy precarios. Como generalmente estas personas no tienen los conocimientos o el inglés técnico necesario para explicar los problemas que precentan sus sistemas de baterias, se había hecho famoso el lugar porque un argentino trabajaba allí y podía entenderlos y solucionar esos problemas.
+</div>
 
-**Advanced JavaScript:** Dive deeper into JavaScript, learning about ES6 features, asynchronous programming, and the DOM (Document Object Model).
+<style>
+  .post-contenido {
+    width: 100%;
+    display: block;
+    font-size: 0.9rem;
+    line-height: 1.6;
+    color: #444;
+    text-align: justify;
+  }
 
-**CSS Preprocessors:** Explore CSS preprocessors like SASS or LESS to streamline your stylesheets.
+  /* Estilo general para las imágenes flotantes */
+  .img-flotante {
+    max-width: 250px;
+    margin-bottom: 15px;
+  }
 
-**Learn a Front-End Framework:** Start with a framework like Tailwind CSS to enhance your website-building capabilities.
+  .img-flotante img {
+    width: 100% !important;
+    height: auto !important;
+    border-radius: 6px;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+  }
 
-**8. Web Performance:** Study web performance optimization techniques to ensure fast-loading websites.
+  /* Clases para alternar lados */
+  .izq {
+    float: left;
+    margin-right: 20px;
+  }
 
-## Stage 3: Mastering Modern Front-End Technologies
+  .der {
+    float: right;
+    margin-left: 20px;
+  }
 
-**JavaScript Frameworks:** Learn popular front-end frameworks like React, Angular, or Vue.js.
+  /* Sangría a los párrafos */
+  .post-contenido p {
+    text-indent: 30px;
+    margin-bottom: 1.2rem;
+  }
 
-**Build Single Page Applications (SPAs):** Create interactive web applications using your chosen framework.
+  /* Limpieza de floats */
+  .post-contenido::after {
+    content: "";
+    display: table;
+    clear: both;
+  }
 
-**Package Managers:** Get comfortable with package managers like npm and yarn to manage your project dependencies.
-
-**Module Bundlers:** Explore module bundlers like Webpack or Parcel for efficient code organization.
-
-## Stage 4: Specialization and Advanced Topics
-
-**Advanced CSS:** Dive deep into CSS with techniques like Flexbox, Grid, and CSS-in-JS.
-
-**Accessibility:** Ensure your websites are accessible to all users by learning WCAG guidelines.
-
-**Performance Optimization:** Continue improving performance with advanced techniques like lazy loading and code splitting.
-
-**Testing and Debugging:** Master unit testing and debugging tools for front-end development.
-
-## Stage 5: Real-World Experience and Career Advancement
-
-**Building Projects:** Create a portfolio of real-world projects to showcase your skills.
-
-**Networking:** Attend meetups, conferences, and online communities to connect with other front-end developers.
-
-**Soft Skills:** Hone your communication and collaboration skills, as they are invaluable in a professional setting.
-
-**Job Search:** Prepare a strong resume and online portfolio. Start applying for front-end development positions or freelance opportunities.
-
-**Continuous Learning:** Stay up-to-date with the latest front-end technologies and trends. Consider advanced topics like Progressive Web Apps (PWAs) and serverless architecture.
-
-Remember, the journey of a front-end developer is continuous. The field is always evolving, and staying curious and adaptable is key to your success. The ultimate career roadmap is not a one-size-fits-all guide, but it provides a clear path to help you navigate the world of front-end development. By following this roadmap and continuously learning and improving, you can build a rewarding and successful career in this dynamic field. Good luck on your journey!
+  /* Ajuste para móviles: las imágenes se centran y ocupan todo el ancho */
+  @media (max-width: 600px) {
+    .img-flotante {
+      float: none !important;
+      margin: 0 auto 20px auto !important;
+      max-width: 100%;
+    }
+    .post-contenido p {
+      text-indent: 20px;
+    }
+  }
+</style>

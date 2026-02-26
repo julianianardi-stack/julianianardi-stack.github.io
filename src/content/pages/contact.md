@@ -1,14 +1,24 @@
 ---
-title: Get in touch
+title: Curriculum vitae
 seo:
-  title: Contact
-  description: Get in touch through email or social media! Let me know how I can help.
+  title: Resume
+  description: Resume personal
 ---
+<div style="font-size: 0.8rem;">
+Aqui tienes mi Curriculum vitae actualizado el dia 01/01/2026. Ten en cuenta que el historial laboral mostrado en este curriculum es el mas relevante para el puesto de Ingenierio Biomedico al que apunto. Hay muchos otros trabajos realizados a lo largo de mi vida en Australia asi como durante mi trayectoria estudiantil en Argentina que no se muestran aqui a fin de acortar la informacions.
 
-Thank you for reaching out! Whether you have a question, a suggestion, or just want to share your thoughts, I'm all ears. Feel free to get in touch through any of the methods below:
+Tambien ten en cuenta que los puestos de trabajo se muestran en orden cronologico y no en orden de reelevancia.
 
-_Email:_
-Feel free to drop me an email at [example@example.com](mailto:example@example.com), and I'll do my best to respond as soon as possible.
+![Curriculum hoja  1](/CV1.jpg)
+![Curriculum hoja 2](/CV2.jpg)
 
-_Social Media:_
-Connect with me on social media as well. Find me on [Twitter](https://twitter.com) or [LinkedIn](https://www.linkedin.com/).
+
+### 📄 Mi Currículum
+Puedes descargar mi CV en formato PDF haciendo clic en el siguiente enlace: [Descargar CV (PDF)](/Resume.pdf)
+
+<hr style="border: 0; height: 1px; background: #e1e1e1; margin: 2rem 0;" />
+
+### @ Email
+Por favor sentite libre de contactarme via email en [julian.ianardi@gmail.com](mailto:julian.ianardi@gmail.com)
+
+</div>

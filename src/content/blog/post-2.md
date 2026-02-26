@@ -1,70 +1,99 @@
 ---
-title: Building an Impressive Front-End Developer Portfolio
-excerpt: In the competitive world of front-end development, a strong portfolio is your ticket to showcasing your skills, making a lasting impression on potential employers or clients, and advancing your career.
-publishDate: 'October 5 2023'
-tags:
-  - Web
-  - Web development
+title: 'Venta y cordinacion de viajes estudiantiles (Upgrade)'
+excerpt: Venta y cordinacion de viajes estudiantiles a Bariloche y Brasil
+publishDate: 2018-12-01
+dateRange: '[Mendoza Argentina] Oct 2017 - Dic 2018'
+isFeatured: true
 seo:
   image:
-    src: '../../assets/images/post-2.jpg'
-    alt: Half open laptop on a desk
+    src: '../../assets/images/post-14.jpg'
+    alt: Abstract snow
 ---
+<div class="post-contenido texto-pequeno">
 
-![Half open laptop on a desk](../../assets/images/post-2.jpg)
+### Experiencia en UPGRADE
 
-**Note:** This post was created using Chat GPT to demonstrate the features of the _[Dante Astro.js theme functionality](https://justgoodui.com/astro-themes/dante/)_.
+Uprade es una empresa nacional de viajes estudiantiles, la cual organiza y ejecuta viajes tanto al interior como al exterior de Argentina. Los destinos más usuales de esta empresa son Bariloche, Camboriu y Porto. Los viajes organizados por esta empresa están dirigidos a estudiantes de último año del secundario con chicos de entre 17 y 19 años.
 
-In the competitive world of front-end development, a strong portfolio is your ticket to showcasing your skills, making a lasting impression on potential employers or clients, and advancing your career. Your portfolio is your digital business card, and it should be a reflection of your talent, creativity, and expertise. In this post, we'll walk you through the steps to create an impressive front-end developer portfolio that will help you stand out in the crowd.
+<div class="img-flotante izq">
+  <img src="/src/assets/images/upgrade1.png" alt="upgrade 1" />
+</div>
 
-## 1. Showcase a Diverse Range of Projects
+Durante mi último año del secundario me ofrecieron trabajar en esta empresa, visitando las puertas de los colegios y ofreciendo los distintos paquetes que tenian disponibles. 
 
-Your portfolio should be a testament to your versatility. Include a variety of projects that demonstrate your skills in different areas of front-end development. Consider including projects like:
+Una vez cumplidos los 18 años y ya fuera del colegio me tocó ir a coordinar viajes de egresados a Bariloche y Camboriu. La verdad que siendo tan joven y yendo como responsables de grupo, este trabajo me obligó a madurar rápidamente y a tomar muchas responsablididades que no  había tenído durante la secundaria. Estas responsabilidades no solo consistían en cuidar y hacer el viaje divertido para los pasajaeros, sino que también responder ante las exigencias y preguntas de los padres, así como dar reuniones tanto a padres como alumnos en dónde se exponía toda la informacion necesaria antes de viajar.
 
-- **Responsive Websites:** Showcase your ability to create websites that adapt seamlessly to various screen sizes and devices.
+<div class="img-flotante der">
+  <img src="/src/assets/images/upgrade3.png" alt="upgrade 2" />
+</div>
 
-- **Interactive Web Applications:** Feature web applications that engage users with dynamic features and functionalities.
+No voy a mentir, este trabajo tiene una gran parte de diversión y alegría. También hay que tener en cuenta que 10 o 12 días de viaje en dónde tienes que estar en alerta cuidando a los pasajeros y además con energía al 100% porque ellos vienen a divertirse; es una tarea dura aunque no parezca. La energía y voluntad que hay que tener para acostarte todas las noches muy tarde y levantarte temprano a seguir con actividades es realmente desgastante.
 
-- **E-commerce Websites:** If you've worked on e-commerce sites, include them to demonstrate your expertise in handling complex web development tasks.
+<div class="img-flotante izq">
+  <img src="/src/assets/images/upgrade2.png" alt="upgrade 3" />
+</div>
 
-- **Open Source Contributions:** Highlight your involvement in open-source projects or contributions to online coding communities.
+Aún asi, creo que en este trabajo maduré mucho y empecé a tener responsabilidades y resolver problemas como un adulto, transición que muchas veces no es fácil cuando salimos del colegio.
 
-## 2. Highlight Your Coding Skills
 
-Your portfolio should provide a clear view of your coding proficiency. Consider the following:
+</div>
 
-- **Clean and Organized Code:** Present your code in a clean and well-organized manner. Use proper indentation, comments, and coding standards.
+<style>
+  .post-contenido {
+    width: 100%;
+    display: block;
+    font-size: 0.9rem;
+    line-height: 1.6;
+    color: #444;
+    text-align: justify;
+  }
 
-- **Use of Version Control:** Showcase your use of version control systems like Git and GitHub to demonstrate your collaboration and code management skills.
+  /* Estilo general para las imágenes flotantes */
+  .img-flotante {
+    max-width: 250px;
+    margin-bottom: 15px;
+  }
 
-- **Code Samples:** Include snippets of code from your projects to give visitors an insight into your coding style and problem-solving abilities.
+  .img-flotante img {
+    width: 100% !important;
+    height: auto !important;
+    border-radius: 6px;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+  }
 
-## 3. Emphasize Responsive Design
+  /* Clases para alternar lados */
+  .izq {
+    float: left;
+    margin-right: 20px;
+  }
 
-As a front-end developer, responsive design is paramount. Ensure that your portfolio itself is a shining example of responsive design. It should look and function flawlessly on a variety of devices, including desktops, tablets, and smartphones.
+  .der {
+    float: right;
+    margin-left: 20px;
+  }
 
-## 4. User Experience (UX) Matters
+  /* Sangría a los párrafos */
+  .post-contenido p {
+    text-indent: 30px;
+    margin-bottom: 1.2rem;
+  }
 
-Front-end development is not just about writing code; it's about creating a great user experience. Explain your thought process behind the user interface (UI) and UX decisions you made in your projects. Discuss how you optimized performance and accessibility.
+  /* Limpieza de floats */
+  .post-contenido::after {
+    content: "";
+    display: table;
+    clear: both;
+  }
 
-## 5. Document Your Projects
-
-Accompany each project with a detailed description. Explain the project's goals, your role in it, the technologies and tools you used, and any challenges you overcame. This documentation provides context and depth to your work.
-
-## 6. Regularly Update Your Portfolio
-
-A stagnant portfolio can give the impression of inactivity or lack of progress. Regularly update your portfolio with your latest work and projects. Remove outdated or less impressive work to keep your portfolio relevant and impactful.
-
-## 7. Test and Optimize Load Times
-
-Slow-loading websites can turn visitors away. Ensure your portfolio loads quickly by optimizing images and using proper techniques to minimize load times.
-
-## 8. Seek Feedback
-
-Before finalizing your portfolio, seek feedback from peers, mentors, or online communities. Constructive criticism can help you refine your portfolio and make it even more impressive.
-
-## 9. Personalize Your Portfolio
-
-Your portfolio is not just about your work; it's also about you. Add a personal touch by including an **"About Me"** section that tells your story, your passions, and what makes you unique as a front-end developer.
-
-Remember, your front-end developer portfolio is an ongoing project. Keep refining it, stay up-to-date with the latest trends, and let it evolve as your skills and experience grow. An impressive portfolio not only serves as a testament to your abilities but also opens doors to exciting opportunities in the world of front-end development.
+  /* Ajuste para móviles: las imágenes se centran y ocupan todo el ancho */
+  @media (max-width: 600px) {
+    .img-flotante {
+      float: none !important;
+      margin: 0 auto 20px auto !important;
+      max-width: 100%;
+    }
+    .post-contenido p {
+      text-indent: 20px;
+    }
+  }
+</style>

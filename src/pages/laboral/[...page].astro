@@ -1,0 +1,30 @@
+---
+import type { GetStaticPathsOptions, Page } from 'astro';
+import { type CollectionEntry, getCollection } from 'astro:content';
+// Pagination ya no es necesario importarlo si lo borras abajo
+import PostPreview from '../../components/PostPreview.astro';
+import Subscribe from '../../components/Subscribe.astro';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { sortItemsByDateDesc } from '../../utils/data-utils';
+
+export async function getStaticPaths({ paginate }: GetStaticPathsOptions) {
+    const posts = (await getCollection('blog')).sort(sortItemsByDateDesc);
+    // Ponemos 100 para asegurar que entren todos en una sola vista
+    return paginate(posts, { pageSize: 100 });
+}
+
+type Props = { page: Page<CollectionEntry<'blog'>> };
+
+const { page } = Astro.props;
+const blog = page.data;
+---
+
+<BaseLayout title="laboral" description="Work background" showHeader={false}>
+    <h1 class="mb-12 font-serif text-2xl leading-tight italic sm:mb-16 sm:text-4xl">Recorrido laboral</h1>
+    
+    {blog.map((post) => <PostPreview post={post} class="mb-10 sm:mb-12" />)}
+    
+    {/* Hemos quitado el componente Pagination de aquí */}
+    
+    <Subscribe class="my-16 sm:my-24" /> 
+</BaseLayout>

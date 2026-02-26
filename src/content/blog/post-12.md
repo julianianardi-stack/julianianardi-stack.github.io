@@ -1,67 +1,107 @@
 ---
-title: Unleashing the Power of Tailwind CSS
-excerpt: In the ever-evolving world of web development, staying on top of the latest trends and tools is essential. One such tool that has gained immense popularity in recent years is Tailwind CSS.
-publishDate: 'Jan 02 2024'
-tags:
-  - Web
-  - Guide
-  - CSS
+title: 'Ground Technician (Freedom resort)'
+excerpt: Mantenimiento general de intalaciones, reparaciones de intalaciones eléctricas y carros de golf eléctricos
+publishDate: 2025-08-01
+dateRange: '[Airlie beach, Australia] Mar 2025 - Ago 2025'
+isFeatured: true
 seo:
   image:
-    src: '../../assets/images/post-12.jpg'
-    alt: Wind turbine
+    src: '../../assets/images/post-14.jpg'
+    alt: Abstract snow
 ---
 
-![Wind turbine](../../assets/images/post-12.jpg)
+<div class="post-contenido texto-pequeno">
 
-**Note:** This post was created using Chat GPT to demonstrate the features of the _[Dante Astro.js theme functionality](https://justgoodui.com/astro-themes/dante/)_.
+### Experiencia en FREEDOM - NORDERLIS
 
-In the ever-evolving world of web development, staying on top of the latest trends and tools is essential. One such tool that has gained immense popularity in recent years is Tailwind CSS. Tailwind CSS is not just another CSS framework; it's a utility-first framework that revolutionizes the way developers write and manage their styles. In this post, we'll explore the ins and outs of Tailwind CSS and why it's a game-changer for modern web development.
+<div class="img-flotante izq">
+  <img src="/src/assets/images/nord2.jpg" alt="NORDERLIS team" />
+</div>
 
-## What is Tailwind CSS?
+Freedom es un Eco resort que se encuentra en las costas de Airlie Beach, el cual posee no solo un hotel, sino que tiene su propio restaurant con playa propia y un predio preparado para organizar casamientos y eventos. Este es el lugar mas hermoso en el que he trabajado en mi vida. La relación trabajo-vida en este lugar es increíble, y el espacio fisico donde está localizado es alucinante, con una flora y fauna sorprendente.
 
-Tailwind CSS is a utility-first CSS framework created by Adam Wathan, Jonathan Reinink, David Hemphill, and Steve Schoger. Unlike traditional CSS frameworks like Bootstrap or Foundation, which provide pre-designed components, Tailwind CSS offers a set of utility classes that you can apply directly to HTML elements.
+<div class="img-flotante der">
+  <img src="/src/assets/images/nord3.jpeg" alt="norderlist pintura" />
+</div>
 
-## Key Features of Tailwind CSS
+A este lugar llegué con la idea de extender mi segunda visa y luego de mucha busqueda por distintos establecimientos, di con este lugar maravilloso dónde en realidad no necesitaban más gente de manteniemineto, pero luego de hablar con el jefe del equipo y ver mis ganas de trabajar con ellos, me ofreció un trabajo de pintura, en el que tenía que restaurar todos los decks y mesas de maderas del lugar. En principio fué un trabajo muy aburrido, no voy a mentir, pero fué una buena manera de volver al trabajo de oficio y a ser un miembro más del equipo que aporta con lo que puede. Después de pensarlo, me pareció una buena idea para bajar a tierra después de varios años trabajando en Argentina como ingeniero, con todas las responsabilidades que eso conlleva.
 
-1. **Modularity:** Tailwind CSS promotes a modular approach to styling. Each utility class corresponds to a specific CSS property, making it easy to compose and modify styles.
+<div class="img-flotante izq">
+  <img src="/src/assets/images/nord4.jpg" alt="norderlist reparaciones" />
+</div>
 
-2. **Customization:** Tailwind CSS is highly customizable. You can configure the framework to generate only the CSS you need, keeping your project's file size to a minimum.
+Después de dos meses pintando, mi gefe estaba teniendo problemas con lus buggies electricos con los que se transportaba todo el personal en el predio. Tenía varios vehiculos rotos y no conseguía a nadie que fuera capáz de repararlos. Despues de notar mi entuciasmo cuanto le pregunté si le podia dar una vistazo, me dejo invertir la ultima hora del dia de trabajo en ver si podia reparar alguno.
 
-3. **Responsive Design:** Tailwind CSS makes it effortless to create responsive layouts. You can apply responsive classes to elements to control their appearance on different screen sizes.
+Luego de un par de semanas y mucha investigacion logré hacer funcionar uno de ellos. A partir de este momento mi gefe me empezó a dar trabajos mucho más complejos.
 
-4. **Extensibility:** The framework can be extended using plugins, allowing you to add custom utilities or integrate with third-party libraries seamlessly.
+<div class="img-flotante der">
+  <img src="/src/assets/images/nord1.jpg" alt="reparaciones carro de golf" />
+</div>
 
-## Why Choose Tailwind CSS?
+Así fue como los ultimos dos meses en este hotel me dediqué principalmente a reparar cosas que los demás muchachos no se animaban a incursionar. Principalmente Carritos de golf e instalaciones eléctricas, pero tambien me toco arreglar tractores de podado que no funcionaban, aires acondicionados y heladera que habian sufrido subas de  tensión y se habian quemado, entre otros.
 
-1. **Rapid Development:** With Tailwind CSS, you can build user interfaces quickly. No more writing custom CSS for every component, as you can leverage pre-defined utility classes.
+En este trabajo la verdad que me gustó volver a hacer trabajos de oficio que me recuerden de donde vengo y que me gusta hacer. Esto se combinaba con un increible balance con el estilo de vida, lo cual me hacia llegar cada mañana con una sonrisa al lugar. El equipo de trabajo era pequeño pero hermoso, nos ayudabamos entre todos, nos jugabamos bromas y compartiamos tanto trabajo como cervezas al finalizar.
 
-2. **Maintainability:** The utility-first approach reduces the chances of writing redundant or conflicting styles, making your codebase cleaner and easier to maintain.
 
-3. **Consistency:** Tailwind CSS enforces a consistent design language across your project, ensuring a cohesive user experience.
 
-4. **Developer-Friendly:** Developers love Tailwind CSS for its clear and intuitive class names, which make it easy to understand and collaborate on the codebase.
+</div>
 
-## Getting Started with Tailwind CSS
+<style>
+  .post-contenido {
+    width: 100%;
+    display: block;
+    font-size: 0.9rem;
+    line-height: 1.6;
+    color: #444;
+    text-align: justify;
+  }
 
-To start using Tailwind CSS, follow these steps:
+  /* Estilo general para las imágenes flotantes */
+  .img-flotante {
+    max-width: 250px;
+    margin-bottom: 15px;
+  }
 
-1. **Installation:**
+  .img-flotante img {
+    width: 100% !important;
+    height: auto !important;
+    border-radius: 6px;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+  }
 
-Install Tailwind CSS via npm or yarn:
+  /* Clases para alternar lados */
+  .izq {
+    float: left;
+    margin-right: 20px;
+  }
 
-```
-npm install tailwindcss
-```
+  .der {
+    float: right;
+    margin-left: 20px;
+  }
 
-2. **Configuration:** Create a configuration file (usually named `tailwind.config.js`) to customize the framework's settings.
+  /* Sangría a los párrafos */
+  .post-contenido p {
+    text-indent: 30px;
+    margin-bottom: 1.2rem;
+  }
 
-3. **Integration:** Include Tailwind CSS in your project by importing it into your main CSS file and using the utility classes in your HTML.
+  /* Limpieza de floats */
+  .post-contenido::after {
+    content: "";
+    display: table;
+    clear: both;
+  }
 
-4. **Build:** Use a build tool like Webpack or PostCSS to process and generate the final CSS file.
-
-## Conclusion
-
-Tailwind CSS has emerged as a powerhouse in modern web development. Its utility-first approach, flexibility, and developer-friendly features have made it a top choice for front-end developers worldwide. Whether you're a seasoned developer looking to streamline your workflow or a newcomer seeking a versatile CSS framework, Tailwind CSS is worth exploring.
-
-As the web development landscape continues to evolve, Tailwind CSS stands as a testament to the power of innovation in simplifying and enhancing the way we build beautiful and responsive web applications. Give it a try, and you might find that it transforms the way you approach styling in your projects.
+  /* Ajuste para móviles: las imágenes se centran y ocupan todo el ancho */
+  @media (max-width: 600px) {
+    .img-flotante {
+      float: none !important;
+      margin: 0 auto 20px auto !important;
+      max-width: 100%;
+    }
+    .post-contenido p {
+      text-indent: 20px;
+    }
+  }
+</style>

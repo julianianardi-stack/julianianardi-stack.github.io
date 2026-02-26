@@ -1,58 +1,97 @@
 ---
-title: 'The Rise of Headless CMS: What You Need to Know'
-excerpt: In the ever-evolving landscape of content management systems (CMS), a new player has been gaining significant traction - the headless CMS.
-publishDate: 'Nov 14 2023'
-tags:
-  - Security
-  - UX
-  - Web
+title: 'Forklift driver (NORCO Australia)'
+excerpt: Operario de forklift tanto en exterior como dentro de la cámara de frío. Operario de linea de producción dentro de una cámara frigorífica. 
+publishDate: 2024-10-01
+dateRange: '[Gold Coast, Australia] Ago 2024 - Oct 2024'
+isFeatured: true
 seo:
   image:
-    src: '../../assets/images/post-10.jpg'
-    alt: Light straight lines
+    src: '../../assets/images/post-14.jpg'
+    alt: Abstract snow
 ---
 
-![Light straight lines](../../assets/images/post-10.jpg)
+<div class="post-contenido texto-pequeno">
 
-**Note:** This post was created using Chat GPT to demonstrate the features of the _[Dante Astro.js theme functionality](https://justgoodui.com/astro-themes/dante/)_.
+### Experiencia en NORCO
 
-In the ever-evolving landscape of content management systems (CMS), a new player has been gaining significant traction - the headless CMS. This innovative approach to content management is reshaping the way businesses deliver content across various digital channels. Let's delve into the rise of **headless CMS** and what you need to know about this transformative technology.
 
-## Understanding Headless CMS
+Norco es una fábrica y productora de productos lácteos a gran escala (abastecen todo Australia). En esta fábrica se recibían los camiones con leche directa de los productores para procesar y destinar a la venta del producto fresco, o el procesamiento del mismo para tener otros derivados lácteos.
 
-Traditional CMS solutions have been the backbone of managing and delivering content for websites and applications. However, they often come with limitations, especially when it comes to flexibility and scalability. This is where headless CMS comes into play.
+<div class="img-flotante izq">
+  <img src="/src/assets/images/norco1.jpg" alt="norco 1" />
+</div>
 
-> Headless CMS empowers content creators to think beyond the webpage, fostering a mindset where content is liberated from presentation constraints, ready to reach audiences across diverse digital touchpoints.
+Este fué un trabajo duro, permanecía entre 9 y 11 hs dentro de una cámara de frío moviendo columnas de cajones de leches (90kg cada una) para armar pallets o sacarlos de la cadena de movimiento porque iban a ser usados para otro pedido. El trabajo era muy físico asi como tambien mental, ya que tenías que ir leyendo el pedido que te correspondía armar y separarlo para despues meter esos pallets dentro de un camión.
 
-A headless CMS is fundamentally different from traditional CMS architectures. Instead of being tightly coupled with a specific frontend presentation layer, a headless CMS focuses solely on content creation and storage. The "head" or frontend layer is decoupled, allowing for more flexibility and agility in content delivery.
+<div class="img-flotante der">
+  <img src="/src/assets/images/norco2.jpg" alt="norco 2" />
+</div>
+El trabajo y el ambiente laboral no era muy lindo la verdad, pero me parecía increible el sistema de cadenas que recorrian toda la fábria para ir moviendo las torres de leche. Nosotros con un gancho y aprovechando el piso lleno de agua, arrastrabamos desde y hacia estas cadenas las pilas de cajones de leche.
 
-## Benefits of Headless CMS
+La verdad que aqui aprendi a lidiar con líderes de equipo y jefes poco amistosos. Aprendí a trabajar en un entorno muy duro de mucho ruido, mucho frío (la cámara estaba a 4°C), gente gritando todo el tiempo porque cuando habia algun accidente con alguna pila de leche caída, la persona más cercana debía precionar rápidamente el boton de emergencia para detener la cadena.
+<div class="img-flotante izq">
+  <img src="/src/assets/images/norco3.jpg" alt="norco 3" />
+</div>
 
-1. **Flexibility and Omnichannel Delivery:**
-   Headless CMS enables content to be created and stored without being tied to a specific presentation format. This flexibility allows businesses to deliver content seamlessly across various channels, including websites, mobile apps, IoT devices, and more.
+Lo bueno es que era un trabajo semi qualificado, porque neceitabas la licencisa de manejo de forklift y experiencia manejandolos. La cual yo habia adquirido en Argentina durante mi trabajo en el depósito de colchones. Esto  lo hacía un trabajo bién remunerado pero lleno de responsabilidades.
+</div>
 
-2. **Improved Developer Productivity:**
-   Developers appreciate the freedom headless CMS provides. With the separation of concerns between content creation and presentation, developers can choose the most suitable technology stack for each aspect. This leads to increased productivity and the ability to adapt to evolving technologies.
+<style>
+  .post-contenido {
+    width: 100%;
+    display: block;
+    font-size: 0.9rem;
+    line-height: 1.6;
+    color: #444;
+    text-align: justify;
+  }
 
-3. **Enhanced Performance:**
-   Since headless CMS eliminates the need for a monolithic system, the performance of your digital properties can be optimized. This is especially crucial in today's fast-paced digital landscape, where users expect instantaneous and responsive experiences.
+  /* Estilo general para las imágenes flotantes */
+  .img-flotante {
+    max-width: 250px;
+    margin-bottom: 15px;
+  }
 
-4. **Easier Content Updates:**
-   With headless CMS, content updates can be made independently of the frontend. This means that content creators can modify and publish content without waiting for developers to implement changes on the presentation layer, resulting in a more streamlined workflow.
+  .img-flotante img {
+    width: 100% !important;
+    height: auto !important;
+    border-radius: 6px;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+  }
 
-## Challenges and Considerations
+  /* Clases para alternar lados */
+  .izq {
+    float: left;
+    margin-right: 20px;
+  }
 
-While headless CMS offers numerous advantages, it's essential to be aware of potential challenges:
+  .der {
+    float: right;
+    margin-left: 20px;
+  }
 
-1. **Learning Curve:**
-   Adopting a headless CMS may require a learning curve for both content creators and developers, as it deviates from the traditional CMS model.
+  /* Sangría a los párrafos */
+  .post-contenido p {
+    text-indent: 30px;
+    margin-bottom: 1.2rem;
+  }
 
-2. **Integration Complexity:**
-   Integrating a headless CMS with existing systems and tools can be complex. However, once implemented, the flexibility it provides often outweighs the initial integration challenges.
+  /* Limpieza de floats */
+  .post-contenido::after {
+    content: "";
+    display: table;
+    clear: both;
+  }
 
-3. **Content Preview:**
-   Previewing content in the context of the final presentation can be challenging in a headless CMS. Solutions like API-based previews are emerging to address this concern.
-
-## Conclusion
-
-The rise of headless CMS marks a paradigm shift in the way organizations manage and deliver content. While it presents challenges, the flexibility, scalability, and improved developer workflows make it an attractive option for businesses looking to future-proof their digital experiences. As the digital landscape continues to evolve, staying informed about emerging technologies like headless CMS is crucial for businesses aiming to stay ahead of the curve.
+  /* Ajuste para móviles: las imágenes se centran y ocupan todo el ancho */
+  @media (max-width: 600px) {
+    .img-flotante {
+      float: none !important;
+      margin: 0 auto 20px auto !important;
+      max-width: 100%;
+    }
+    .post-contenido p {
+      text-indent: 20px;
+    }
+  }
+</style>

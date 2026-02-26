@@ -1,94 +1,86 @@
 import avatar from '../assets/images/avatar.jpg';
-import hero from '../assets/images/hero.jpg';
+import hero from '../assets/images/portada.jpg';
 import type { SiteConfig } from '../types';
 
 const siteConfig: SiteConfig = {
     website: 'https://example.com',
     avatar: {
         src: avatar,
-        alt: 'Ethan Donovan'
+        alt: 'Julian Ianardi'
     },
-    title: 'Dante',
-    subtitle: 'Minimal Astro.js theme',
-    description: 'Astro.js and Tailwind CSS theme for blog and portfolio by justgoodui.com',
+    title: 'Julian Ianardi',
+    subtitle: 'Portfolio personal',
+    description: 'Este es mi portfolio personal donde comparto mi experiencia y proyectos',
     image: {
         src: '/dante-preview.jpg',
-        alt: 'Dante - Astro.js and Tailwind CSS theme'
+        alt: 'Portfolio de Julian Ianardi'
     },
     headerNavLinks: [
         {
-            text: 'Home',
+            text: 'home',
             href: '/'
         },
         {
-            text: 'Projects',
+            text: 'Historial academico',
+            href: '/background'
+        },
+        {
+            text: 'Historial laboral',
+            href: '/laboral'
+        },
+        {
+            text: 'Desarrollos',
             href: '/projects'
         },
         {
-            text: 'Blog',
-            href: '/blog'
-        },
-        {
-            text: 'Tags',
-            href: '/tags'
+            text: 'Perfil personal',
+            href: '/history'
         }
     ],
     footerNavLinks: [
         {
             text: 'About',
-            href: '/about'
+            href: '/history'
         },
         {
             text: 'Contact',
             href: '/contact'
         },
-        {
-            text: 'Terms',
-            href: '/terms'
-        },
-        {
-            text: 'Download theme',
-            href: 'https://github.com/JustGoodUI/dante-astro-theme'
-        }
+
+
     ],
     socialLinks: [
         {
-            text: 'Dribbble',
-            href: 'https://dribbble.com/'
+            text: 'linkedin',
+            href: 'https://www.linkedin.com/in/julian-ianardi-07b403233/?locale=en_US'
         },
-        {
-            text: 'Instagram',
-            href: 'https://instagram.com/'
-        },
-        {
-            text: 'X/Twitter',
-            href: 'https://twitter.com/'
-        }
+
     ],
     hero: {
-        title: 'Hi There & Welcome to My Corner of the Web!',
-        text: "I'm **Ethan Donovan**, a web developer at Amazing Studio, dedicated to the realms of collaboration and artificial intelligence.\nMy approach involves embracing intuition, conducting just enough research, and leveraging aesthetics as a catalyst for exceptional products.\nI have a profound appreciation for top-notch software, visual design, and the principles of product-led growth.\n\nFeel free to explore some of my coding endeavors on [GitHub](https://github.com/JustGoodUI/dante-astro-theme) or follow me on [Twitter/X](https://twitter.com/justgoodui).",
+        title: 'Hola soy el Bioingeniero Julián Ianardi y te doy la bienvenida a mi rincón personal',
+        text: "Soy un ingeniero de campo apasionado por la tecnología y la búsqueda de soluciones. Me encanta aprender cosas nuevas, investigar como funciona todo y encontrar soluciones u optimizar procesos. En esta página encontrarás algunos de mis proyectos, mis experiencias viajando y mi recorrido laboral y académico.",
         image: {
             src: hero,
-            alt: 'A person sitting at a desk in front of a computer'
+            alt: 'Foto personal'
         },
         actions: [
             {
-                text: 'Get in Touch',
+                text: 'Curriculum',
                 href: '/contact'
             }
         ]
     },
-    subscribe: {
-        enabled: true,
-        title: 'Subscribe to Dante Newsletter',
-        text: 'One update per week. All the latest posts directly in your inbox.',
-        form: {
-            action: '#'
-        }
-    },
-    postsPerPage: 8,
-    projectsPerPage: 8
+    // subscribe: {
+    //     enabled: true,
+    //     title: 'Subscribe to Dante Newsletter',
+    //     text: 'One update per week. All the latest posts directly in your inbox.',
+    //     form: {
+    //         action: '#'
+    //     }
+    //},
+
+    projectsPerPage: 10,
+    postsPerPage: 12
 };
 
 export default siteConfig;

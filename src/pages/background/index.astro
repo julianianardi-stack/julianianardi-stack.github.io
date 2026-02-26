@@ -1,0 +1,115 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+// No necesitamos getCollection ni pagination porque es una lista fija
+---
+
+<BaseLayout title="Historial Académico" description="Mi formación académica" showHeader={false}>
+    <h1 class="mb-12 font-serif text-2xl leading-tight italic sm:mb-16 sm:text-4xl">
+        Historial Académico
+    </h1>
+
+    <div class="flex flex-col gap-12">
+        <div class="academic-item">
+            <h2 class="text-xl font-bold sm:text-2xl">MASTER EN INGENIERIA BIOMEDICA</h2>
+            <p class="text-sm text-gray-500 italic">Febrero 2026 - en curso</p>
+            <p class="text-lg font-medium text-gray-700">Universidad Internacional de Valencia</p>
+        </div>
+        <div class="academic-item">
+            <h2 class="text-xl font-bold sm:text-2xl">BIOINGENIERO</h2>
+            <p class="text-sm text-gray-500 italic">Marzo 2017 - Diciembre 2022</p>
+            <p class="text-lg font-medium text-gray-700">Universidad de Mendoza</p>
+        </div>
+
+        <div class="academic-item">
+            <h2 class="text-xl font-bold sm:text-2xl">BACHILLER EN CS NATURALES</h2>
+            <p class="text-sm text-gray-500 italic">2012 - 2017</p>
+            <p class="text-lg font-medium text-gray-700">DAD (Universidad Nac de Cuyo)</p>
+        </div>
+
+         <div class="academic-item">
+            <h2 class="text-xl font-bold sm:text-2xl">Educacion primaria</h2>
+            <p class="text-sm text-gray-500 italic">2012 - 2017</p>
+            <p class="text-lg font-medium text-gray-700">Colegio San Luis Gonzaga</p>
+        </div>
+
+        
+
+        <h2 class="mb-12 mt-12 font-serif text-3xl leading-tight italic sm:mb-16 sm:text-3xl">
+        Cursos, Certificaciones e Idiomas
+        </h2>
+
+        <div class="academic-item">
+            <h2 class="text-xl font-bold sm:text-2xl">INGLES (fluido)</h2>
+            <p class="text-sm text-gray-500 italic">2023</p>
+            <p class="text-lg font-medium text-gray-700">IELTS EXAM</p>
+        </div>
+
+        <div class="academic-item">
+            <h2 class="text-xl font-bold sm:text-2xl">VALIDACION Y CERTIFICACION DE EQUIPAMIENTO MEDICO</h2>
+            <p class="text-sm text-gray-500 italic">2023</p>
+            <p class="text-lg font-medium text-gray-700">ANMAT</p>
+        </div>
+
+        <div class="academic-item">
+            <h2 class="text-xl font-bold sm:text-2xl">USO Y SERVICIO DE TORRES DE LAPAROSCOPIA</h2>
+            <p class="text-sm text-gray-500 italic">Marzo 2023</p>
+            <p class="text-lg font-medium text-gray-700">Da Vinci Group (BOGOTA)</p>
+        </div>
+
+        <div class="academic-item">
+            <h2 class="text-xl font-bold sm:text-2xl">SERVICIO TECNICO SILLONES ODONTOLOGICOS</h2>
+            <p class="text-sm text-gray-500 italic">Junio 2023</p>
+            <p class="text-lg font-medium text-gray-700">Da Vinci Group (BOGOTA)</p>
+        </div>
+
+        <div class="academic-item">
+            <h2 class="text-xl font-bold sm:text-2xl">INSTALADOR ELECTRICISTA CATEGORIA 3</h2>
+            <p class="text-sm text-gray-500 italic">2020</p>
+            <p class="text-lg font-medium text-gray-700">Universidad Nacional de Cordoba</p>
+        </div>
+
+        <div class="academic-item">
+            <h2 class="text-xl font-bold sm:text-2xl">ARMADO Y REPARACION DE PC</h2>
+            <p class="text-sm text-gray-500 italic">2011 - 2012</p>
+            <p class="text-lg font-medium text-gray-700">Fundacion Saber (MENDOZA)</p>
+        </div>
+
+    </div>
+</BaseLayout>
+<style>
+    @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;700&display=swap');
+
+    .flex-col { 
+        font-family: 'Inter', sans-serif; 
+        gap: 0.5rem !important; /* Reduce el espacio general entre bloques */
+    }
+
+    .academic-item {
+        border-left: 2px solid #e5e7eb;
+        padding-left: 20px;
+        margin-bottom: 30px;
+        transition: border-color 0.3s;
+    }
+
+    .academic-item:hover { border-left-color: #3b82f6; }
+
+    .academic-item h2 {
+        font-size: 1.1rem;
+        text-transform: uppercase;
+        letter-spacing: 1px;
+        font-weight: 700;
+        color: #111827;
+    }
+
+    .academic-item p:first-of-type { /* La fecha */
+        font-size: 0.8rem;
+        color: #3b82f6;
+        font-weight: 600;
+        text-transform: uppercase;
+    }
+
+    .academic-item p:last-of-type { /* La institución */
+        font-size: 1rem;
+        color: #4b5563;
+    }
+</style>

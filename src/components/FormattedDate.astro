@@ -1,15 +1,21 @@
 ---
-type Props = { date: Date };
+type Props = { date: Date | string | undefined }; // Aceptamos más tipos por seguridad
 
 const { date } = Astro.props;
+
+// Convertimos a objeto Date de forma segura
+const validDate = date instanceof Date ? date : new Date(date || "");
+const isValid = !isNaN(validDate.getTime());
 ---
 
-<time datetime={date.toISOString()}>
-    {
-        date.toLocaleDateString('en-us', {
+{isValid ? (
+    <time datetime={validDate.toISOString()}>
+        {validDate.toLocaleDateString('en-us', {
             year: 'numeric',
             month: 'long',
             day: 'numeric'
-        })
-    }
-</time>
+        })}
+    </time>
+) : (
+    <span>Sin fecha</span> 
+)}

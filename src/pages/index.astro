@@ -9,38 +9,65 @@ import BaseLayout from '../layouts/BaseLayout.astro';
 import { sortItemsByDateDesc } from '../utils/data-utils';
 
 const posts = (await getCollection('blog')).sort(sortItemsByDateDesc);
-const featuredPosts = posts.filter(({ data }) => data.isFeatured);
+const featuredPosts = posts.filter(({ data }) => data.isFeatured).slice(0, 4);
 
 const projects = (await getCollection('projects')).sort(sortItemsByDateDesc);
-const featuredProjects = projects.filter(({ data }) => data.isFeatured);
+const featuredProjects = projects.filter(({ data }) => data.isFeatured).slice(0, 3);
 ---
 
 <BaseLayout description={siteConfig.description}>
     <Hero {...siteConfig.hero} />
-    {
-        featuredProjects?.length > 0 && (
-            <div class="mb-16 sm:mb-24">
-                <h2 class="mb-12 font-serif text-xl italic sm:mb-16 sm:text-2xl">Projects</h2>
-                {featuredProjects.map((project) => (
-                    <ProjectPreview project={project} class="mb-10 sm:mb-12" headingLevel="h3" />
-                ))}
-                <div class="mt-12 sm:mt-16">
-                    <Button href="/projects">View All Projects</Button>
-                </div>
-            </div>
-        )
-    }
-    {
+        {
         featuredPosts?.length > 0 && (
             <div class="mb-16 sm:mb-24">
-                <h2 class="mb-12 font-serif text-xl italic sm:mb-16 sm:text-2xl">Writing</h2>
+                <h2 class="mb-12 font-serif text-xl italic sm:mb-16 sm:text-2xl font-bold ">HISTORIAL LABORAL</h2>
                 {featuredPosts.map((post) => (
                     <PostPreview post={post} class="mb-10 sm:mb-12" headingLevel="h3" />
                 ))}
                 <div class="mt-12 sm:mt-16">
-                    <Button href="/blog">View All Posts</Button>
+                    <Button href="/laboral">ver todo el historial</Button>
                 </div>
             </div>
         )
     }
+    {
+        featuredProjects?.length > 0 && (
+            <div class="mb-16 sm:mb-24">
+                <h2 class="mb-12 font-serif text-xl italic sm:mb-16 sm:text-2xl font-bold ">PROYECTOS</h2>
+                {featuredProjects.map((project) => (
+                    <ProjectPreview project={project} class="mb-10 sm:mb-12" headingLevel="h3" />
+                ))}
+                <div class="mt-12 sm:mt-16">
+                    <Button href="/projects">Visita todos mis proyectos</Button>
+                </div>
+            </div>
+        )
+    }
+
+<div class="mb-16 sm:mb-24">
+    <div class="max-w-2xl"> 
+        
+        <a href="/history" class="group block">
+            <h2 class="font-serif text-xl italic sm:text-1xl font-bold group-hover:underline group-hover:decoration-dashed underline-offset-8 uppercase leading-tight">
+                TE INVITO A VISITAR MI APARTADO "PERFIL PERSONAL"
+            </h2>
+        </a>
+
+        <p class="mt-4 text-sm text-gray-500 font-sans leading-relaxed text-justify">
+            Aquí comparto mi trayectoria personal, viajes y experiencias que me han llevado a crecer, aprender y desarrollarme tanto personal como profesionalmente. Realmente creo que esta sección habla más de mí como persona, lo cual es el tópico más importante en mi perspectiva.
+        </p>
+
+        <div class="mt-6">
+            <a href="/history" class="group inline-flex items-center gap-2 font-medium text-sm text-black hover:text-blue-700 transition-all">
+                <span class="underline decoration-1 underline-offset-4 font-sans">
+                    Haz clic aquí para ir al perfil
+                </span>
+                <span class="text-2xl transition-transform duration-300 group-hover:translate-x-2 group-hover:-translate-y-1">
+                    🚀
+                </span>
+            </a>
+        </div>
+    </div>
+</div>
+
 </BaseLayout>

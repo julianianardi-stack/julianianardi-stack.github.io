@@ -1,56 +1,95 @@
 ---
-title: Front-End Techniques for Optimizing Website Performance
-excerpt: Slow-loading websites can frustrate users, affect search engine rankings, and ultimately lead to loss of traffic and revenue. Front-end optimization is the key to ensuring a fast, responsive, and user-friendly website.
-publishDate: 'October 12 2023'
-tags:
-  - Web
-  - Web development
+title: 'Lifeguard (Village theme parks)'
+excerpt: Salvavidas de parques acuáticos 
+publishDate: 2024-09-01
+dateRange: '[Gold coast, Australia] jun 2024 - sep 2024'
+isFeatured: true
 seo:
   image:
-    src: '../../assets/images/post-9.jpg'
-    alt: Mountains
+    src: '../../assets/images/post-14.jpg'
+    alt: Abstract snow
 ---
 
-![Mountains](../../assets/images/post-9.jpg)
+<div class="post-contenido texto-pequeno">
 
-**Note:** This post was created using Chat GPT to demonstrate the features of the _[Dante Astro.js theme functionality](https://justgoodui.com/astro-themes/dante/)_.
+### Experiencia en Village Theme Parks
 
-In an age where instant gratification is the norm, website performance is paramount. Slow-loading websites can frustrate users, affect search engine rankings, and ultimately lead to loss of traffic and revenue. Front-end optimization is the key to ensuring a fast, responsive, and user-friendly website. In this post, we'll explore some essential front-end techniques for optimizing website performance.
 
-1. **Image Optimization:**
-   Images are often the largest assets on a web page. Optimizing them is crucial. Use modern image formats like WebP, which offer better compression and quality. Compress images to reduce their file size while maintaining quality. Consider lazy loading images to load them only when they enter the user's viewport.
+Village tiene 4 parques temáticos en Gold Coast. 1 acuatico, 2 de diversiones y un parque marino. Estos parques son visitados diariamente por millones de personas y sobre todo niños, los cuales tienen que ser supervisados todo el tiempo mientras corren entre juegoss, atracciones y piletas de natación.
 
-2. **Minification and Compression:**
-   Minify your HTML, CSS, and JavaScript files to remove unnecessary whitespace and reduce file size. Additionally, enable server-side compression like Gzip or Brotli to further reduce data transfer. Smaller files mean faster load times.
+<div class="img-flotante izq">
+  <img src="/src/assets/images/lifeguard1.jpg" alt="lifeguard 1" />
+</div>
 
-3. **CDN (Content Delivery Network):**
-   Implement a CDN to distribute your website's assets across multiple servers located in various geographic regions. This reduces latency and accelerates content delivery to users, regardless of their location.
+Este trabajo fué realmente divertido y me recordó a mi etapa de coordinador de viajes, en donde tu trabajo es divertirte con la gente mientras cuidas de ellos.
 
-4. **Reduce HTTP Requests:**
-   Each HTTP request made by the browser adds latency. Minimize the number of requests by combining CSS and JavaScript files and using image sprites to reduce the number of image requests. Also, consider asynchronous loading of non-essential scripts.
+Lo desafiante de este trabajo fué que tuve que hacer 3 pruebas fisicas y una entrevista personal antes de poder entrar en el grupo de entrenamiento. Me tuve que preparar bastante para las pruebas físicas ya que, si bién siempre he practicado deportes, nunca lo habia hecho en el agua. Es por esto que los primero dos desafios antes de entrar a trabajar aqui fue prepararme fisicamente en las piletas publicas y practicar mi inglés lo más que pudiera para la entrevista, ya que llevaba solo 3 meses en australia y habia trabajado solo en un campo dónde no lo practiqué mucho.
 
-5. **Caching:**
-   Leverage browser caching by setting appropriate cache headers for your assets. This allows returning visitors to load your website more quickly since their browsers will already have cached some of the resources.
+<div class="img-flotante der">
+  <img src="/src/assets/images/lifeguard3.jpg" alt="lifeguard 2" />
+</div>
+Una vez superados estos dos desafiíos, tuve que superar 2 semanas de entrenamiento en rescate acuatico, RCP y atención al público (niños). Una vez finalizado el entrenamiento realicé el test y logré finalmente entrar a trabajar al parque.
 
-6. **Critical CSS and Font Loading:**
-   Implement critical CSS to load only the essential styles needed for the above-the-fold content. For fonts, use the "font-display" property to specify how fonts are loaded to ensure that text content remains visible while fonts are being fetched.
+Este trabajo era de medio tiempo, lo que me permitia combinarlo con mi trabajo en la fábrica cde leche. Fué una temporada que trabajé muchas horas y sin descanso los fines de semana usualmente, pero yo estaba feliz, porque en la lechera hacia dinero y en los parques practicaba mi inglés y me divertia con los niños.
+Este fué otro de los desafíos que me puso australia y me encanto atravesar y aprender de él.
+</div>
 
-7. **Responsive Design:**
-   Design with mobile in mind and use responsive design techniques. This includes using media queries to adjust layouts and optimizing images for different screen sizes. Mobile users expect fast load times.
+<style>
+  .post-contenido {
+    width: 100%;
+    display: block;
+    font-size: 0.9rem;
+    line-height: 1.6;
+    color: #444;
+    text-align: justify;
+  }
 
-8. **Prefetching and Preloading:**
-   Utilize HTML tags like `<link rel="preload">` and `<link rel=prefetch">` to give browsers hints about which resources to fetch ahead of time. This can improve the perceived performance of your website.
+  /* Estilo general para las imágenes flotantes */
+  .img-flotante {
+    max-width: 250px;
+    margin-bottom: 15px;
+  }
 
-9. **Reducing Third-Party Scripts:**
-   Limit the number of third-party scripts on your website, as they can significantly slow down load times. Evaluate the necessity of each script and consider asynchronous loading to prevent blocking the rendering of your page.
+  .img-flotante img {
+    width: 100% !important;
+    height: auto !important;
+    border-radius: 6px;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+  }
 
-10. **Progressive Web App (PWA):**
-    Implementing a PWA can drastically improve website performance and user experience. PWAs allow for offline access, fast loading times, and provide an app-like experience on the web.
+  /* Clases para alternar lados */
+  .izq {
+    float: left;
+    margin-right: 20px;
+  }
 
-11. **Monitoring and Testing:**
-    Continuously monitor your website's performance using tools like Google PageSpeed Insights, GTmetrix, or WebPageTest. Regularly run performance tests to identify and address bottlenecks.
+  .der {
+    float: right;
+    margin-left: 20px;
+  }
 
-12. **Reducing Animations and Effects:**
-    While animations and effects can enhance user experience, excessive use can slow down your website. Use them sparingly and consider reducing their complexity.
+  /* Sangría a los párrafos */
+  .post-contenido p {
+    text-indent: 30px;
+    margin-bottom: 1.2rem;
+  }
 
-In conclusion, optimizing front-end performance is a never-ending journey. It's crucial to balance aesthetics and functionality with the need for speed. Regularly assess your website's performance and implement the most appropriate front-end techniques to ensure a fast, responsive, and user-friendly experience for your visitors. By following these tips, you'll not only please your users but also boost your search engine rankings and drive better business results.
+  /* Limpieza de floats */
+  .post-contenido::after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+
+  /* Ajuste para móviles: las imágenes se centran y ocupan todo el ancho */
+  @media (max-width: 600px) {
+    .img-flotante {
+      float: none !important;
+      margin: 0 auto 20px auto !important;
+      max-width: 100%;
+    }
+    .post-contenido p {
+      text-indent: 20px;
+    }
+  }
+</style>

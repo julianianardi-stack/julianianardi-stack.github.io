@@ -1,61 +1,108 @@
 ---
-title: Communication and Collaboration for Front-End Developers
-excerpt: Front-end development is not just about writing code; it's also about working seamlessly with others to create outstanding user experiences.
-publishDate: 'October 6 2023'
-tags:
-  - Web
-  - UX
-  - Web development
+title: 'Operario de logistica (Delasser)'
+excerpt: Operario de montacarga, oficial de log'istica, Control de stock, delivery, armado y reparacion de muebles.
+publishDate: 2022-08-01
+dateRange: '[Mendoza, Argentina] Feb 2019 - Ago 2022'
+isFeatured: true
 seo:
   image:
-    src: '../../assets/images/post-3.jpg'
-    alt: Beach ocean shore
+    src: '../../assets/images/post-14.jpg'
+    alt: Abstract snow
 ---
+<div class="post-contenido texto-pequeno">
 
-![Beach ocean shore](../../assets/images/post-3.jpg)
+### Experiencia Delasser Hogar
 
-**Note:** This post was created using Chat GPT to demonstrate the features of the _[Dante Astro.js theme functionality](https://justgoodui.com/astro-themes/dante/)_.
+Delasser es una empresa que comercializa e instala muebles y colchones. Esta empresa contaba con 6 locales comerciales en Mendoza junto con un centro de logistica y almacén. En este centro de logística era donde yo desempeñaba mi trabajo.
 
-Front-end development is not just about writing code; it's also about working seamlessly with others to create outstanding user experiences. Effective communication and collaboration are essential skills for front-end developers to succeed in today's dynamic and interdependent tech industry. In this post, we'll explore why these skills matter and provide practical tips for front-end developers looking to excel in these areas.
+<div class="img-flotante izq">
+  <img src="/src/assets/images/delasser1.png" alt="delasser 1" />
+</div>
 
-## The Significance of Communication and Collaboration
+Durante mis primeros años de universidad, tuve varios trabajos que me permitian cubrir mis costes. Este fué uno de los más importantes, ya que fué en el que más tiempo trabajé y en el que más puestos cubrí.
 
-1. **Cross-Functional Teams:** Front-end development is rarely a solitary endeavor. You'll often collaborate with designers, back-end developers, project managers, and other stakeholders. Effective communication ensures that everyone is on the same page and working toward a common goal.
+En esta empresa comencé siendo un simple operador de logística que cargaba y descargaba camiones con muebles y colchones. Con el tiempo me empezaron a delegar otros trabajos en dónde aprendí a manejar el forklift y comencé a desempeñar papeles más importantes en el control de stock y gestión del depósito.
 
-2. **User-Centric Focus:** Front-end developers play a crucial role in shaping the user experience. Clear communication with designers and user researchers is essential to understand user needs and deliver an intuitive interface.
+<div class="img-flotante der">
+  <img src="/src/assets/images/delasser3.png" alt="delasser 2" />
+</div>
 
-3. **Continuous Learning:** Staying updated in the rapidly evolving world of web development requires engaging with the community, reading documentation, and sharing knowledge with others. Effective communication facilitates this process.
+Luego de un tiempo mi jefe se dió cuenta de mis facilidades para arreglar cosas y trabajar con erramientas, por lo que me empezó a mandar en el camión a hacer entregas, reparaciones e instalaciones de muebles en los domicilios de los clientes.
 
-## Tips for Effective Communication
+Transcurrido un buen período desarrollando estas tareas, y con el cnocimiento adquirido de los productos e instalaciones, comencé a hacerme cargo del armado de locales cada vez que habia que modificarlos (estos se modificaban cada 1 mes aporx). En estas tareas, no solo debía armar muebles para el local, sino que muchas veces debía intalar luces, reparar defectos del local, o fabricar elementos extra para decoración como por ejemplo pinos de navidad en madera o carteles luminosos de exterior.
+<div class="img-flotante izq">
+  <img src="/src/assets/images/delasser2.png" alt="delasser 3" />
+</div>
 
-1. **Active Listening:** Pay close attention to what others are saying. Understanding their perspectives and concerns is the first step to effective communication.
+Así fué como fui evolucionando mis puestos de trabajo en estas empresa hasta llegar al punto de ser el encargado de modificar tanto locales como productos rotos o mobiliario defectuoso. Tengo un lindo recuerdo de este trabajo ya que me acompañó durante mis primeros años de facultad y me dio la posibilidad de experimentar una relación laboral dónde aprendi a tratar tanto con jefes, como con clientes y compañeros, siendo muy chico y llevando a la par mi carrera universitaria.
 
-2. **Ask Questions:** Don't hesitate to ask for clarification if something is unclear. This helps avoid misunderstandings and ensures you're on the right track.
+<div class="img-flotante der">
+  <img src="/src/assets/images/delasser4.png" alt="delasser 4" />
+</div>
 
-3. **Use Clear and Concise Language:** Avoid jargon and technical terms when speaking with non-technical stakeholders. Explain complex concepts in simple, understandable terms.
+Esto parace un detalle menor, pero tener esa confianza para comunicar problemas y soluciones a un jefe, o responder ante un cliente y sus exigencias así como trabajar en conjunto con colegas; es una herramienta formidable a la hora de pararte frente a un profesor y exponer de igual a igual algún tema en la universidad, asi como también poder formar parte de grupos de trabajo solucionando problemas y repartiendo tareas.
 
-4. **Documentation:** Keep detailed records of project decisions and discussions. This helps in case of disputes and provides a valuable reference.
 
-5. **Regular Updates:** Keep your team informed about your progress. Share updates on what you've accomplished and any challenges you've encountered.
 
-6. **Feedback:** Be open to feedback from others, whether it's about your code, your design choices, or your communication style. Constructive criticism is a valuable tool for growth.
 
-## Tips for Effective Collaboration
+</div>
 
-1. **Establish a Workflow:** Define a clear workflow and responsibilities within your team. Tools like project management software and version control systems can help streamline collaboration.
+<style>
+  .post-contenido {
+    width: 100%;
+    display: block;
+    font-size: 0.9rem;
+    line-height: 1.6;
+    color: #444;
+    text-align: justify;
+  }
 
-2. **Design Reviews:** Regularly meet with designers and other team members to review designs and discuss how to implement them effectively.
+  /* Estilo general para las imágenes flotantes */
+  .img-flotante {
+    max-width: 250px;
+    margin-bottom: 15px;
+  }
 
-3. **Code Reviews:** Collaborate with other developers through code reviews. This ensures code quality, identifies issues early, and fosters knowledge sharing.
+  .img-flotante img {
+    width: 100% !important;
+    height: auto !important;
+    border-radius: 6px;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+  }
 
-4. **Empathy:** Put yourself in the shoes of other team members. Understand their constraints, priorities, and challenges.
+  /* Clases para alternar lados */
+  .izq {
+    float: left;
+    margin-right: 20px;
+  }
 
-5. **Conflict Resolution:** Conflicts can arise, but approach them with a problem-solving mindset. Seek compromises and solutions that benefit the project.
+  .der {
+    float: right;
+    margin-left: 20px;
+  }
 
-6. **Celebrate Achievements:** Recognize and celebrate both small and large achievements with your team. This builds morale and a positive collaborative environment.
+  /* Sangría a los párrafos */
+  .post-contenido p {
+    text-indent: 30px;
+    margin-bottom: 1.2rem;
+  }
 
-## Building a Collaborative Culture
+  /* Limpieza de floats */
+  .post-contenido::after {
+    content: "";
+    display: table;
+    clear: both;
+  }
 
-Ultimately, effective communication and collaboration are not just individual skills; they're also cultural aspects of your development team. Encourage a culture of openness, transparency, and continuous improvement. As a front-end developer, you can play a pivotal role in fostering this culture by leading through example and actively participating in team discussions and initiatives.
-
-In the world of front-end development, where innovation and user experience are paramount, the ability to communicate and collaborate effectively is a game-changer. By honing these skills, you'll not only improve the quality of your work but also contribute to the success of your projects and your career as a front-end developer.
+  /* Ajuste para móviles: las imágenes se centran y ocupan todo el ancho */
+  @media (max-width: 600px) {
+    .img-flotante {
+      float: none !important;
+      margin: 0 auto 20px auto !important;
+      max-width: 100%;
+    }
+    .post-contenido p {
+      text-indent: 20px;
+    }
+  }
+</style>
