@@ -15,7 +15,7 @@ seo:
   Arjo es una empresa multinacional con presencia en Asia, Europa, Norte América y Oceanía; la cual fabrica equipamiento de soporte médico como elevadores para pacientes, camas ortopédicas inteligentes, entre otros.
 
   <div class="img-flotante izq">
-  <img src="/src/assets/images/post-14.jpg" alt="mesa de cirugia" />
+  <img src="/images/post-14.jpg" alt="mesa de cirugia" />
   </div> 
   En esta empresa desempeñé el rol de Técnico de campo en donde debía realizar el manteniemiento y reparación tanto de equipamiento propio de la empresa como de euquipo de terceros, ya que eramos el único servicio técnico en mackay y alrededores capáz de resolver problemas técnicos con los equipos médicos. (Mackay es un pueblo minero en el noreste de Australia que está a más de 12 horas en auto de la capital Brisbane y con poca frecuencia de vuelo. Es por esta razon que es muy dificil encontrar lo que ellos llaman técnicos on site que puedan reparar o resolver en el momento).
 
@@ -24,7 +24,7 @@ seo:
   El estilo de trabajo aqui era muy interesante ya que tenía que viajar de hospital en hospital y en pueblos de toda la zona (en ocaciones debía manejar mas de 5hs para llegar al pueblo de destino) con mi van cargada de Herramientas  y repuestos que me permitieran resolver cualquier problema que me encuentre al llegar a cada establecimiento.
 
   <div class="img-flotante izq">
-  <img src="/src/assets/images/arjo1.jpg" alt="van de arjo" />
+  <img src="/images/arjo1.jpg" alt="van de arjo" />
   </div> 
 
   Con este estilo de trabajo aprendí a resolver lo máximo posible con los medios que teniamos. es importante mencionar que estuve trabajando en un país al otro lado del mundo, en el que se habla otro idioma, con vocabulario técnico, en pueblos del interior, en donde muchas veces la comunicación era una barrera a superar.

@@ -21,13 +21,13 @@ Ahora para lograr esta alta corriente a baja tensión, (estamos hablando de más
 
 
 <div class="img-flotante izq">
-  <img src="/src/assets/images/paroissien1.jpg" alt="hsopital 1" />
+  <img src="/images/paroissien1.jpg" alt="hsopital 1" />
 </div>
 
 Así logramos sacar de 220v un voltaje seguro y bajo con una corriente extremadamante alta. Esto combinado con 2 electrodos de bronce que nos van a permitir hacer presión sobre las superficies a unir, lograremos la soldadura de punto necesaria.
 
 <div class="img-flotante izq">
-  <img src="/src/assets/images/paroissien1.jpg" alt="hsopital 1" />
+  <img src="/images/paroissien1.jpg" alt="hsopital 1" />
 </div>
 
 

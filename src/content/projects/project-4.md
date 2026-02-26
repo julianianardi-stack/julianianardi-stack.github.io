@@ -18,19 +18,19 @@ Fué asi que con un esp 32, 4 sensores de temperatura ...., un display y el dise
 
 Obviamente para este desarrollo es necesario tener concimientos tanto de electrónica como de Arduino, para poder construir el dispositivo
 <div class="img-flotante izq">
-  <img src="/src/assets/images/paroissien1.jpg" alt="hsopital 1" />
+  <img src="/images/paroissien1.jpg" alt="hsopital 1" />
 </div>
 
 <div class="img-flotante der">
-  <img src="/src/assets/images/paroissien2.jpg" alt="hospital 2" />
+  <img src="/images/paroissien2.jpg" alt="hospital 2" />
 </div>
 
 <div class="img-flotante izq">
-  <img src="/src/assets/images/paroissien3.jpeg" alt="hospital 3" />
+  <img src="/images/paroissien3.jpeg" alt="hospital 3" />
 </div>
 
 <div class="img-flotante der">
-  <img src="/src/assets/images/paroissien4.jpg" alt="hospital 4" />
+  <img src="/images/paroissien4.jpg" alt="hospital 4" />
 </div>
 
 

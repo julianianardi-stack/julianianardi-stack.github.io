@@ -12,7 +12,7 @@ seo:
 ### Tesis final carrera de Bioingeniería
 
 <div class="img-presentacion">
-  <img src="/src/assets/images/presentacion.jpg" alt="Presentación SSCR" />
+  <img src="/images/presentacion.jpg" alt="Presentación SSCR" />
   <span class="ia-badge">
     <svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 2v8"/><path d="m4.93 10.93 1.41 1.41"/><path d="M2 18h2"/><path d="M20 18h2"/><path d="m19.07 10.93-1.41 1.41"/><path d="M22 22H2"/><path d="m8 22 4-10 4 10"/><path d="M9 18h6"/></svg>
     Imagen generada con Inteligencia Artificial con fines ilustrativos
@@ -25,7 +25,7 @@ Este problema se combinó con un pedido del jefe de servicio de kinecsiología e
 
 Asi es como me propuse a poder diseñar y fabricar un dispositivo que me permitiera emular condiciones respiratorias en un pulmón de pruba y asi poder variar los parametros de flujo, presión, volumen, frecuencia y curvas respiratorias en el respirador. Ese diseño iba combinado con un dispositivo que podía sensar las variables físicas del circuito respiratorio creado, para poder asi compararlas con las curvas y valores que arrojaba el respirador a fin contrastar los valores obtenidos y determinar el correcto funcionamiento del mismo.
 <div class="img-presentacion">
-  <img src="/src/assets/images/objetivos.png" alt="Presentación SSCR" />
+  <img src="/images/objetivos.png" alt="Presentación SSCR" />
 </div>
 
 Voy a proceder a mostrar a grandes rasgos en que consistian algunas partes del diseño, pero si estás interesado en ver el desarrollo completo, podras encontrar el paper completo en el final de esta página.
@@ -41,22 +41,22 @@ Aqui se puede ver la transición y evolucion en el diseño del pulmón y su sist
 <h3 class="titulo-galeria">diseño del pulmón</h3>
 <div class="photo-book">
   <div class="photo-item">
-    <img src="/src/assets/images/pulmon1.png" alt="pulmon 1" />
+    <img src="/images/pulmon1.png" alt="pulmon 1" />
   </div>
   <div class="photo-item">
-    <img src="/src/assets/images/pulmon2.png" alt="pulmon 2" />
+    <img src="/images/pulmon2.png" alt="pulmon 2" />
   </div>
   <div class="photo-item">
-    <img src="/src/assets/images/pulmon3.png" alt="pulmon 3" />
+    <img src="/images/pulmon3.png" alt="pulmon 3" />
   </div>
   <div class="photo-item">
-    <img src="/src/assets/images/pulmon4.png" alt="pulmon 4" />
+    <img src="/images/pulmon4.png" alt="pulmon 4" />
   </div>
     <div class="photo-item">
-    <img src="/src/assets/images/commpliance.png" alt="pulmon 1" />
+    <img src="/images/commpliance.png" alt="pulmon 1" />
   </div>
   <div class="photo-item">
-    <img src="/src/assets/images/final4.png" alt="pulmon 2" />
+    <img src="/images/final4.png" alt="pulmon 2" />
   </div>  
 </div>
 
@@ -67,31 +67,31 @@ Como sensor de flujo y presión se calculó y fabricó un tubo de Venturi que su
 <h3 class="titulo-galeria">Tubo de Venturi</h3>
 <div class="photo-book">
   <div class="photo-item">
-    <img src="/src/assets/images/venturi1.png" alt="Bulgarus 1" />
+    <img src="/images/venturi1.png" alt="Bulgarus 1" />
   </div>
   <div class="photo-item">
-    <img src="/src/assets/images/venturi2.png" alt="Bulgarus 2" />
+    <img src="/images/venturi2.png" alt="Bulgarus 2" />
   </div>
   <div class="photo-item">
-    <img src="/src/assets/images/venturi3.png" alt="Bulgarus 3" />
+    <img src="/images/venturi3.png" alt="Bulgarus 3" />
   </div>
   <div class="photo-item">
-    <img src="/src/assets/images/venturi4.png" alt="Bulgarus 4" />
+    <img src="/images/venturi4.png" alt="Bulgarus 4" />
   </div>
     <div class="photo-item">
-    <img src="/src/assets/images/calculo venturi2.png" alt="Bulgarus 4" />
+    <img src="/images/calculo venturi2.png" alt="Bulgarus 4" />
   </div>
 </div>
 
 Luego se disñó y construyó un sistema electrónico que nos permitiera recibir esas señales físicas y convertirlas en señales eléctricas. Este sistema necesitaba de sensores de presión diferencial, amplificadores de instrumentación, amplificadores de segundo orden, filtros electrónicos y conversores analógicos-digitales. Con todo este conjunto de componentes, logramos captar esta señal física, convertirla en señal electónica, filtrar todos los ruidos de dicha señal y procesarla para entregarsela  al conversor analógico-digital una señal apta para convertirla en 1 y 0 que nuestra computadora logra interpretar.
  <div class="img-flotante der">
-  <img src="/src/assets/images/placa1.png" alt="diseño de hard"/>
+  <img src="/images/placa1.png" alt="diseño de hard"/>
 </div>
 
 Una vez tenemos el Hardware terminado llega la parte de programación, en donde neceitamos empezar a hacer cálculos y gráficos que se puedan ver un una interfáz apta para el usuario. Este procesamiento de información se realizó en dos lenguajes de programación distintos que trabajan en conjunto: Python y C++.
 
  <div class="img-flotante izq">
-  <img src="/src/assets/images/Slide29.JPG" alt="soft" />
+  <img src="/images/Slide29.JPG" alt="soft" />
 </div>
 
 Todo este diseño iba fusionado con una app de android que se comunicaba inalambricamente con el dispositivo y nos ermitia ver los gráficos y variables principales en nuestro smartphone  para no depender de una conección por cable a nuestra pc.
@@ -100,137 +100,137 @@ Todo este diseño iba fusionado con una app de android que se comunicaba inalamb
 Una vez finalizado el desarrollo se contrastó su desempeño contra un dispositivo profesional Fluke que se encarga de las misma mediciones, logrando un sorprendente error menor al 5%.
 
 <div class="img-presentacion">
-  <img src="/src/assets/images/final5.png" alt="fluke" />
+  <img src="/images/final5.png" alt="fluke" />
 </div>
 
 
 <h3 class="titulo-galeria text-blue-600">Presentación del proyecto</h3>
 <div class="ppt-slider">
     <div class="ppt-slide">
-        <img src="/src/assets/images/slide1.jpg" alt="Slide 1" />
+        <img src="/images/slide1.jpg" alt="Slide 1" />
     </div>
     <div class="ppt-slide">
-        <img src="/src/assets/images/slide2.jpg" alt="Slide 2" />
+        <img src="/images/slide2.jpg" alt="Slide 2" />
     </div>
         <div class="ppt-slide">
-        <img src="/src/assets/images/slide3.jpg" alt="Slide 1" />
+        <img src="/images/slide3.jpg" alt="Slide 1" />
     </div>
     <div class="ppt-slide">
-        <img src="/src/assets/images/slide4.jpg" alt="Slide 2" />
+        <img src="/images/slide4.jpg" alt="Slide 2" />
     </div>
         <div class="ppt-slide">
-        <img src="/src/assets/images/slide5.jpg" alt="Slide 1" />
+        <img src="/images/slide5.jpg" alt="Slide 1" />
     </div>
     <div class="ppt-slide">
-        <img src="/src/assets/images/slide6.jpg" alt="Slide 2" />
+        <img src="/images/slide6.jpg" alt="Slide 2" />
     </div>
         <div class="ppt-slide">
-        <img src="/src/assets/images/slide7.jpg" alt="Slide 1" />
+        <img src="/images/slide7.jpg" alt="Slide 1" />
     </div>
     <div class="ppt-slide">
-        <img src="/src/assets/images/slide8.jpg" alt="Slide 2" />
+        <img src="/images/slide8.jpg" alt="Slide 2" />
     </div>
         <div class="ppt-slide">
-        <img src="/src/assets/images/slide9.jpg" alt="Slide 1" />
+        <img src="/images/slide9.jpg" alt="Slide 1" />
     </div>
     <div class="ppt-slide">
-        <img src="/src/assets/images/slide10.jpg" alt="Slide 2" />
+        <img src="/images/slide10.jpg" alt="Slide 2" />
     </div>
         <div class="ppt-slide">
-        <img src="/src/assets/images/slide11.jpg" alt="Slide 1" />
+        <img src="/images/slide11.jpg" alt="Slide 1" />
     </div>
     <div class="ppt-slide">
-        <img src="/src/assets/images/slide12.jpg" alt="Slide 2" />
+        <img src="/images/slide12.jpg" alt="Slide 2" />
     </div>
         <div class="ppt-slide">
-        <img src="/src/assets/images/slide13.jpg" alt="Slide 1" />
+        <img src="/images/slide13.jpg" alt="Slide 1" />
     </div>
     <div class="ppt-slide">
-        <img src="/src/assets/images/slide14.jpg" alt="Slide 2" />
+        <img src="/images/slide14.jpg" alt="Slide 2" />
     </div>
         <div class="ppt-slide">
-        <img src="/src/assets/images/slide15.jpg" alt="Slide 1" />
+        <img src="/images/slide15.jpg" alt="Slide 1" />
     </div>
     <div class="ppt-slide">
-        <img src="/src/assets/images/slide16.jpg" alt="Slide 2" />
+        <img src="/images/slide16.jpg" alt="Slide 2" />
     </div>
         <div class="ppt-slide">
-        <img src="/src/assets/images/slide17.jpg" alt="Slide 1" />
+        <img src="/images/slide17.jpg" alt="Slide 1" />
     </div>
     <div class="ppt-slide">
-        <img src="/src/assets/images/slide18.jpg" alt="Slide 2" />
+        <img src="/images/slide18.jpg" alt="Slide 2" />
     </div>
         <div class="ppt-slide">
-        <img src="/src/assets/images/slide19.jpg" alt="Slide 1" />
+        <img src="/images/slide19.jpg" alt="Slide 1" />
     </div>
     <div class="ppt-slide">
-        <img src="/src/assets/images/slide20.jpg" alt="Slide 2" />
+        <img src="/images/slide20.jpg" alt="Slide 2" />
     </div>
         <div class="ppt-slide">
-        <img src="/src/assets/images/slide21.jpg" alt="Slide 1" />
+        <img src="/images/slide21.jpg" alt="Slide 1" />
     </div>
     <div class="ppt-slide">
-        <img src="/src/assets/images/slide22.jpg" alt="Slide 2" />
+        <img src="/images/slide22.jpg" alt="Slide 2" />
     </div>
         <div class="ppt-slide">
-        <img src="/src/assets/images/slide23.jpg" alt="Slide 1" />
+        <img src="/images/slide23.jpg" alt="Slide 1" />
     </div>
     <div class="ppt-slide">
-        <img src="/src/assets/images/slide24.jpg" alt="Slide 2" />
+        <img src="/images/slide24.jpg" alt="Slide 2" />
     </div>
         <div class="ppt-slide">
-        <img src="/src/assets/images/slide25.jpg" alt="Slide 1" />
+        <img src="/images/slide25.jpg" alt="Slide 1" />
     </div>
     <div class="ppt-slide">
-        <img src="/src/assets/images/slide26.jpg" alt="Slide 2" />
+        <img src="/images/slide26.jpg" alt="Slide 2" />
     </div>
         <div class="ppt-slide">
-        <img src="/src/assets/images/slide27.jpg" alt="Slide 1" />
+        <img src="/images/slide27.jpg" alt="Slide 1" />
     </div>
     <div class="ppt-slide">
-        <img src="/src/assets/images/slide28.jpg" alt="Slide 2" />
+        <img src="/images/slide28.jpg" alt="Slide 2" />
     </div>
         <div class="ppt-slide">
-        <img src="/src/assets/images/slide29.jpg" alt="Slide 1" />
+        <img src="/images/slide29.jpg" alt="Slide 1" />
     </div>
     <div class="ppt-slide">
-        <img src="/src/assets/images/slide30.jpg" alt="Slide 2" />
+        <img src="/images/slide30.jpg" alt="Slide 2" />
     </div>
         <div class="ppt-slide">
-        <img src="/src/assets/images/slide31.jpg" alt="Slide 1" />
+        <img src="/images/slide31.jpg" alt="Slide 1" />
     </div>
     <div class="ppt-slide">
-        <img src="/src/assets/images/slide32.jpg" alt="Slide 2" />
+        <img src="/images/slide32.jpg" alt="Slide 2" />
     </div>
         <div class="ppt-slide">
-        <img src="/src/assets/images/slide33.jpg" alt="Slide 1" />
+        <img src="/images/slide33.jpg" alt="Slide 1" />
     </div>
     <div class="ppt-slide">
-        <img src="/src/assets/images/slide34.jpg" alt="Slide 2" />
+        <img src="/images/slide34.jpg" alt="Slide 2" />
     </div>
         <div class="ppt-slide">
-        <img src="/src/assets/images/slide35.jpg" alt="Slide 1" />
+        <img src="/images/slide35.jpg" alt="Slide 1" />
     </div>
     <div class="ppt-slide">
-        <img src="/src/assets/images/slide36.jpg" alt="Slide 2" />
+        <img src="/images/slide36.jpg" alt="Slide 2" />
     </div>
         <div class="ppt-slide">
-        <img src="/src/assets/images/slide37.jpg" alt="Slide 1" />
+        <img src="/images/slide37.jpg" alt="Slide 1" />
     </div>
     <div class="ppt-slide">
-        <img src="/src/assets/images/slide38.jpg" alt="Slide 2" />
+        <img src="/images/slide38.jpg" alt="Slide 2" />
     </div>
         <div class="ppt-slide">
-        <img src="/src/assets/images/slide39.jpg" alt="Slide 1" />
+        <img src="/images/slide39.jpg" alt="Slide 1" />
     </div>
     <div class="ppt-slide">
-        <img src="/src/assets/images/slide40.jpg" alt="Slide 2" />
+        <img src="/images/slide40.jpg" alt="Slide 2" />
     </div>
         <div class="ppt-slide">
-        <img src="/src/assets/images/slide41.jpg" alt="Slide 1" />
+        <img src="/images/slide41.jpg" alt="Slide 1" />
     </div>
     <div class="ppt-slide">
-        <img src="/src/assets/images/slide42.jpg" alt="Slide 2" />
+        <img src="/images/slide42.jpg" alt="Slide 2" />
     </div>
 
   </div>

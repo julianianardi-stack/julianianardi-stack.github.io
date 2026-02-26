@@ -17,24 +17,24 @@ seo:
 Keringa Angus fué el primer trabajo que tuve al llegar a Australia. Esta empresa era una productora de ganado con mas de 16.000Ha en las cuales no solo criaban vacas, sino que en temporada de lluvia, tambien sembraban el alimento que les daban.
 
 <div class="img-flotante izq">
-  <img src="/src/assets/images/farm1.jpg" alt="farm 1" />
+  <img src="/images/farm1.jpg" alt="farm 1" />
 </div>
 
 Al llegar a Australia, tenía que realizar 3 meses trabajando en farm para extender mi visa. Asi fué como encontré este trabajo al otro lado del continente, dónde nos tuvimos que mudar al medio de la nada, a 2 hs del pueblo más cercano y quedarnos trabajando alli el resto de la extensión.
 
 <div class="img-flotante der">
-  <img src="/src/assets/images/farm2.jpeg" alt="farm 2" />
+  <img src="/images/farm2.jpeg" alt="farm 2" />
 </div>
 
 Lo interesante de este trabajo es que yo nunca antes había trabajado en el campo, ni con vacas y mucho menos manejado tractores o cosas similires. En este trabajo aprendí mucho de este mundo y lo sacrificado que es la vida de los productores.
 <div class="img-flotante izq">
-  <img src="/src/assets/images/farm3.webp" alt="farm 3" />
+  <img src="/images/farm3.webp" alt="farm 3" />
 </div>
 
 Durante mi experiencia aquí, tuve que aprender a manejar todo tipo de maquinaria agricola (ya sea para alimentar vacas o para semabrar), aprendi a hacer fencing, a convivir con el frio y aislado de la ciudad. Definitivamente fué un gran aprendizaje y una buena manera de arrancar este viaje. 
 
 <div class="img-flotante der">
-  <img src="/src/assets/images/farm4.jpg" alt="farm 4" />
+  <img src="/images/farm4.jpg" alt="farm 4" />
 </div>
 
 Con el tiempo, los jefes empezaron a tener algunos problemas con la maquinaria en la etapa de siembra y me pidieron ayuda para ver si podiamos poner en marcha la maquinaria necesaria para empezar lo antes posible. En este punto me tocó investigar  y resolver problemas eléctricos con sistemas de embriagues de tractores, arreglar sistemas de cámaras que se usasn para  monitorear las tolbas con las semillas, asi como también reparar drones que usaban para el monitoreo aereo de los paddoks.

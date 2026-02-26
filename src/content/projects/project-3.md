@@ -17,7 +17,7 @@ Para desarrollar estos protocolos de mantenimiento es necesario hacer una contra
 con esta información y los equipos necesarios para testearlo, se realiza una check list junto con un documento paso a paso de como realizar cada prueba.
 
 <div class="img-flotante izq">
-  <img src="/src/assets/images/paroissien1.jpg" alt="hsopital 1" />
+  <img src="/images/paroissien1.jpg" alt="hsopital 1" />
 </div>
 
 

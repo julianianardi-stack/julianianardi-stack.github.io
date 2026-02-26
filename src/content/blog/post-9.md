@@ -18,7 +18,7 @@ seo:
 Village tiene 4 parques temáticos en Gold Coast. 1 acuatico, 2 de diversiones y un parque marino. Estos parques son visitados diariamente por millones de personas y sobre todo niños, los cuales tienen que ser supervisados todo el tiempo mientras corren entre juegoss, atracciones y piletas de natación.
 
 <div class="img-flotante izq">
-  <img src="/src/assets/images/lifeguard1.jpg" alt="lifeguard 1" />
+  <img src="/images/lifeguard1.jpg" alt="lifeguard 1" />
 </div>
 
 Este trabajo fué realmente divertido y me recordó a mi etapa de coordinador de viajes, en donde tu trabajo es divertirte con la gente mientras cuidas de ellos.
@@ -26,7 +26,7 @@ Este trabajo fué realmente divertido y me recordó a mi etapa de coordinador de
 Lo desafiante de este trabajo fué que tuve que hacer 3 pruebas fisicas y una entrevista personal antes de poder entrar en el grupo de entrenamiento. Me tuve que preparar bastante para las pruebas físicas ya que, si bién siempre he practicado deportes, nunca lo habia hecho en el agua. Es por esto que los primero dos desafios antes de entrar a trabajar aqui fue prepararme fisicamente en las piletas publicas y practicar mi inglés lo más que pudiera para la entrevista, ya que llevaba solo 3 meses en australia y habia trabajado solo en un campo dónde no lo practiqué mucho.
 
 <div class="img-flotante der">
-  <img src="/src/assets/images/lifeguard3.jpg" alt="lifeguard 2" />
+  <img src="/images/lifeguard3.jpg" alt="lifeguard 2" />
 </div>
 Una vez superados estos dos desafiíos, tuve que superar 2 semanas de entrenamiento en rescate acuatico, RCP y atención al público (niños). Una vez finalizado el entrenamiento realicé el test y logré finalmente entrar a trabajar al parque.
 

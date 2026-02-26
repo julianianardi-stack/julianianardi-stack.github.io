@@ -16,13 +16,13 @@ seo:
 El Hospital Regional Diego Paroissien es una institución pública de alta complejidad con servicios de medicina tales como: Quirofanos, guardias, neonatología, obstetricia, terapia intensiva, diagnóstico por imágenes, consultorios externos, entre otros. Este es un hospital realmente muy concurrido que usualmente esta al 100% de su capacidad y en el que se reciben a cientos de personas por día.
 
 <div class="img-flotante izq">
-  <img src="/src/assets/images/paroissien1.jpg" alt="hsopital 1" />
+  <img src="/images/paroissien1.jpg" alt="hsopital 1" />
 </div>
 
 Este hopotal fué mi primer acercameinto al mundo profesional de la bioingeniería, dónde entré a hacer mis prácticas profesionales finalizando mi 3er año de carrera. Luego de un tiempo me ofrecieron un puesto en el departamento de bioingeniería como técnico mientras finalizaba mis estudios universitarios.
 
 <div class="img-flotante der">
-  <img src="/src/assets/images/paroissien2.jpg" alt="hospital 2" />
+  <img src="/images/paroissien2.jpg" alt="hospital 2" />
 </div>
 
 La experiencia en este hospital fué maravillosa ya que en el departamente de bioingeniería eramos solo dos personas encargadas de atender los requerimientos de todos los servicios. Esto te obliga a estar al tanto del funcionamiento de todo tipo de equipamiento médico asi como tambien de todas las instalaciones del hospital. 
@@ -30,7 +30,7 @@ La experiencia en este hospital fué maravillosa ya que en el departamente de bi
 Durante mi trabajo allí, no solo nos encargabamos de hacer mantenieminto preventivo y correctivo a todo el equipamiento médico, sino que tambien teniamos a cargo las intalaciones eléctricas, gases medicinales y sistemas de refrigeracion del hospital; verdaderamente una tarea muy diversa y desafiante en donde hay que investigar y conocer de muchos temas y equipos.
 
 <div class="img-flotante izq">
-  <img src="/src/assets/images/paroissien3.jpeg" alt="hospital 3" />
+  <img src="/images/paroissien3.jpeg" alt="hospital 3" />
 </div>
 
 En mis años en el hospital vi todo tipo de equipamiento, tanto simples como complejos. Puedo mencionar algunas relevantes para dar una idea: Electrocardiógrafos, equipos de rallos x, torres de laparoscopía, Autoclaves, scialiticas, bombas de infusión, incubadoras, procesadoras de tegido, mesas de anestesia, desfibriladores, entre muchos otros. 
@@ -38,7 +38,7 @@ En mis años en el hospital vi todo tipo de equipamiento, tanto simples como com
 Hay ciertos equipos e instalaciones que tuve que atender en este hospital, que no son comunes para el sector de bioingeniería y por lo tanto fué un desafío interesante y un gran aprendizaje. Puedo mencionar algunas de estas instalaciones como paneles de gases medicinales, unidades de tratamiento de aire así como también intalaciones eléctricas flotadas de quirófanos y terapias intensivas.
 
 <div class="img-flotante der">
-  <img src="/src/assets/images/paroissien4.jpg" alt="hospital 4" />
+  <img src="/images/paroissien4.jpg" alt="hospital 4" />
 </div>
 
 Con el tiempo el jefe del departamente de bioingeniería fué promovido a jefe del departamente de gestión tecnológica (el cual abarcaba otros departamentos y mucha más responsabilidad) por lo que mi trabajo se divercificó a otras areas además del servicio técnico. Esto me obligó a aprender a gestionar tanto recursos como proveedores asi como servicios terciarizados. Ahora las tareas también consistían en organizar trabajos grandes y complejos con el director del hospital y encargarme de coordinar directamente con los jefes de cada servicio los manteniemientos y reparaciones que ellos solicitaban.
@@ -46,7 +46,7 @@ Con el tiempo el jefe del departamente de bioingeniería fué promovido a jefe d
 Algo que me gustó mucho de trabajar en este hospital fué que, luego de haberme ganado la confianza de mis jefes, me dieron luz verde para desarrollar proyectos dentro del hopital; los cuales eran no solo de gran utilidad para el establecimiento, sino que también funcionaba como un gran laboratorio de pruebas y aprendizaje para mi. Algunos de los proyectos que pude llevar a cabo en el hospital fueron: soldadoras de punto, sistemas pulmonares para testeo de respiradores, protocolos de mantenieminto preventivo para torres de laparoscopía, instalaciones eléctricas auxiliares para testeo de equipamiento, sistemas de sensores integrales para incubadoras, sistemas de control para máquinas industrialels como lavanderías, entre otros.
 
 <div class="img-flotante izq">
-  <img src="/src/assets/images/paroissien9.jpeg" alt="hospital 5" />
+  <img src="/images/paroissien9.jpeg" alt="hospital 5" />
 </div>
 
 

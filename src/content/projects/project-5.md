@@ -20,19 +20,19 @@ Asi es como realicé un cableado externo desde el tablero principal llevandolo p
 Esta caja de aislación consta de su protección magnetotérmica, así como su disyuntor de normativa hospitalaria (15 msg). Aguas abajo de estas protecciones instalé tomas y puestos de prueba especifico para equipamiento tanto médico como regular. Así como también fabriqué un simple sistema anti-cortocircuito el cual predía una lámpara de filamento en serie cuando el equipo bajo testeo estaba en conrtocircuito o tenía un consumo excesivo. 
 
 <div class="img-flotante izq">
-  <img src="/src/assets/images/paroissien1.jpg" alt="hsopital 1" />
+  <img src="/images/paroissien1.jpg" alt="hsopital 1" />
 </div>
 
 <div class="img-flotante der">
-  <img src="/src/assets/images/paroissien2.jpg" alt="hospital 2" />
+  <img src="/images/paroissien2.jpg" alt="hospital 2" />
 </div>
 
 <div class="img-flotante izq">
-  <img src="/src/assets/images/paroissien3.jpeg" alt="hospital 3" />
+  <img src="/images/paroissien3.jpeg" alt="hospital 3" />
 </div>
 
 <div class="img-flotante der">
-  <img src="/src/assets/images/paroissien4.jpg" alt="hospital 4" />
+  <img src="/images/paroissien4.jpg" alt="hospital 4" />
 </div>
 
 Este tipo de instalaciones, aunque simbples, son muy efectivas y seguras para probar equipameinto con posibles defectos, evitando el riesgo de arruinar alguna otra parte de la intalacón eléctrica aguas arriba.

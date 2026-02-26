@@ -15,19 +15,19 @@ seo:
 ### Experiencia en FREEDOM - NORDERLIS
 
 <div class="img-flotante izq">
-  <img src="/src/assets/images/nord2.jpg" alt="NORDERLIS team" />
+  <img src="/images/nord2.jpg" alt="NORDERLIS team" />
 </div>
 
 Freedom es un Eco resort que se encuentra en las costas de Airlie Beach, el cual posee no solo un hotel, sino que tiene su propio restaurant con playa propia y un predio preparado para organizar casamientos y eventos. Este es el lugar mas hermoso en el que he trabajado en mi vida. La relación trabajo-vida en este lugar es increíble, y el espacio fisico donde está localizado es alucinante, con una flora y fauna sorprendente.
 
 <div class="img-flotante der">
-  <img src="/src/assets/images/nord3.jpeg" alt="norderlist pintura" />
+  <img src="/images/nord3.jpeg" alt="norderlist pintura" />
 </div>
 
 A este lugar llegué con la idea de extender mi segunda visa y luego de mucha busqueda por distintos establecimientos, di con este lugar maravilloso dónde en realidad no necesitaban más gente de manteniemineto, pero luego de hablar con el jefe del equipo y ver mis ganas de trabajar con ellos, me ofreció un trabajo de pintura, en el que tenía que restaurar todos los decks y mesas de maderas del lugar. En principio fué un trabajo muy aburrido, no voy a mentir, pero fué una buena manera de volver al trabajo de oficio y a ser un miembro más del equipo que aporta con lo que puede. Después de pensarlo, me pareció una buena idea para bajar a tierra después de varios años trabajando en Argentina como ingeniero, con todas las responsabilidades que eso conlleva.
 
 <div class="img-flotante izq">
-  <img src="/src/assets/images/nord4.jpg" alt="norderlist reparaciones" />
+  <img src="/images/nord4.jpg" alt="norderlist reparaciones" />
 </div>
 
 Después de dos meses pintando, mi gefe estaba teniendo problemas con lus buggies electricos con los que se transportaba todo el personal en el predio. Tenía varios vehiculos rotos y no conseguía a nadie que fuera capáz de repararlos. Despues de notar mi entuciasmo cuanto le pregunté si le podia dar una vistazo, me dejo invertir la ultima hora del dia de trabajo en ver si podia reparar alguno.
@@ -35,7 +35,7 @@ Después de dos meses pintando, mi gefe estaba teniendo problemas con lus buggie
 Luego de un par de semanas y mucha investigacion logré hacer funcionar uno de ellos. A partir de este momento mi gefe me empezó a dar trabajos mucho más complejos.
 
 <div class="img-flotante der">
-  <img src="/src/assets/images/nord1.jpg" alt="reparaciones carro de golf" />
+  <img src="/images/nord1.jpg" alt="reparaciones carro de golf" />
 </div>
 
 Así fue como los ultimos dos meses en este hotel me dediqué principalmente a reparar cosas que los demás muchachos no se animaban a incursionar. Principalmente Carritos de golf e instalaciones eléctricas, pero tambien me toco arreglar tractores de podado que no funcionaban, aires acondicionados y heladera que habian sufrido subas de  tensión y se habian quemado, entre otros.

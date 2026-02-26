@@ -13,14 +13,14 @@ seo:
 
 Durante mi ultimo año trabajando en el hospital Paroissien nos vimos en una situación en la que la pandemia de covid había terminado y el hospital habia sufrido muchas modificaciones y uso excesivo de los sistemas de gases medicinales. Es por esta razon que decidimos con el jefe de gestión tecnológica realizar un mantenimiento del sistema de gases. Habia muchos puertos de conexión con perdidas de oxígeno o vacío y tambíen habian conexiones precarias que se habiar realizado con la urgencia del covid y se debían instalar correctamente.
 <div class="img-presentacion">
-  <img src="/src/assets/images/paroissien2.jpg" alt="Presentación SSCR" />
+  <img src="/images/paroissien2.jpg" alt="Presentación SSCR" />
 </div>
 
 Asi fué como decidimos reemplazar todos los orings de los puertos de gases en los servicios más críticos y redistribuir la instalación de bocas en la terapia intensiva.
 
 Esto aunque parece un trabajo menor, no lo es tanto, teniendo en cuenta que es necesario coordinar a todo un servicio para dejar sin suministro de gases durante un día a determinado secto, sabiendo que el desarmado de todos los puertos de gases que van empotrados en la pared pueden producir daños en la misma, y por ultimo teniendo en cuenta que al tratar con vacío hay que tener cuidado con las propagaciones de infecciones asi como hay que tener extremo cuidado con las perdidas de oxígenos que es un gas altamente inflamable.
 <div class="img-presentacion">
-  <img src="/src/assets/images/gases.jpg" alt="Presentación SSCR" />
+  <img src="/images/gases.jpg" alt="Presentación SSCR" />
 </div>
 
 

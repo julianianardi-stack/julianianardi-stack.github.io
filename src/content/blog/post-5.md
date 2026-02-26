@@ -16,26 +16,26 @@ seo:
 IBS es una empresa Argentina de soluciones ingenieriles y desarrollos de equipos orientados al ambiente hospitalario. Esta empresa tiene sedes en varias provincias de Argentina y se está expandiendo tanto dentro del país como por Chile. Esta compañia básicamente soluciona cualquier problema que se presente en entornos hospitalarios o de equipamiento médico, Ya sea reparación de equipos, venta e instalación de dispositivos médicos, reparación e instalación de generadores industriales e instalaciones eléctricas para hospitales, etc.
 
 <div class="img-flotante izq">
-  <img src="/src/assets/images/ibs1.jpeg" alt="ibs 1" />
+  <img src="/images/ibs1.jpeg" alt="ibs 1" />
 </div>
 
 Luego de unos meses trabajando en el hospital Paroissien me ofrecieron trabajar por las tardes en esta empresa que es una de las más fuertes en la región de Cuyo. En un principio trabajaba algunas tardes nada mas, ya que necesitaba tiempo para estudiar y terminar la facultad, pero una vez finalizada ya me dedique a trabajar más horas con ellos.
 
 <div class="img-flotante der">
-  <img src="/src/assets/images/ibs2.jpg" alt="ibs 2" />
+  <img src="/images/ibs2.jpg" alt="ibs 2" />
 </div>
 
 Lo interesante de esta empresa es que hacen de todo, cualquier problema que no puedas resolver en un hospital o un equipamiento médico, ellos lo van a solucionar. Con este tipo de filosofía nos encontramos con trabajos muy interesantes como tener que mover un Autoclave entero de un establecimiento a otro (hablo de un autoclave hospitalario, que ocupa toda una habitacion y va conectado a todos los servicios del hospital), así como también reconstruir sillones odontológicos o reparar generadores industriales que son el backup de todo un hospital.
 
 Lo interesante de trabajar con esta empresa es que comprendí la diferencia de optimizar recursos al 200%, ya que la ganancia de la empresa esta en la optimisación máxima de cada trabajo. Así es como en ocaciones es necesario desarmar hasta la pieza más pequeña para encontrar una solución antes de comprar repuestos nuevos.
 <div class="img-flotante izq">
-  <img src="/src/assets/images/ibs3.jpg" alt="ibs 3" />
+  <img src="/images/ibs3.jpg" alt="ibs 3" />
 </div>
 
 Este tipo de prácticas, obviamente funcionan en argentina donde el costo de los bienes es excesivamente alto en comparación con el costo de mano de obra. Obviamente que si aplicamos este tipo de soluciones en países como Australia en dónde el coste de los bienes es infimo en comparación al valor hora-hombre, la historia sería distinta.
 
 <div class="img-flotante der">
-  <img src="/src/assets/images/ibs4.jpeg" alt="ibs 4" />
+  <img src="/images/ibs4.jpeg" alt="ibs 4" />
 </div>
 
 Adaptarme a este tipo de prácticas me dió mayor conocimiento en cuanto al funcionamiento interno de muchas piezas y equipos, conocimientos que son realmente útiles a la hora de resolver problemas dónde la solución no es tan sensilla a primera vista.

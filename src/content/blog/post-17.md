@@ -14,19 +14,19 @@ seo:
 ### Experiencia en Bulgarus
 
 <div class="img-flotante izq">
-  <img src="/src/assets/images/bulg1.jpg" alt="bulgarus 1" />
+  <img src="/images/bulg1.jpg" alt="bulgarus 1" />
 </div>
 
 Bulgarus fué una marca de ropa que empezamos desde cero con dos amigos durante la pandemia con la premisa de que se estaba perdiendo el estilo clásico que tanto nos gustaba a nosotros, sumado a los precios ridículos que se manejaban durante la pandemia. Si juntamos a 3 amigos con ganas de emprender, una pandemia que nos da mucho tiempo libre para desarrollar y un nicho de mercado, así es como nace Bulgarus.
 
 <div class="img-flotante der">
-  <img src="/src/assets/images/bulg2.jpg" alt="dbulgarus 2" />
+  <img src="/images/bulg2.jpg" alt="dbulgarus 2" />
 </div>
 Este emprendimiento consistía en seleccionar prendas que nos gustaran en Buenos Aires, modificarlas en Mendoza, ponerles nuestra marca y hacer una producción de fotos que atrajera al publico al que se buscaba llegar.
 
 Obviamente como cualquier emprendimiento nuevo, todo se realiza "a pulmón". Las etiquetas, los diseños, los percheros y la construcción del local, el diseño de la página web, la gestión tanto administrativa como gestión de redes (que era nuestro principal ancla publicitaria), asi  como la atención al publico y la gestión de cuentas se realizaban con nuestras manos.
 <div class="img-flotante der">
-  <img src="/src/assets/images/bulg5.jpg" alt="bulgarus 3" />
+  <img src="/images/bulg5.jpg" alt="bulgarus 3" />
 </div>
 
 Como cualquier emprendedor sabe, hacer todas estas tareas por mano propia, te obliga a aprender muchas cosas con las que no estas familiarizado. El aprendizaje y la evolución que se experimenta en estos tipos de proyectos es increible cuando se adentra en las tareas necesarias para sacar a flote un negocio así.
@@ -35,7 +35,7 @@ Nos tomamos tan enserio este proyecto que tuvimos que hacer una carpeta de negoc
 
  Este trabajo, junto con lo llamativo de nuestras producciones visuales en redes, nos llevaron a conseguir un premio a joven emprendedor en la asociacion de jovenes empresarios de mendoza. No quiero pasar por alto que  la gestión de este premio fue mayormente de mi socio Nicolás, quien tenia la visión que un premio así apalancaría tanto clientes como inversores.
  <div class="img-flotante izq">
-  <img src="/src/assets/images/bulg4.jpg" alt="bulgarus 4" />
+  <img src="/images/bulg4.jpg" alt="bulgarus 4" />
 </div>
 
  Llegó un momento del enprendimiento a fines del 2023 en donde los 3 socios teníamos planes distintos a futuro, en donde Nicolás decidio irse por un año a Nueva Zelanda, Federico decidió avocarse a sus estudios para recibirse y yo (Recien recibido de Bioingeniero) decidí empezar a tomar trabajos más desafiantes y mucha más responsabilidad en mis posiciones con el hospital e IBS. En ese momento decidimos poner en pausa el proyecto antes de abrir locales en el centro de la ciudad, para evitar responsabilidades que no ibamos a poder afrontar.
@@ -43,91 +43,91 @@ Nos tomamos tan enserio este proyecto que tuvimos que hacer una carpeta de negoc
 <h3 class="titulo-galeria">Galería reducida</h3>
 <div class="photo-book">
   <div class="photo-item">
-    <img src="/src/assets/images/bulg3.jpg" alt="Bulgarus 1" />
+    <img src="/images/bulg3.jpg" alt="Bulgarus 1" />
   </div>
   <div class="photo-item">
-    <img src="/src/assets/images/bulg8.jpg" alt="Bulgarus 2" />
+    <img src="/images/bulg8.jpg" alt="Bulgarus 2" />
   </div>
   <div class="photo-item">
-    <img src="/src/assets/images/bulg9.jpg" alt="Bulgarus 3" />
+    <img src="/images/bulg9.jpg" alt="Bulgarus 3" />
   </div>
   <div class="photo-item">
-    <img src="/src/assets/images/bulg10.jpg" alt="Bulgarus 4" />
+    <img src="/images/bulg10.jpg" alt="Bulgarus 4" />
   </div>
     <div class="photo-item">
-    <img src="/src/assets/images/bulg11.jpg" alt="Bulgarus 1" />
+    <img src="/images/bulg11.jpg" alt="Bulgarus 1" />
   </div>
   <div class="photo-item">
-    <img src="/src/assets/images/bulg12.jpg" alt="Bulgarus 2" />
+    <img src="/images/bulg12.jpg" alt="Bulgarus 2" />
   </div>
   <div class="photo-item">
-    <img src="/src/assets/images/bulg13.jpg" alt="Bulgarus 3" />
+    <img src="/images/bulg13.jpg" alt="Bulgarus 3" />
   </div>
   <div class="photo-item">
-    <img src="/src/assets/images/bulg14.jpg" alt="Bulgarus 4" />
+    <img src="/images/bulg14.jpg" alt="Bulgarus 4" />
   </div>
   <div class="photo-item">
-    <img src="/src/assets/images/bulg15.jpg" alt="Bulgarus 1" />
+    <img src="/images/bulg15.jpg" alt="Bulgarus 1" />
   </div>
   <div class="photo-item">
-    <img src="/src/assets/images/bulg16.jpg" alt="Bulgarus 2" />
+    <img src="/images/bulg16.jpg" alt="Bulgarus 2" />
   </div>
   <div class="photo-item">
-    <img src="/src/assets/images/bulg17.jpg" alt="Bulgarus 3" />
+    <img src="/images/bulg17.jpg" alt="Bulgarus 3" />
   </div>
   <div class="photo-item">
-    <img src="/src/assets/images/bulg18.jpg" alt="Bulgarus 4" />
+    <img src="/images/bulg18.jpg" alt="Bulgarus 4" />
   </div>
     <div class="photo-item">
-    <img src="/src/assets/images/bulg19.jpg" alt="Bulgarus 1" />
+    <img src="/images/bulg19.jpg" alt="Bulgarus 1" />
   </div>
   <div class="photo-item">
-    <img src="/src/assets/images/bulg20.jpg" alt="Bulgarus 2" />
+    <img src="/images/bulg20.jpg" alt="Bulgarus 2" />
   </div>
   <div class="photo-item">
-    <img src="/src/assets/images/bulg21.jpg" alt="Bulgarus 3" />
+    <img src="/images/bulg21.jpg" alt="Bulgarus 3" />
   </div>
   <div class="photo-item">
-    <img src="/src/assets/images/bulg22.jpg" alt="Bulgarus 4" />
+    <img src="/images/bulg22.jpg" alt="Bulgarus 4" />
   </div>
     <div class="photo-item">
-    <img src="/src/assets/images/bulg23.jpg" alt="Bulgarus 1" />
+    <img src="/images/bulg23.jpg" alt="Bulgarus 1" />
   </div>
   <div class="photo-item">
-    <img src="/src/assets/images/bulg24.jpg" alt="Bulgarus 2" />
+    <img src="/images/bulg24.jpg" alt="Bulgarus 2" />
   </div>
   <div class="photo-item">
-    <img src="/src/assets/images/bulg25.jpg" alt="Bulgarus 3" />
+    <img src="/images/bulg25.jpg" alt="Bulgarus 3" />
   </div>
   <div class="photo-item">
-    <img src="/src/assets/images/bulg26.jpg" alt="Bulgarus 4" />
+    <img src="/images/bulg26.jpg" alt="Bulgarus 4" />
   </div>
     <div class="photo-item">
-    <img src="/src/assets/images/bulg27.jpg" alt="Bulgarus 1" />
+    <img src="/images/bulg27.jpg" alt="Bulgarus 1" />
   </div>
   <div class="photo-item">
-    <img src="/src/assets/images/bulg28.jpg" alt="Bulgarus 2" />
+    <img src="/images/bulg28.jpg" alt="Bulgarus 2" />
   </div>
   <div class="photo-item">
-    <img src="/src/assets/images/bulg29.jpg" alt="Bulgarus 3" />
+    <img src="/images/bulg29.jpg" alt="Bulgarus 3" />
   </div>
   <div class="photo-item">
-    <img src="/src/assets/images/bulg30.jpg" alt="Bulgarus 4" />
+    <img src="/images/bulg30.jpg" alt="Bulgarus 4" />
   </div>
   <div class="photo-item">
-    <img src="/src/assets/images/bulg31.jpg" alt="Bulgarus 1" />
+    <img src="/images/bulg31.jpg" alt="Bulgarus 1" />
   </div>
   <div class="photo-item">
-    <img src="/src/assets/images/bulg32.jpg" alt="Bulgarus 2" />
+    <img src="/images/bulg32.jpg" alt="Bulgarus 2" />
   </div>
   <div class="photo-item">
-    <img src="/src/assets/images/bulg33.jpg" alt="Bulgarus 3" />
+    <img src="/images/bulg33.jpg" alt="Bulgarus 3" />
   </div>
   <div class="photo-item">
-    <img src="/src/assets/images/bulg34.jpg" alt="Bulgarus 4" />
+    <img src="/images/bulg34.jpg" alt="Bulgarus 4" />
   </div>
     <div class="photo-item">
-    <img src="/src/assets/images/bulg35.jpg" alt="Bulgarus 1" />
+    <img src="/images/bulg35.jpg" alt="Bulgarus 1" />
   </div>
 </div>
 </div>

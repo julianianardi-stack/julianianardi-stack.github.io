@@ -15,25 +15,25 @@ seo:
 ### Experiencia en ARDEN
 
 <div class="img-flotante izq">
-  <img src="/src/assets/images/arden1.jpg" alt="ARDEN Australia" />
+  <img src="/images/arden1.jpg" alt="ARDEN Australia" />
 </div>
 
 Arden es una empresa local de Mackay, la cual tenía  a cargo principalmente el service y reparación de equipos médicos de baja complejidad asi como también la reparación de equipos de esterilización (autoclaves, lavadoras, etc). Pero esta empresa era una compañia "comodin", ya que enrealidad le encargaban todo tipo de reparaciones que ningún otra empresa podía o quería hacer; desde reparaciones mecánicas en tractores de jardineria o maquinas indutriales de lavandería, hasta reparaciones en equipos muy complejos como autoclaves o equipos de refrigeración.
 
 <div class="img-flotante der">
-  <img src="/src/assets/images/arden2.jpg" alt="autoclave" />
+  <img src="/images/arden2.jpg" alt="autoclave" />
 </div>
 
 Cuando ellos me contactan para ofrecerme trabajo, era porque estaban haciendo demasiados trabajos complejos en autoclaves y estaban empezando a llegar trabajos de reparaciones electrónicas en equipos médicos que no podian afrontar por falta de técnicos capacitados.
 
 <div class="img-flotante izq">
-  <img src="/src/assets/images/arden3.jpg" alt="lavadora esterilizacion" />
+  <img src="/images/arden3.jpg" alt="lavadora esterilizacion" />
 </div>
 
 Esta empresa me posibilitó la ampliación de mi campo de conocimiento, ya que en un principio solo me dedicaba a reparar placas y dispositivos electrónicos juntos con autoclaves y equipos de esterilización (en donde tengo mayor experiencia); pero con el tiempo, el dueño de la empresa se dió cuenta de que tenia conocimientos en mecánica y él estaba desbordado de trabajo para poder hacerle frente a todos los requerimientos.
 
 <div class="img-flotante izq">
-  <img src="/src/assets/images/arden4.jpg" alt="quirofano" />
+  <img src="/images/arden4.jpg" alt="quirofano" />
 </div>
 
 Asi fue como incursioné en reparaciones de todo tipo, en equipos industriales de lavandería, dispositivos electrónicos complejos para testear autos de carrera asi como también dispositivos de electromedicina.

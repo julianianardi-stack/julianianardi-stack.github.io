@@ -11,7 +11,7 @@ seo:
 ### Proyecto Anita (Proyecto integrador de 4to año)
 
 <div class="img-presentación">
-  <img src="/src/assets/images/esquema del dispositivo.png" alt="Presentación SSCR" />
+  <img src="/images/esquema del dispositivo.png" alt="Presentación SSCR" />
 </div>
 
 Este es un proyecto muy especial que desarrollamos junto con mi compañero en el marco de la cátedra de proyecto integrador de 4to año. Esta cátedra tenía como objetivo realizar un proyecto integrando todos los conocimientos adquiridos hasta el momento en la carrera de bioingeniería, el cual debía consistir en diseñar y construir un dispositivo capaz de sensar una señal biológica, procesarla y realizar alguna tarea con ella.
@@ -19,13 +19,13 @@ Este es un proyecto muy especial que desarrollamos junto con mi compañero en el
 Para este proyecto decidimos romper un poco con la estructura que todos los estudiantes siguen a la hora de pensar el proyecto. Por lo general se diseña algún equipo básico para uso médico como electrocardiógrafos, o miógrafos diferenciales o algún otro dispositivo para uso clínico. En nuestro caso nos propusimos el desafío de descubrir si las plantas pueden producir señales eléctricas sensables. Para poder llevar a cabo este cometido, tuvimos que investigar mucho sobre los potenciales de acción químico que tienen algunas plantas y como diseñar un dispositivo capaz de sensar tales potenciales.
 
 <div class="img-presentación">
-  <img src="/src/assets/images/mimosa.png" alt="mimosa" />
+  <img src="/images/mimosa.png" alt="mimosa" />
 </div>
 
 Para buscar estos potenciales decidimos trabajar con unas plantas específicas llamadas mimosas púdicas, las cuales tienen una reacción abrupta ante el tacto externo. La probabilidad de encontrar potenciales de acción en estas plantas es mucho mayor que en cualquier otra.
 
 <div class="img-flotante der">
-  <img src="/src/assets/images/presentacion.png" alt="presentacion" />
+  <img src="/images/presentacion.png" alt="presentacion" />
 </div>
 
 Voy a dar un breve resumen del dispositivo y lo que logramos encontrar, pero si quieren leer el paper completo, les voy a dejar el PDF al final de la página.
@@ -34,7 +34,7 @@ Voy a dar un breve resumen del dispositivo y lo que logramos encontrar, pero si 
 Para el diseño del dispositivo tuvimos dos desafíos principales, encontrar los amplificadores y filtros específicos que nos sirvan para poder ver la frecuencia de señal que emite esta planta (la cual es desconocida), y encontrar o fabricar los electrodos que se adapten mejor a la planta sin matarla ni lastimarla excesivamente.
 
  <div class="img-flotante izq">
-  <img src="/src/assets/images/esquemasoft.png" alt="esquema flujo" />
+  <img src="/images/esquemasoft.png" alt="esquema flujo" />
 </div>
 
 Para el caso del desarrollo electrónico decidimos utilizar amplificadores de instrumentación como se usa generalmente en la mayoría de los censores biológicos. Para determinar el filtrado, tuvimos que barrer todo el espectro de frecuencia entre 0 y 100khz que es la frecuencia en la que probablemente podamos encontrar cualquier señal biológica. Una vez ajustado los amplificadores y encontrada la frecuencia de señal que corresponde a la planta, diseñamos y construimos los filtros necesarios pra la misma.
@@ -43,21 +43,21 @@ Para el caso del desarrollo electrónico decidimos utilizar amplificadores de in
 Con los electrodos el trabajo no fue tan sencillo, ya que los electrodos de uso humano son metales específicos que contienen plata, la cual disminuye mucho el potencial de pila en la interfaz humano-electrodo. Con la planta nos era imposible usar estos electrodos comerciales, ya que eran muy grandes para pegarlos al tallo de la planta y el contacto que había era muy malo, el nivel de ruido era inaceptable.
 
  <div class="img-flotante der">
-  <img src="/src/assets/images/electrodo.png" alt="electrodo" />
+  <img src="/images/electrodo.png" alt="electrodo" />
 </div>
 
 
 Para resolverlo probamos varias opciones de electrodos de contacto, pero al final nos decidimos por utilizar electrodos de aguja fabricados por nosotros. Los mismos eran sometidos a un tratamiento químico en un extremo para permitirnos la soldadura de cables a los mismos y asi poder conectarlos al circuito.
 
  <div class="img-presentación">
-  <img src="/src/assets/images/mimosalab.png" alt="respuesta" />
+  <img src="/images/mimosalab.png" alt="respuesta" />
 </div>
 
 
 Una vez terminado el diseño, la construcción y la comprobación de su funcionamiento, nos dispusimos a estudiar como reaccionaba la planta a distintos estímulos.
 
  <div class="img-presentación">
-  <img src="/src/assets/images/respuesta1.png" alt="respuesta" />
+  <img src="/images/respuesta1.png" alt="respuesta" />
 </div>
 
 Con las pruebas llegamos a estas conclusiones:
@@ -72,7 +72,7 @@ Con las pruebas llegamos a estas conclusiones:
 4) La planta responde al estímulo lumínico de la misma manera que lo hace con el estímulo táctil.
 
 <div class="img-presentación">
-  <img src="/src/assets/images/respuesta a la luz.png" alt="respuesta luz" />
+  <img src="/images/respuesta a la luz.png" alt="respuesta luz" />
 </div>
 
 Aquí les dejo el PDF completo con el paper explicativo del desarrollo y funcionamiento del dispositivo.

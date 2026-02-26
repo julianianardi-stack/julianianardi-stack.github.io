@@ -18,7 +18,7 @@ seo:
 Battery world es una franquicia Australiana que vende e instala todo tipo de soluciones con baterias, ya sea para autos, barcos, motorhomes o casas.
 
 <div class="img-flotante izq">
-  <img src="/src/assets/images/battery1.jpg" alt="battery1" />
+  <img src="/images/battery1.jpg" alt="battery1" />
 </div>
 
 
@@ -28,7 +28,7 @@ El trabajo en este local concistia principalmente en la venta de baterias y asoc
 
 Trabajando para esta compañía, obviamente tuve que realizar cursos de batereología y aprender a fondo los distintos tipos de quimicas que puede tener una bateria, como funcionan, cuales son los métodos de carga y por que. Ésta es un area en la que nunca había incursionado y la cual me gustó aprender. También tuve que aprender a usar scanners automotrices para realizar cambios de baterias en autos modernos y borrar codigos de error que aparecen luego de hacerlo.
 <div class="img-flotante der">
-  <img src="/src/assets/images/battery2.jpeg" alt="battery2" />
+  <img src="/images/battery2.jpeg" alt="battery2" />
 </div>
 En este trabajo tenía tambien 2 tareas muy divertidas para mi, la primera era recibir llamados telefonicos de gente que tenía algún problema con el vehículo o barco y yo tenia que ir en la camioneta de la empresa a solucionarlo en la ruta o en el puerto. El otro trbajo divertido era atender a los backpacker que vivian en vans. En Sunshine Coast hay una gran comunidad de gente, muchos de habla hispana, que viven en vans y generalmente tienen sistemas de baterias auxiliares muy precarios. Como generalmente estas personas no tienen los conocimientos o el inglés técnico necesario para explicar los problemas que precentan sus sistemas de baterias, se había hecho famoso el lugar porque un argentino trabajaba allí y podía entenderlos y solucionar esos problemas.
 </div>

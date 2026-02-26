@@ -18,19 +18,19 @@ Este tipo de sistemas no puede fallar durante una cirugía, es por esta razón q
 Para realizar este protocolo de mantenieminto preventivo, obviamente es necesario conocer el funcionamiento del equipo asi como las normativas sujetas a este. Es por este motivo que realicé mi curso dobre torres de laparoscopía, para estar capacitado y poder resolver este tipo de situaciones. Una vez finalizado el curso me dispuse a desarrollar este protocolo necesario para el servicio.
 
 <div class="img-flotante izq">
-  <img src="/src/assets/images/paroissien1.jpg" alt="hsopital 1" />
+  <img src="/images/paroissien1.jpg" alt="hsopital 1" />
 </div>
 
 <div class="img-flotante der">
-  <img src="/src/assets/images/paroissien2.jpg" alt="hospital 2" />
+  <img src="/images/paroissien2.jpg" alt="hospital 2" />
 </div>
 
 <div class="img-flotante izq">
-  <img src="/src/assets/images/paroissien3.jpeg" alt="hospital 3" />
+  <img src="/images/paroissien3.jpeg" alt="hospital 3" />
 </div>
 
 <div class="img-flotante der">
-  <img src="/src/assets/images/paroissien4.jpg" alt="hospital 4" />
+  <img src="/images/paroissien4.jpg" alt="hospital 4" />
 </div>
 
 
