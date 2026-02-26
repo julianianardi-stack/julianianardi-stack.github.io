@@ -5,7 +5,7 @@ publishDate: 'Oct 25 2025'
 isFeatured: true
 seo:
   image:
-    src: '../../assets/images/project-5.jpg'
+    src: '/images/project-5.jpg'
 ---
 <div class="post-contenido texto-pequeno">
 

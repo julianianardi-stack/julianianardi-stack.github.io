@@ -3,10 +3,10 @@ import { defineCollection, z, type ImageFunction } from 'astro:content';
 
 const imageSchema = (image: ImageFunction) =>
     z.object({
-        src: image(),
+        // Cambiamos image() por z.string()
+        src: z.string(),
         alt: z.string().optional()
     });
-
 const seoSchema = (image: ImageFunction) =>
     z.object({
         title: z.string().min(5).max(120).optional(),

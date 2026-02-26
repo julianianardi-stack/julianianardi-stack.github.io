@@ -4,7 +4,7 @@ description: MAntenimiento y reparacion de paneles de gases en neonatologia y te
 publishDate: 'jun 02 2024'
 seo:
   image:
-    src: '../../assets/images/project-1.jpg'
+    src: '/images/project-1.jpg'
     alt: Project preview
 ---
 <div class="post-contenido texto-pequeno">

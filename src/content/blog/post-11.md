@@ -6,7 +6,7 @@ dateRange: '[Sunshine coast, Australia] sep 2024 - mar 2025'
 isFeatured: true
 seo:
   image:
-    src: '../../assets/images/post-14.jpg'
+    src: '/images/post-14.jpg'
     alt: Abstract snow
 ---
 

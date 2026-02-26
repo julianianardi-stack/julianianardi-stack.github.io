@@ -6,7 +6,7 @@ dateRange: '[Mendoza, Argentina] Feb 2019 - Ago 2022'
 isFeatured: true
 seo:
   image:
-    src: '../../assets/images/post-14.jpg'
+    src: '/images/post-14.jpg'
     alt: Abstract snow
 ---
 <div class="post-contenido texto-pequeno">

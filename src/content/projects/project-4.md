@@ -4,7 +4,7 @@ description: Sistema de sensado térmico en 5 puntos de una incubadora de neonat
 publishDate: 'jul 19 2025'
 seo:
   image:
-    src: '../../assets/images/project-4.jpg'
+    src: '/images/project-4.jpg'
 ---
 <div class="post-contenido texto-pequeno">
 

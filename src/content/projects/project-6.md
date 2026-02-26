@@ -4,7 +4,7 @@ description: Desarrollo de dispositivo capaz de sensar y estudiar Fitoseñales e
 publishDate: 'sep 01 2026'
 seo:
   image:
-    src: '../../assets/images/project-6.jpg'
+    src: '/images/project-6.jpg'
 ---
 <div class="post-contenido texto-pequeño">
 

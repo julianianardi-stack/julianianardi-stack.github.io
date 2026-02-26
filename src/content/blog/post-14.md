@@ -6,7 +6,7 @@ dateRange: '[Mackay Australia] Sep 2025 - Feb 2026'
 isFeatured: true
 seo:
   image:
-    src: '../../assets/images/post-14.jpg'
+    src: '/images/post-14.jpg'
     alt: Abstract snow
 ---
 

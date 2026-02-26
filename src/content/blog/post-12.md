@@ -6,7 +6,7 @@ dateRange: '[Airlie beach, Australia] Mar 2025 - Ago 2025'
 isFeatured: true
 seo:
   image:
-    src: '../../assets/images/post-14.jpg'
+    src: '/images/post-14.jpg'
     alt: Abstract snow
 ---
 

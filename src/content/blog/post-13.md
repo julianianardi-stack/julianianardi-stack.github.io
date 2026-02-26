@@ -6,7 +6,7 @@ dateRange: '[Mackay Australia] Ago 2025 - Feb 2026'
 isFeatured: true
 seo:
   image:
-    src: '../../assets/images/arden1.jpg'
+    src: '/images/arden1.jpg'
     alt: ARDEN Australia
 ---
 

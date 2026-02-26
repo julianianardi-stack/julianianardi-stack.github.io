@@ -4,7 +4,7 @@ description: Desarrollo  dispisitivo mecánico que pueda recibir diseños de im�
 publishDate: 'Dec 02 2023'
 seo:
   image:
-    src: '../../assets/images/project-1.jpg'
+    src: '/images/project-1.jpg'
     alt: Project preview
 ---
 <div class="post-contenido texto-pequeno">

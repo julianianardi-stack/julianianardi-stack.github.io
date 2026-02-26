@@ -5,7 +5,7 @@ publishDate: 'Oct 2 2023'
 isFeatured: true
 seo:
   image:
-    src: '../../assets/images/project-2.jpg'
+    src: '/images/project-2.jpg'
     alt: Project preview
 ---
 <div class="post-contenido texto-pequeno">

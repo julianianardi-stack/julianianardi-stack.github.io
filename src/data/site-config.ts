@@ -1,6 +1,6 @@
-import avatar from '../assets/images/avatar.jpg';
-import hero from '../assets/images/portada.jpg';
 import type { SiteConfig } from '../types';
+const avatar = "/images/avatar.jpg";
+const hero = '/images/portada.jpg';
 
 const siteConfig: SiteConfig = {
     website: 'https://example.com',

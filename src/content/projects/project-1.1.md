@@ -4,7 +4,7 @@ description: Desarrollo del protocolo de mantenimiento preventivo para torres de
 publishDate: 'Jan 02 2024'
 seo:
   image:
-    src: '../../assets/images/project-1.jpg'
+    src: '/images/project-1.jpg'
     alt: Project preview
 ---
 <div class="post-contenido texto-pequeno">

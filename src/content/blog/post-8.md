@@ -6,7 +6,7 @@ dateRange: '[South Australia, Australia] Feb 2024 - may 2024'
 isFeatured: true
 seo:
   image:
-    src: '../../assets/images/post-14.jpg'
+    src: '/images/post-14.jpg'
     alt: Abstract snow
 ---
 

@@ -6,7 +6,7 @@ dateRange: '[Mendoza Argentina] Oct 2017 - Dic 2018'
 isFeatured: true
 seo:
   image:
-    src: '../../assets/images/post-14.jpg'
+    src: '/images/post-14.jpg'
     alt: Abstract snow
 ---
 <div class="post-contenido texto-pequeno">
