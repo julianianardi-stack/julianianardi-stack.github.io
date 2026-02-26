@@ -19,12 +19,11 @@ PAra realizar este proyecto fué necesario aprender a programar en arduino y dis
 
 <div class="img-presentacion">
   <video 
-    src="/src/assets/videos/dibujo.mp4" 
+    src="/dibujo.mp4" 
     autoplay 
     muted 
     loop 
     playsinline
-    poster="/src/assets/images/miniatura-video.jpg"
   >
     Tu navegador no soporta videos.
   </video>
