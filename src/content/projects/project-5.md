@@ -1,6 +1,6 @@
 ---
 title: 'PASANTÍMETRO'
-description: Diseño y ejecución de intalación eléctrica aislada del tablero principal, con protecciones y sistemas de testeo aptos para utilizar en banco de pruebas de equipamiento médico.
+description: Diseño y ejecución de instalación eléctrica aislada del tablero principal, con protecciones y sistemas de testeo aptos para utilizar en banco de pruebas de equipamiento médico.
 publishDate: 'Oct 25 2025'
 isFeatured: true
 seo:
@@ -11,31 +11,31 @@ seo:
 
 ### Pasantímetro
 
-Durante mis años trabajando en el hospital Paroissien, recibimos a varios pasates de la carrera de bioingenieria que venían a hacer las prácticas profesionales. Muchas veces los alumnos no tenían mucha experiencia en la manipulación de equipos o instalaciones eléctricas. Por otro lado el hospital no tenía un circuito específico para el departamento de bioingeniería, por lo que cuando se producía una primera falla en un equipo o conexión en el servicio de bioingeniería, se producía un corte del suministro en todo el piso.
+Durante mis años trabajando en el hospital Paroissien, recibimos a varios pasantes de la carrera de bioingeniería que venían a hacer las prácticas profesionales. Muchas veces los alumnos no tenían mucha experiencia en la manipulación de equipos o instalaciones eléctricas. Por otro lado el hospital no tenía un circuito específico para el departamento de bioingeniería, por lo que cuando se producía una primera falla en un equipo o conexión en el servicio de bioingeniería, se producía un corte del suministro en todo el piso.
 
-Durante mis propias prácticas aviste este problema en las instalaciones eléctricas del hospital, probando equipos defectuosos que nos dejaban sin suministro a todo el piso. Es por esto que le propuse al jefe de servicio si yo podía hacer una instalación independiente aguas abajo del suministro con sus propias protecciones y siguiendo los estandares necesarios para realizar un banco de pruebas.
+Durante mis propias prácticas aviste este problema en las instalaciones eléctricas del hospital, probando equipos defectuosos que nos dejaban sin suministro a todo el piso. Es por esto que le propuse al jefe de servicio si yo podía hacer una instalación independiente aguas abajo del suministro con sus propias protecciones y siguiendo los estándares necesarios para realizar un banco de pruebas.
 
-Asi es como realicé un cableado externo desde el tablero principal llevandolo por techos y paredes hasta el servicio de bioingeniería para llegar a un tablero de protecciones y pruebas debidamente instalado.
+Asi es como realicé un cableado externo desde el tablero principal llevándolo por techos y paredes hasta el servicio de bioingeniería para llegar a un tablero de protecciones y pruebas debidamente instalado.
 
-Esta caja de aislación consta de su protección magnetotérmica, así como su disyuntor de normativa hospitalaria (15 msg). Aguas abajo de estas protecciones instalé tomas y puestos de prueba especifico para equipamiento tanto médico como regular. Así como también fabriqué un simple sistema anti-cortocircuito el cual predía una lámpara de filamento en serie cuando el equipo bajo testeo estaba en conrtocircuito o tenía un consumo excesivo. 
+Esta caja de aislación consta de su protección magneto-térmica, así como su disyuntor de normativa hospitalaria (15 msg). Aguas abajo de estas protecciones instalé tomas y puestos de prueba especifico para equipamiento tanto médico como regular. Así como también fabriqué un simple sistema anti-cortocircuito el cual prendía una lámpara de filamento en serie cuando el equipo bajo testeo estaba en cortocircuito o tenía un consumo excesivo. 
 
 <div class="img-flotante izq">
-  <img src="/images/paroissien1.jpg" alt="hsopital 1" />
+  <img src="/images/Paroissien1.jpg" alt="hospital 1" />
 </div>
 
 <div class="img-flotante der">
-  <img src="/images/paroissien2.jpg" alt="hospital 2" />
+  <img src="/images/Paroissien2.jpg" alt="hospital 2" />
 </div>
 
 <div class="img-flotante izq">
-  <img src="/images/paroissien3.jpeg" alt="hospital 3" />
+  <img src="/images/Paroissien3.jpeg" alt="hospital 3" />
 </div>
 
 <div class="img-flotante der">
-  <img src="/images/paroissien4.jpg" alt="hospital 4" />
+  <img src="/images/Paroissien4.jpg" alt="hospital 4" />
 </div>
 
-Este tipo de instalaciones, aunque simbples, son muy efectivas y seguras para probar equipameinto con posibles defectos, evitando el riesgo de arruinar alguna otra parte de la intalacón eléctrica aguas arriba.
+Este tipo de instalaciones, aunque simples, son muy efectivas y seguras para probar equipamiento con posibles defectos, evitando el riesgo de arruinar alguna otra parte de la instalación eléctrica aguas arriba.
 
 </div>
 

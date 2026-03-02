@@ -1,5 +1,5 @@
 ---
-title: 'Tecnico informatico (Freelancer)'
+title: 'Técnico informático (Freelancer)'
 excerpt: Armado y reparación de pc, soluciones de redes y programación
 publishDate: 2018'06-01
 dateRange: '[Mendoza Argentina] Ene 2018 - Feb 2024'
@@ -16,9 +16,9 @@ seo:
 Desde muy chico tengo facilidad y me gusta investigar en la informática. Durante la secundaria hice un curso de armado y reparación de PC en la Fundación Saber, que me dió las bases para empezar a crecer en este campo de manera profesional.
 
 
-Con estos conocimientos técnicos sumados a la programación y software que aprendí en la universidad, me desempeñe como técnico informatico en diversas tareas. He tenido diversos proyectos como armado de redes, armado de computadoras y entornos de comunicacion para clinicas odontológicas, así como también soluciones más basicas de clientes que necesitan un simple formateo de pc o algun arreglo menor. 
+Con estos conocimientos técnicos sumados a la programación y software que aprendí en la universidad, me desempeñe como técnico informático en diversas tareas. He tenido diversos proyectos como armado de redes, armado de computadoras y entornos de comunicación para clínicas odontológicas, así como también soluciones más básicas de clientes que necesitan un simple formateo de pc o algún arreglo menor. 
 
-Obviamente al adentrarme en la ingeniería dejé un poco de lado estos trabajos, realizando unicamente alguno más especificos eventualmente, pero esta base de conocimiento fué muy util durante mi carrera.
+Obviamente al adentrarme en la ingeniería dejé un poco de lado estos trabajos, realizando unicamente alguno más específicos eventualmente, pero esta base de conocimiento fué muy util durante mi carrera.
 </div>
 
 <style>

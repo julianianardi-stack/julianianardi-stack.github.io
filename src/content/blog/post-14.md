@@ -17,17 +17,17 @@ seo:
   <div class="img-flotante izq">
   <img src="/images/post-14.jpg" alt="mesa de cirugia" />
   </div> 
-  En esta empresa desempeñé el rol de Técnico de campo en donde debía realizar el manteniemiento y reparación tanto de equipamiento propio de la empresa como de euquipo de terceros, ya que eramos el único servicio técnico en mackay y alrededores capáz de resolver problemas técnicos con los equipos médicos. (Mackay es un pueblo minero en el noreste de Australia que está a más de 12 horas en auto de la capital Brisbane y con poca frecuencia de vuelo. Es por esta razon que es muy dificil encontrar lo que ellos llaman técnicos on site que puedan reparar o resolver en el momento).
+  En esta empresa desempeñé el rol de Técnico de campo en donde debía realizar el mantenimiento y reparación tanto de equipamiento propio de la empresa como de equipo de terceros, ya que eramos el único servicio técnico en mackay y alrededores capaz de resolver problemas técnicos con los equipos médicos. (Mackay es un pueblo minero en el noreste de Australia que está a más de 12 horas en auto de la capital Brisbane y con poca frecuencia de vuelo. Es por esta razón que es muy difícil encontrar lo que ellos llaman técnicos on site que puedan reparar o resolver en el momento).
 
-  Dada esta situación en el pueblo, nosotros estabamos encargados de resolver la mayor cantidad de "Brakedowns" en los hospitales y centros de cuidados de día allí.
+  Dada esta situación en el pueblo, nosotros estábamos encargados de resolver la mayor cantidad de "Brakedowns" en los hospitales y centros de cuidados de día allí.
 
-  El estilo de trabajo aqui era muy interesante ya que tenía que viajar de hospital en hospital y en pueblos de toda la zona (en ocaciones debía manejar mas de 5hs para llegar al pueblo de destino) con mi van cargada de Herramientas  y repuestos que me permitieran resolver cualquier problema que me encuentre al llegar a cada establecimiento.
+  El estilo de trabajo aquí era muy interesante ya que tenía que viajar de hospital en hospital y en pueblos de toda la zona (en ocasiones debía manejar mas de 5hs para llegar al pueblo de destino) con mi van cargada de Herramientas  y repuestos que me permitieran resolver cualquier problema que me encuentre al llegar a cada establecimiento.
 
   <div class="img-flotante izq">
   <img src="/images/arjo1.jpg" alt="van de arjo" />
   </div> 
 
-  Con este estilo de trabajo aprendí a resolver lo máximo posible con los medios que teniamos. es importante mencionar que estuve trabajando en un país al otro lado del mundo, en el que se habla otro idioma, con vocabulario técnico, en pueblos del interior, en donde muchas veces la comunicación era una barrera a superar.
+  Con este estilo de trabajo aprendí a resolver lo máximo posible con los medios que teníamos. es importante mencionar que estuve trabajando en un país al otro lado del mundo, en el que se habla otro idioma, con vocabulario técnico, en pueblos del interior, en donde muchas veces la comunicación era una barrera a superar.
 
   En esta empresa, se trabajaba por objetivos y yo era al el encargado de manejar mis tiempos y soluciones. Aprendí a administrar mis tiempos y responder ante el cliente con soluciones que fueran acorde a sus necesidades apuntando al trabajo de mayor calidad posible.
 

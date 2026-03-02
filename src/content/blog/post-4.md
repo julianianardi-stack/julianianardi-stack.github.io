@@ -1,5 +1,5 @@
 ---
-title: 'Ayudante de catedra (Universidad de Mendoza)'
+title: 'Ayudante de cátedra (Universidad de Mendoza)'
 excerpt: Profesor adjunto de la cátedra de Proyecto integrador de cuarto año
 publishDate: 2024-02-01
 dateRange: '[Mendoza Argentina] Nov 2023 - Feb 2024'
@@ -9,15 +9,15 @@ seo:
     src: '/images/post-14.jpg'
     alt: Abstract snow
 ---
-<div class="post-contenido texto-pequeno">
+<div class="post-contenido texto-pequeño">
 
 ### Experiencia en la Universidad de Mendoza
 
-En mis últimos meses en Argentina, me ofrecieron la oportunidad de ser un profesor adjunto en la cátedra de Proyecto integrador de cuarto año. Esta es una cátedra que disfruté mucho en al facultad ya que es una materia totalmente distinta, la cual estaba direccionada a la parte práctica y técnica de la ingenieria, dónde siempre me sentí más cómodo.
+En mis últimos meses en Argentina, me ofrecieron la oportunidad de ser un profesor adjunto en la cátedra de Proyecto integrador de cuarto año. Esta es una cátedra que disfruté mucho en al facultad ya que es una materia totalmente distinta, la cual estaba direccionada a la parte práctica y técnica de la ingeniería, dónde siempre me sentí más cómodo.
 
-La  cátedra de "Proyecto integrador de cuarto año" consistía en, como lo dice su numbre, invitar a los alumnos a integrar todos los conocimientos adquiridos hasta el momento en un proyecto. Llegados a cuarto año, los alumnos de Bioingeniería ya deberían tener los conocimientos suficicientes en biología y electrónica para poder diseñar y construir desde cero, un dispositivo capáz de sensar alguna señal biológica, procesarla (tanto a nivel de hardware como de software) para luego usar esta señal con algún fin determinado. Algunos alumnos usaban esta señal para modular comportamientos de actuadores mecánico-eléctrico o para adquirir información con la que se pudiera determinar alguna anomalia o medición en el órgano biológico que se esta estudiando.
+La  cátedra de "Proyecto integrador de cuarto año" consistía en, como lo dice su nombre, invitar a los alumnos a integrar todos los conocimientos adquiridos hasta el momento en un proyecto. Llegados a cuarto año, los alumnos de Bioingeniería ya deberían tener los conocimientos suficientes en biología y electrónica para poder diseñar y construir desde cero, un dispositivo capaz de sensar alguna señal biológica, procesarla (tanto a nivel de hardware como de software) para luego usar esta señal con algún fin determinado. Algunos alumnos usaban esta señal para modular comportamientos de actuadores mecánico-eléctrico o para adquirir información con la que se pudiera determinar alguna anomalía o medición en el órgano biológico que se esta estudiando.
 
-En esta catedra me desempeñé como profesor de laboratorio, en dónde debía guiar y ayudar a los alumnos en la construcción del dispositivo. El desarrollo de dispositivos y equipamiento es algo que verdaderamente me apaciona, y el compartirlo con estudiantes que traen ideas verdaderamente innovadoras y muchas ganas de trabajar, es realmente movilizante.
+En esta cátedra me desempeñé como profesor de laboratorio, en dónde debía guiar y ayudar a los alumnos en la construcción del dispositivo. El desarrollo de dispositivos y equipamiento es algo que verdaderamente me apasiona, y el compartirlo con estudiantes que traen ideas verdaderamente innovadoras y muchas ganas de trabajar, es realmente movilizante.
 
 
 

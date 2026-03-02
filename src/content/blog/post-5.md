@@ -1,6 +1,6 @@
 ---
 title: 'Bioingeniero (Integral Biomedical Solutions)'
-excerpt: Reparación, mantenimiento y desarrollo de equipamineto médico e instalaciones hospitalarias.
+excerpt: Reparación, mantenimiento y desarrollo de equipamiento médico e instalaciones hospitalarias.
 publishDate: 2024-02-02
 dateRange: '[Mendoza Argentina] Oct 2022 - Feb 2024'
 isFeatured: true
@@ -9,11 +9,11 @@ seo:
     src: '/images/post-14.jpg'
     alt: Abstract snow
 ---
-<div class="post-contenido texto-pequeno">
+<div class="post-contenido texto-pequeño">
 
 ### Experiencia en la empresa Integral Biomedical Solutions
 
-IBS es una empresa Argentina de soluciones ingenieriles y desarrollos de equipos orientados al ambiente hospitalario. Esta empresa tiene sedes en varias provincias de Argentina y se está expandiendo tanto dentro del país como por Chile. Esta compañia básicamente soluciona cualquier problema que se presente en entornos hospitalarios o de equipamiento médico, Ya sea reparación de equipos, venta e instalación de dispositivos médicos, reparación e instalación de generadores industriales e instalaciones eléctricas para hospitales, etc.
+IBS es una empresa Argentina de soluciones ingenieriles y desarrollos de equipos orientados al ambiente hospitalario. Esta empresa tiene sedes en varias provincias de Argentina y se está expandiendo tanto dentro del país como por Chile. Esta compañía básicamente soluciona cualquier problema que se presente en entornos hospitalarios o de equipamiento médico, Ya sea reparación de equipos, venta e instalación de dispositivos médicos, reparación e instalación de generadores industriales e instalaciones eléctricas para hospitales, etc.
 
 <div class="img-flotante izq">
   <img src="/images/ibs1.jpeg" alt="ibs 1" />
@@ -25,22 +25,22 @@ Luego de unos meses trabajando en el hospital Paroissien me ofrecieron trabajar 
   <img src="/images/ibs2.jpg" alt="ibs 2" />
 </div>
 
-Lo interesante de esta empresa es que hacen de todo, cualquier problema que no puedas resolver en un hospital o un equipamiento médico, ellos lo van a solucionar. Con este tipo de filosofía nos encontramos con trabajos muy interesantes como tener que mover un Autoclave entero de un establecimiento a otro (hablo de un autoclave hospitalario, que ocupa toda una habitacion y va conectado a todos los servicios del hospital), así como también reconstruir sillones odontológicos o reparar generadores industriales que son el backup de todo un hospital.
+Lo interesante de esta empresa es que hacen de todo, cualquier problema que no puedas resolver en un hospital o un equipamiento médico, ellos lo van a solucionar. Con este tipo de filosofía nos encontramos con trabajos muy interesantes como tener que mover un Autoclave entero de un establecimiento a otro (hablo de un autoclave hospitalario, que ocupa toda una habitación y va conectado a todos los servicios del hospital), así como también reconstruir sillones odontológicos o reparar generadores industriales que son el backup de todo un hospital.
 
-Lo interesante de trabajar con esta empresa es que comprendí la diferencia de optimizar recursos al 200%, ya que la ganancia de la empresa esta en la optimisación máxima de cada trabajo. Así es como en ocaciones es necesario desarmar hasta la pieza más pequeña para encontrar una solución antes de comprar repuestos nuevos.
+Lo interesante de trabajar con esta empresa es que comprendí la diferencia de optimizar recursos al 200%, ya que la ganancia de la empresa esta en la optimización máxima de cada trabajo. Así es como en ocasiones es necesario desarmar hasta la pieza más pequeña para encontrar una solución antes de comprar repuestos nuevos.
 <div class="img-flotante izq">
   <img src="/images/ibs3.jpg" alt="ibs 3" />
 </div>
 
-Este tipo de prácticas, obviamente funcionan en argentina donde el costo de los bienes es excesivamente alto en comparación con el costo de mano de obra. Obviamente que si aplicamos este tipo de soluciones en países como Australia en dónde el coste de los bienes es infimo en comparación al valor hora-hombre, la historia sería distinta.
+Este tipo de prácticas, obviamente funcionan en argentina donde el costo de los bienes es excesivamente alto en comparación con el costo de mano de obra. Obviamente que si aplicamos este tipo de soluciones en países como Australia en dónde el coste de los bienes es ínfimo en comparación al valor hora-hombre, la historia sería distinta.
 
 <div class="img-flotante der">
   <img src="/images/ibs4.jpeg" alt="ibs 4" />
 </div>
 
-Adaptarme a este tipo de prácticas me dió mayor conocimiento en cuanto al funcionamiento interno de muchas piezas y equipos, conocimientos que son realmente útiles a la hora de resolver problemas dónde la solución no es tan sensilla a primera vista.
+Adaptarme a este tipo de prácticas me dió mayor conocimiento en cuanto al funcionamiento interno de muchas piezas y equipos, conocimientos que son realmente útiles a la hora de resolver problemas dónde la solución no es tan sencilla a primera vista.
 
-En esta empresa también tuve que aprender a usar materiales y capaciades distintas, como por ejemplo en la reconstruccion de silones odontológicos; donde tuve que aprender a trabajar con fibra de vidrio, algunas soldaduras especificas, asi como también primers y pinturas especiales.
+En esta empresa también tuve que aprender a usar materiales y capacidades distintas, como por ejemplo en la reconstrucción de sillones odontológicos; donde tuve que aprender a trabajar con fibra de vidrio, algunas soldaduras especificas, asi como también primers y pinturas especiales.
 
 
 </div>

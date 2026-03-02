@@ -21,7 +21,7 @@ const siteConfig: SiteConfig = {
             href: '/'
         },
         {
-            text: 'Historial academico',
+            text: 'Historial académico',
             href: '/background'
         },
         {
@@ -51,14 +51,14 @@ const siteConfig: SiteConfig = {
     ],
     socialLinks: [
         {
-            text: 'linkedin',
+            text: 'LinkedIn',
             href: 'https://www.linkedin.com/in/julian-ianardi-07b403233/?locale=en_US'
         },
 
     ],
     hero: {
         title: 'Hola soy el Bioingeniero Julián Ianardi y te doy la bienvenida a mi rincón personal',
-        text: "Soy un ingeniero de campo apasionado por la tecnología y la búsqueda de soluciones. Me encanta aprender cosas nuevas, investigar como funciona todo y encontrar soluciones u optimizar procesos. En esta página encontrarás algunos de mis proyectos, mis experiencias viajando y mi recorrido laboral y académico.",
+        text: "Soy un ingeniero de campo Argentino apasionado por la tecnología y la búsqueda de soluciones. Me encanta aprender cosas nuevas, investigar como funciona todo y encontrar soluciones u optimizar procesos. En esta página encontrarás algunos de mis proyectos, mis experiencias viajando y mi recorrido laboral y académico.",
         image: {
             src: hero,
             alt: 'Foto personal'

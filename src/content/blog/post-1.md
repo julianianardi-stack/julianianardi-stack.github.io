@@ -1,6 +1,6 @@
 ---
-title: 'Trabajos de medio tiempo (Múltiples compañias)'
-excerpt: Imprenta, Estudio contable, Moso, Libreria, Repración sistemas de irrigación, intalación de cortinas
+title: 'Trabajos de medio tiempo (Múltiples compañías)'
+excerpt: Imprenta, Estudio contable, Moso, librería, reparación sistemas de irrigación, instalación de cortinas
 publishDate: 2018-03-01
 dateRange: '[Mendoza Argentina] Ago 2017 - Feb 2024'
 isFeatured: true
@@ -9,32 +9,32 @@ seo:
     src: '/images/post-14.jpg'
     alt: Abstract snow
 ---
-<div class="post-contenido texto-pequeno">
+<div class="post-contenido texto-pequeño">
 
-### Trabajos temporalees durante mi universidad
+### Trabajos temporales durante mi universidad
 
-Desde mis últimos años de colegio hasta que teminé la universidad, desempeñé diversos trabajos que me ayudaban a costear mis gastos. Estos fueron ocacionales o de corta duración, por lo que no voy a entrer en muchos detalles, es simplemente para hacer una mención.
+Desde mis últimos años de colegio hasta que terminé la universidad, desempeñé diversos trabajos que me ayudaban a costear mis gastos. Estos fueron ocasionales o de corta duración, por lo que no voy a entrar en muchos detalles, es simplemente para hacer una mención.
 
 <h3>Trabajo en estudio contable</h3>
 
-Durante varios veranos trabajé en el estudio contable de mi familia, en donde desempeñaba tareas muy simples de archivado de documentos, presentación de declaraciones juradas y realización de tramites varios. Aqui tuve buen contacto con el trabajo de oficina.
+Durante varios veranos trabajé en el estudio contable de mi familia, en donde desempeñaba tareas muy simples de archivado de documentos, presentación de declaraciones juradas y realización de tramites varios. aquí tuve buen contacto con el trabajo de oficina.
 
 <h3>Reparación de sistemas de irrigación</h3>
 
 Durante mis años de universidad tenía algunos clientes de barrios cercanos al mio, que me llamaban por problemas con los sistemas de irrigación de sus jardines o con los sistemas de bombeo en las piletas.
-Estos trabajos iban desde reparación de tuberias hasta reparación de bómbas de agua o timers para sistemas de irrigación.
+Estos trabajos iban desde reparación de tuberías hasta reparación de bombas de agua o timers para sistemas de irrigación.
 
 <h3 class="maintenance-title">Instalación de cortinas</h3>
 
-Estas instalaciones eran trabajos ocacionales con una empresa llamada el taller, en donde ellos disñaban cortinas, persianas y cobertores para sillones. Mi trabajo era ir y encargarme de las instalaciones en las casas de los clientes. Usualmente eran trabajos de un par de horas que me venían muy bién para tener unos ingresos extras. Básicamente consistía en hacer las instalaciones (amurar continas y percianas) en los dommicilios y ubicacciones que ellos me indicaban, así como también asesorar a la hora de tomar medidas y hacer diseños, cual era el sistema de anclaje óptimo para ese muro y en dónde era la ubicación óptima también.
+Estas instalaciones eran trabajos ocasionales con una empresa llamada el taller, en donde ellos diñaban cortinas, persianas y cobertores para sillones. Mi trabajo era ir y encargarme de las instalaciones en las casas de los clientes. Usualmente eran trabajos de un par de horas que me venían muy bien para tener unos ingresos extras. Básicamente consistía en hacer las instalaciones (amurar cortinas y persianas) en los domicilios y ubicaciones que ellos me indicaban, así como también asesorar a la hora de tomar medidas y hacer diseños, cual era el sistema de anclaje óptimo para ese muro y en dónde era la ubicación óptima también.
 
 <h3 class="maintenance-title">Trabajo en imprenta</h3>
 
-Durante mis primeros dos años de universidad, trabajé a la par en Upgrade(empresa de turismo) y en esta imprenta. Aquí básicamente tenía que armar folletos, talonarios de facturas o rollos térmicos. Era un trabajo muy monotono y aburrido, pero era el trabajo que me pagaba la facultad.
+Durante mis primeros dos años de universidad, trabajé a la par en Upgrade(empresa de turismo) y en esta imprenta. Aquí básicamente tenía que armar folletos, talonarios de facturas o rollos térmicos. Era un trabajo muy monótono y aburrido, pero era el trabajo que me pagaba la facultad.
 
-<h3 class="maintenance-title">Atención al cleinte en librería</h3>
+<h3 class="maintenance-title">Atención al cliente en librería</h3>
 
-Cuando mi trabajo en la impreta se terminó, me ofrecieron trabajar en una librería durante un semestre. El trabajo era relativamente sencillo, atencion al público, pero también había que hacer control de stock y pedido a proveedores ya que era una librería pequeña y había un solo empleado.
+Cuando mi trabajo en la imprenta se terminó, me ofrecieron trabajar en una librería durante un semestre. El trabajo era relativamente sencillo, atención al público, pero también había que hacer control de stock y pedido a proveedores ya que era una librería pequeña y había un solo empleado.
 
 <h3 class="maintenance-title">Restaurant Broo</h3>
 

@@ -1,6 +1,6 @@
 ---
-title: 'Sistema Integral de Sensado Para Incubadoras de Neonatología'
-description: Sistema de sensado térmico en 5 puntos de una incubadora de neonatología para determinar el cumplimiento de los estándares IRAM.
+title: 'Sistema Integral de censado Para Incubadoras de Neonatología'
+description: Sistema de censado térmico en 5 puntos de una incubadora de neonatología para determinar el cumplimiento de los estándares IRAM.
 publishDate: 'jul 19 2025'
 seo:
   image:
@@ -10,27 +10,27 @@ seo:
 
 ### Neotermómetro
 
-Este fué un dispositivo que desarrollé durante mis años trabajando en el hospital paroissien, donde no siempre teníamos acceso a todas las herramientas necesarias para realizar los mantenimientos preventivos a todos los equipos médicos.
+Este fué un dispositivo que desarrollé durante mis años trabajando en el hospital Paroissien, donde no siempre teníamos acceso a todas las herramientas necesarias para realizar los mantenimientos preventivos a todos los equipos médicos.
 
-Uno de los casos fué el de las incubadoras para neonatología, las cuales entre los chequeos que se dében realizar es la temperatura de la incubadora en 5 puntos diferentes de ella a diferente altura y el tiempo que la incubadora llega en todos estos puntos a la temperatura deseada.
+Uno de los casos fué el de las incubadoras para neonatología, las cuales entre los chequeos que se deben realizar es la temperatura de la incubadora en 5 puntos diferentes de ella a diferente altura y el tiempo que la incubadora llega en todos estos puntos a la temperatura deseada.
 
-Fué asi que con un esp 32, 4 sensores de temperatura ...., un display y el diseño en impresión 3D de soportes para los mismos; desarrollé un sistema capáz de realizar este sensado en 5 puntos a la vez y graficar con respecto al tiempo la evolución de la temperatura en la incubadora.
+Fué asi que con un esp 32, 4 sensores de temperatura ...., un display y el diseño en impresión 3D de soportes para los mismos; desarrollé un sistema capaz de realizar este censado en 5 puntos a la vez y graficar con respecto al tiempo la evolución de la temperatura en la incubadora.
 
-Obviamente para este desarrollo es necesario tener concimientos tanto de electrónica como de Arduino, para poder construir el dispositivo
+Obviamente para este desarrollo es necesario tener conocimientos tanto de electrónica como de Arduino, para poder construir el dispositivo
 <div class="img-flotante izq">
-  <img src="/images/paroissien1.jpg" alt="hsopital 1" />
+  <img src="/images/Paroissien1.jpg" alt="hospital 1" />
 </div>
 
 <div class="img-flotante der">
-  <img src="/images/paroissien2.jpg" alt="hospital 2" />
+  <img src="/images/Paroissien2.jpg" alt="hospital 2" />
 </div>
 
 <div class="img-flotante izq">
-  <img src="/images/paroissien3.jpeg" alt="hospital 3" />
+  <img src="/images/Paroissien3.jpeg" alt="hospital 3" />
 </div>
 
 <div class="img-flotante der">
-  <img src="/images/paroissien4.jpg" alt="hospital 4" />
+  <img src="/images/Paroissien4.jpg" alt="hospital 4" />
 </div>
 
 

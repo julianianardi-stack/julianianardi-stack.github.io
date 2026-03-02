@@ -18,13 +18,13 @@ seo:
   <img src="/images/arden1.jpg" alt="ARDEN Australia" />
 </div>
 
-Arden es una empresa local de Mackay, la cual tenía  a cargo principalmente el service y reparación de equipos médicos de baja complejidad asi como también la reparación de equipos de esterilización (autoclaves, lavadoras, etc). Pero esta empresa era una compañia "comodin", ya que enrealidad le encargaban todo tipo de reparaciones que ningún otra empresa podía o quería hacer; desde reparaciones mecánicas en tractores de jardineria o maquinas indutriales de lavandería, hasta reparaciones en equipos muy complejos como autoclaves o equipos de refrigeración.
+Arden es una empresa local de Mackay, la cual tenía  a cargo principalmente el service y reparación de equipos médicos de baja complejidad asi como también la reparación de equipos de esterilización (autoclaves, lavadoras, etc). Pero esta empresa era una compañía "comodín", ya que en realidad le encargaban todo tipo de reparaciones que ningún otra empresa podía o quería hacer; desde reparaciones mecánicas en tractores de jardinería o maquinas industriales de lavandería, hasta reparaciones en equipos muy complejos como autoclaves o equipos de refrigeración.
 
 <div class="img-flotante der">
   <img src="/images/arden2.jpg" alt="autoclave" />
 </div>
 
-Cuando ellos me contactan para ofrecerme trabajo, era porque estaban haciendo demasiados trabajos complejos en autoclaves y estaban empezando a llegar trabajos de reparaciones electrónicas en equipos médicos que no podian afrontar por falta de técnicos capacitados.
+Cuando ellos me contactan para ofrecerme trabajo, era porque estaban haciendo demasiados trabajos complejos en autoclaves y estaban empezando a llegar trabajos de reparaciones electrónicas en equipos médicos que no podían afrontar por falta de técnicos capacitados.
 
 <div class="img-flotante izq">
   <img src="/images/arden3.jpg" alt="lavadora esterilizacion" />
@@ -39,7 +39,7 @@ Esta empresa me posibilitó la ampliación de mi campo de conocimiento, ya que e
 Asi fue como incursioné en reparaciones de todo tipo, en equipos industriales de lavandería, dispositivos electrónicos complejos para testear autos de carrera asi como también dispositivos de electromedicina.
 
 
-Luego de un tiempo trabajando con ellos, La multinacional Arjo compro una parte de esta empresa (incluido el contrato con sus técnicos) lo cual me obligó a mudarme con esta nueva compañia. Sin embargo continué trabajando con ARDEN como contratista externo, en donde ellos me llamaban para trabajos específicos en los que ellos no tenian los técnicos necesarios.
+Luego de un tiempo trabajando con ellos, La multinacional Arjo compro una parte de esta empresa (incluido el contrato con sus técnicos) lo cual me obligó a mudarme con esta nueva compañía. Sin embargo continué trabajando con ARDEN como contratista externo, en donde ellos me llamaban para trabajos específicos en los que ellos no tenían los técnicos necesarios.
 
 </div>
 

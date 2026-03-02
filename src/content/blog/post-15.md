@@ -21,13 +21,13 @@ Locale es un restaurant de alto nivel ubicado en el centro de Noosa en donde me 
   <img src="/images/dishi1.jpg" alt="dishi 1" />
 </div>
 
-Durante mi estadía en Sunshine Coast, a fines del 2024, comencé a trabajar los fines de semana y algunos horas en la semana por la noche. La idea de entrar en este trabajo era para ahorar un poco más de dinero para luego viajar, así como tambien experimentar el trabajo en restaurantes y cocinas que nunca había realizado en australia.
+Durante mi estadía en Sunshine Coast, a fines del 2024, comencé a trabajar los fines de semana y algunos horas en la semana por la noche. La idea de entrar en este trabajo era para ahorrar un poco más de dinero para luego viajar, así como también experimentar el trabajo en restaurantes y cocinas que nunca había realizado en Australia.
 <div class="img-flotante der">
   <img src="/images/dishi2.jpg" alt="dishi 2" />
 </div>
 El trabajo en este restaurant fué bastante simple, corto pero también intenso. trabajaba de noche lavando platos y ayudando en la cocina hacer pre cocines.
 
-En este trabajo me gustó la buena onda que se sentia con los compañeros de trabajo y que era un trabajo simple pero también exigente, en donde tienes que acelerar en los horiarios picos y cumplir con el ritmo del restaurant.
+En este trabajo me gustó la buena onda que se sentía con los compañeros de trabajo y que era un trabajo simple pero también exigente, en donde tienes que acelerar en los horarios picos y cumplir con el ritmo del restaurant.
 </div>
 
 <style>

@@ -1,6 +1,6 @@
 ---
 title: 'Ground Technician (Freedom resort)'
-excerpt: Mantenimiento general de intalaciones, reparaciones de intalaciones eléctricas y carros de golf eléctricos
+excerpt: Mantenimiento general de instalaciones, reparaciones de instalaciones eléctricas y carros de golf eléctricos
 publishDate: 2025-08-01
 dateRange: '[Airlie beach, Australia] Mar 2025 - Ago 2025'
 isFeatured: true
@@ -10,7 +10,7 @@ seo:
     alt: Abstract snow
 ---
 
-<div class="post-contenido texto-pequeno">
+<div class="post-contenido texto-pequeño">
 
 ### Experiencia en FREEDOM - NORDERLIS
 
@@ -18,29 +18,29 @@ seo:
   <img src="/images/nord2.jpg" alt="NORDERLIS team" />
 </div>
 
-Freedom es un Eco resort que se encuentra en las costas de Airlie Beach, el cual posee no solo un hotel, sino que tiene su propio restaurant con playa propia y un predio preparado para organizar casamientos y eventos. Este es el lugar mas hermoso en el que he trabajado en mi vida. La relación trabajo-vida en este lugar es increíble, y el espacio fisico donde está localizado es alucinante, con una flora y fauna sorprendente.
+Freedom es un Eco resort que se encuentra en las costas de Airlie Beach, el cual posee no solo un hotel, sino que tiene su propio restaurant con playa propia y un predio preparado para organizar casamientos y eventos. Este es el lugar mas hermoso en el que he trabajado en mi vida. La relación trabajo-vida en este lugar es increíble, y el espacio físico donde está localizado es alucinante, con una flora y fauna sorprendente.
 
 <div class="img-flotante der">
   <img src="/images/nord3.jpeg" alt="norderlist pintura" />
 </div>
 
-A este lugar llegué con la idea de extender mi segunda visa y luego de mucha busqueda por distintos establecimientos, di con este lugar maravilloso dónde en realidad no necesitaban más gente de manteniemineto, pero luego de hablar con el jefe del equipo y ver mis ganas de trabajar con ellos, me ofreció un trabajo de pintura, en el que tenía que restaurar todos los decks y mesas de maderas del lugar. En principio fué un trabajo muy aburrido, no voy a mentir, pero fué una buena manera de volver al trabajo de oficio y a ser un miembro más del equipo que aporta con lo que puede. Después de pensarlo, me pareció una buena idea para bajar a tierra después de varios años trabajando en Argentina como ingeniero, con todas las responsabilidades que eso conlleva.
+A este lugar llegué con la idea de extender mi segunda visa y luego de mucha búsqueda por distintos establecimientos, di con este lugar maravilloso dónde en realidad no necesitaban más gente de mantenimiento, pero luego de hablar con el jefe del equipo y ver mis ganas de trabajar con ellos, me ofreció un trabajo de pintura, en el que tenía que restaurar todos los decks y mesas de maderas del lugar. En principio fué un trabajo muy aburrido, no voy a mentir, pero fué una buena manera de volver al trabajo de oficio y a ser un miembro más del equipo que aporta con lo que puede. Después de pensarlo, me pareció una buena idea para bajar a tierra después de varios años trabajando en Argentina como ingeniero, con todas las responsabilidades que eso conlleva.
 
 <div class="img-flotante izq">
   <img src="/images/nord4.jpg" alt="norderlist reparaciones" />
 </div>
 
-Después de dos meses pintando, mi gefe estaba teniendo problemas con lus buggies electricos con los que se transportaba todo el personal en el predio. Tenía varios vehiculos rotos y no conseguía a nadie que fuera capáz de repararlos. Despues de notar mi entuciasmo cuanto le pregunté si le podia dar una vistazo, me dejo invertir la ultima hora del dia de trabajo en ver si podia reparar alguno.
+Después de dos meses pintando, mi jefe estaba teniendo problemas con lus buggies eléctricos con los que se transportaba todo el personal en el predio. Tenía varios vehículos rotos y no conseguía a nadie que fuera capaz de repararlos. Después de notar mi entusiasmo cuanto le pregunté si le podia dar una vistazo, me dejo invertir la ultima hora del dia de trabajo en ver si podia reparar alguno.
 
-Luego de un par de semanas y mucha investigacion logré hacer funcionar uno de ellos. A partir de este momento mi gefe me empezó a dar trabajos mucho más complejos.
+Luego de un par de semanas y mucha investigación logré hacer funcionar uno de ellos. A partir de este momento mi jefe me empezó a dar trabajos mucho más complejos.
 
 <div class="img-flotante der">
   <img src="/images/nord1.jpg" alt="reparaciones carro de golf" />
 </div>
 
-Así fue como los ultimos dos meses en este hotel me dediqué principalmente a reparar cosas que los demás muchachos no se animaban a incursionar. Principalmente Carritos de golf e instalaciones eléctricas, pero tambien me toco arreglar tractores de podado que no funcionaban, aires acondicionados y heladera que habian sufrido subas de  tensión y se habian quemado, entre otros.
+Así fue como los últimos dos meses en este hotel me dediqué principalmente a reparar cosas que los demás muchachos no se animaban a incursionar. Principalmente Carritos de golf e instalaciones eléctricas, pero también me toco arreglar tractores de podado que no funcionaban, aires acondicionados y heladera que habían sufrido subas de  tensión y se habían quemado, entre otros.
 
-En este trabajo la verdad que me gustó volver a hacer trabajos de oficio que me recuerden de donde vengo y que me gusta hacer. Esto se combinaba con un increible balance con el estilo de vida, lo cual me hacia llegar cada mañana con una sonrisa al lugar. El equipo de trabajo era pequeño pero hermoso, nos ayudabamos entre todos, nos jugabamos bromas y compartiamos tanto trabajo como cervezas al finalizar.
+En este trabajo la verdad que me gustó volver a hacer trabajos de oficio que me recuerden de donde vengo y que me gusta hacer. Esto se combinaba con un increíble balance con el estilo de vida, lo cual me hacia llegar cada mañana con una sonrisa al lugar. El equipo de trabajo era pequeño pero hermoso, nos ayudábamos entre todos, nos jugábamos bromas y compartíamos tanto trabajo como cervezas al finalizar.
 
 
 

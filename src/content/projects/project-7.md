@@ -1,6 +1,6 @@
 ---
-title: Sistema de Simulación de Condiciones Respiratorias y Testeo de Ventiladores Mecanicos (SSCR)
-description: Desarrollo de un pulmón artificial capáz de simular condiciones respiratorias, junto con un dispositivo de sensado para contrastar mediciones de ventiladores mecáncicos y determinar su correcto funcionamiento
+title: Sistema de Simulación de Condiciones Respiratorias y Testeo de Ventiladores Mecánicos (SSCR)
+description: Desarrollo de un pulmón artificial capaz de simular condiciones respiratorias, junto con un dispositivo de censado para contrastar mediciones de ventiladores mecánicos y determinar su correcto funcionamiento
 publishDate: '2026-12-01'
 isFeatured: true
 seo:
@@ -19,24 +19,24 @@ seo:
   </span>
 </div>
 
-Para mi proyecto final de la carrera universitaria me propuse a resolver un problema que estabamos teniendo en el hospital. Este consistía en la no disponibilidad de un dispositivo que nos permitiera determinar el correcto funcionamiento y lectura de variables de los ventiladores mecánicos (respiradores), así es como nos era imposible ejecutar un mantenimiento correctivo integral de los equipos. Recordemos que estos equipos son de cuidado intensivo para pacientes en estado critico, por lo que es fundamental determinar su correcto funcionamiento.
+Para mi proyecto final de la carrera universitaria me propuse a resolver un problema que estábamos teniendo en el hospital. Este consistía en la no disponibilidad de un dispositivo que nos permitiera determinar el correcto funcionamiento y lectura de variables de los ventiladores mecánicos (respiradores), así es como nos era imposible ejecutar un mantenimiento correctivo integral de los equipos. Recordemos que estos equipos son de cuidado intensivo para pacientes en estado critico, por lo que es fundamental determinar su correcto funcionamiento.
 
-Este problema se combinó con un pedido del jefe de servicio de kinecsiología el cual no encontraba la manera de simular condiciones respiratorias patológicas en pulmones de prueba, para poder mostrarle a sus alumnos el correcto seteo de parametros en respiradores.
+Este problema se combinó con un pedido del jefe de servicio de kinesiología el cual no encontraba la manera de simular condiciones respiratorias patológicas en pulmones de prueba, para poder mostrarle a sus alumnos el correcto seteo de parámetros en respiradores.
 
-Asi es como me propuse a poder diseñar y fabricar un dispositivo que me permitiera emular condiciones respiratorias en un pulmón de pruba y asi poder variar los parametros de flujo, presión, volumen, frecuencia y curvas respiratorias en el respirador. Ese diseño iba combinado con un dispositivo que podía sensar las variables físicas del circuito respiratorio creado, para poder asi compararlas con las curvas y valores que arrojaba el respirador a fin contrastar los valores obtenidos y determinar el correcto funcionamiento del mismo.
+Asi es como me propuse a poder diseñar y fabricar un dispositivo que me permitiera emular condiciones respiratorias en un pulmón de prueba y asi poder variar los parámetros de flujo, presión, volumen, frecuencia y curvas respiratorias en el respirador. Ese diseño iba combinado con un dispositivo que podía sensar las variables físicas del circuito respiratorio creado, para poder asi compararlas con las curvas y valores que arrojaba el respirador a fin contrastar los valores obtenidos y determinar el correcto funcionamiento del mismo.
 <div class="img-presentacion">
   <img src="/images/objetivos.png" alt="Presentación SSCR" />
 </div>
 
-Voy a proceder a mostrar a grandes rasgos en que consistian algunas partes del diseño, pero si estás interesado en ver el desarrollo completo, podras encontrar el paper completo en el final de esta página.
+Voy a proceder a mostrar a grandes rasgos en que consistían algunas partes del diseño, pero si estás interesado en ver el desarrollo completo, podrás encontrar el paper completo en el final de esta página.
 
-El diseño del sistema sistema de simulación de condiciones respiratorias era básicamente  un pulmón de pruebas en donde se le podía ajustar la rigidez del mismo accionando un motor de DC que porvocaba la disminucion o aumento de area entre dos placas de chapa flexíble. Esto provocaba mayor o menor resistencia a la deformación de las chapas dandole mayor o menor obstrucción al volumen aereo.
+El diseño del sistema sistema de simulación de condiciones respiratorias era básicamente  un pulmón de pruebas en donde se le podía ajustar la rigidez del mismo accionando un motor de DC que provocaba la disminución o aumento de area entre dos placas de chapa flexible. Esto provocaba mayor o menor resistencia a la deformación de las chapas dándole mayor o menor obstrucción al volumen aereo.
 
-Por otro lado se podia ajustar la resistencia al flujo del aire moviendo una valvula en la entrada del pulmón.
+Por otro lado se podia ajustar la resistencia al flujo del aire moviendo una válvula en la entrada del pulmón.
 
-Una vez finalizado el diseño y construcción del mismo se procedió a hacer el correspondiente mapeo con sistemas de ecuaciones diferenciales para determinar la curva de respuesta resistiva del pulmón ante el movimiento del motor. Esto se realizó con programacion en excel y herramientas numéricas que nos otorga el mismo programa.
+Una vez finalizado el diseño y construcción del mismo se procedió a hacer el correspondiente mapeo con sistemas de ecuaciones diferenciales para determinar la curva de respuesta resistiva del pulmón ante el movimiento del motor. Esto se realizó con programación en excel y herramientas numéricas que nos otorga el mismo programa.
 
-Aqui se puede ver la transición y evolucion en el diseño del pulmón y su sistema de resistencia
+Aquí se puede ver la transición y evolución en el diseño del pulmón y su sistema de resistencia
 
 <h3 class="titulo-galeria">diseño del pulmón</h3>
 <div class="photo-book">
@@ -60,9 +60,9 @@ Aqui se puede ver la transición y evolucion en el diseño del pulmón y su sist
   </div>  
 </div>
 
-Luego se procedió al diseño del dispositivo que nos iba a otorgar el sensado de flujo, presión y volumen en el sistema respiratorio. Con estos parametros se debía lugo mediante software, calcular variables y curvas respiratorias que nos permitieran comparar de manera visual los valores entregados por el respirador.
+Luego se procedió al diseño del dispositivo que nos iba a otorgar el censado de flujo, presión y volumen en el sistema respiratorio. Con estos parámetros se lograba luego, mediante software, calcular variables y curvas respiratorias que nos permitieran comparar de manera visual los valores entregados por el respirador.
 
-Como sensor de flujo y presión se calculó y fabricó un tubo de Venturi que sufrio diversas modificaciones a lo largo del desarrollo para mejorar sus prestaciones, pasando por diseños en impresión 3d hasta llegar a una ejecicion en aluminio desarrollada por un tornero.
+Como sensor de flujo y presión se calculó y fabricó un tubo de Venturi que sufrió diversas modificaciones a lo largo del desarrollo para mejorar sus prestaciones, pasando por diseños en impresión 3d hasta llegar a un dispositivo en aluminio desarrollada por un tornero.
 
 <h3 class="titulo-galeria">Tubo de Venturi</h3>
 <div class="photo-book">
@@ -83,18 +83,18 @@ Como sensor de flujo y presión se calculó y fabricó un tubo de Venturi que su
   </div>
 </div>
 
-Luego se disñó y construyó un sistema electrónico que nos permitiera recibir esas señales físicas y convertirlas en señales eléctricas. Este sistema necesitaba de sensores de presión diferencial, amplificadores de instrumentación, amplificadores de segundo orden, filtros electrónicos y conversores analógicos-digitales. Con todo este conjunto de componentes, logramos captar esta señal física, convertirla en señal electónica, filtrar todos los ruidos de dicha señal y procesarla para entregarsela  al conversor analógico-digital una señal apta para convertirla en 1 y 0 que nuestra computadora logra interpretar.
+Luego se diseñó y construyó un sistema electrónico que nos permitiera recibir esas señales físicas y convertirlas en señales eléctricas. Este sistema necesitaba de sensores de presión diferencial, amplificadores de instrumentación, amplificadores de segundo orden, filtros electrónicos y conversores analógicos-digitales. Con todo este conjunto de componentes, logramos captar esta señal física, convertirla en señal electrónica, filtrar todos los ruidos de dicha señal y procesarla para entregársela  al conversor analógico-digital una señal apta para convertirla en 1 y 0 que nuestra computadora logra interpretar.
  <div class="img-flotante der">
   <img src="/images/placa1.png" alt="diseño de hard"/>
 </div>
 
-Una vez tenemos el Hardware terminado llega la parte de programación, en donde neceitamos empezar a hacer cálculos y gráficos que se puedan ver un una interfáz apta para el usuario. Este procesamiento de información se realizó en dos lenguajes de programación distintos que trabajan en conjunto: Python y C++.
+Una vez tenemos el Hardware terminado llega la parte de programación, en donde necesitamos empezar a hacer cálculos y gráficos que se puedan ver un una interfaz apta para el usuario. Este procesamiento de información se realizó en dos lenguajes de programación distintos que trabajan en conjunto: Python y C++.
 
  <div class="img-flotante izq">
   <img src="/images/Slide29.JPG" alt="soft" />
 </div>
 
-Todo este diseño iba fusionado con una app de android que se comunicaba inalambricamente con el dispositivo y nos ermitia ver los gráficos y variables principales en nuestro smartphone  para no depender de una conección por cable a nuestra pc.
+Todo este diseño iba fusionado con una app de android que se comunicaba inalámbricamente con el dispositivo y nos permitía ver los gráficos y variables principales en nuestro smartphone  para no depender de una conexión por cable a nuestra pc.
 
 
 Una vez finalizado el desarrollo se contrastó su desempeño contra un dispositivo profesional Fluke que se encarga de las misma mediciones, logrando un sorprendente error menor al 5%.
@@ -235,7 +235,7 @@ Una vez finalizado el desarrollo se contrastó su desempeño contra un dispositi
 
   </div>
 
-Aqui les dejo el PDF completo con el paper explicativo del desarrollo y funcionamiento del dispositivo.
+Aquí les dejo el PDF completo con el paper explicativo del desarrollo y funcionamiento del dispositivo.
 
 <div class="download-card">
     <div class="download-info">

@@ -1,6 +1,6 @@
 ---
-title: 'Venta y cordinacion de viajes estudiantiles (Upgrade)'
-excerpt: Venta y cordinacion de viajes estudiantiles a Bariloche y Brasil
+title: 'Venta y coordinación de viajes estudiantiles (Upgrade)'
+excerpt: Venta y coordinación de viajes estudiantiles a Bariloche y Brasil
 publishDate: 2018-12-01
 dateRange: '[Mendoza Argentina] Oct 2017 - Dic 2018'
 isFeatured: true
@@ -9,19 +9,19 @@ seo:
     src: '/images/post-14.jpg'
     alt: Abstract snow
 ---
-<div class="post-contenido texto-pequeno">
+<div class="post-contenido texto-pequeño">
 
 ### Experiencia en UPGRADE
 
-Uprade es una empresa nacional de viajes estudiantiles, la cual organiza y ejecuta viajes tanto al interior como al exterior de Argentina. Los destinos más usuales de esta empresa son Bariloche, Camboriu y Porto. Los viajes organizados por esta empresa están dirigidos a estudiantes de último año del secundario con chicos de entre 17 y 19 años.
+Upgrade es una empresa nacional de viajes estudiantiles, la cual organiza y ejecuta viajes tanto al interior como al exterior de Argentina. Los destinos más usuales de esta empresa son Bariloche, Camboriu y Porto. Los viajes organizados por esta empresa están dirigidos a estudiantes de último año del secundario con chicos de entre 17 y 19 años.
 
 <div class="img-flotante izq">
   <img src="/images/upgrade1.png" alt="upgrade 1" />
 </div>
 
-Durante mi último año del secundario me ofrecieron trabajar en esta empresa, visitando las puertas de los colegios y ofreciendo los distintos paquetes que tenian disponibles. 
+Durante mi último año del secundario me ofrecieron trabajar en esta empresa, visitando las puertas de los colegios y ofreciendo los distintos paquetes que tenían disponibles. 
 
-Una vez cumplidos los 18 años y ya fuera del colegio me tocó ir a coordinar viajes de egresados a Bariloche y Camboriu. La verdad que siendo tan joven y yendo como responsables de grupo, este trabajo me obligó a madurar rápidamente y a tomar muchas responsablididades que no  había tenído durante la secundaria. Estas responsabilidades no solo consistían en cuidar y hacer el viaje divertido para los pasajaeros, sino que también responder ante las exigencias y preguntas de los padres, así como dar reuniones tanto a padres como alumnos en dónde se exponía toda la informacion necesaria antes de viajar.
+Una vez cumplidos los 18 años y ya fuera del colegio me tocó ir a coordinar viajes de egresados a Bariloche y Camboriu. La verdad que siendo tan joven y yendo como responsables de grupo, este trabajo me obligó a madurar rápidamente y a tomar muchas responsabilidades que no  había tenido durante la secundaria. Estas responsabilidades no solo consistían en cuidar y hacer el viaje divertido para los pasajeros, sino que también responder ante las exigencias y preguntas de los padres, así como dar reuniones tanto a padres como alumnos en dónde se exponía toda la información necesaria antes de viajar.
 
 <div class="img-flotante der">
   <img src="/images/upgrade3.png" alt="upgrade 2" />

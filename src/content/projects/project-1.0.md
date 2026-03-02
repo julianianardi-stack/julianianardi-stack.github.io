@@ -1,6 +1,6 @@
 ---
 title: 'Dibujadora mecánica con motores PAP'
-description: Desarrollo  dispisitivo mecánico que pueda recibir diseños de imñagenes por software y sea capáz de plasmarlo en un papel 2D sosteniendo un lápiz a travéz de 1 par de monoteres PAP.
+description: Desarrollo  dispositivo mecánico que pueda recibir diseños de imágenes por software y sea capaz de plasmarlo en un papel 2D sosteniendo un lápiz a través de motores PAP.
 publishDate: 'Dec 02 2023'
 seo:
   image:
@@ -11,11 +11,11 @@ seo:
 
 ### Dibujadora 3D
 
-Este proyecto lo realizamos junto con un compañero en el marzo de la cátedra de robótica, en la cual había que diseñar un dispositivo capáz de realizar determinada tarea, enviandole las instrucciones desde una computadora o smartphone.
+Este proyecto lo realizamos junto con un compañero en el marzo de la cátedra de robótica, en la cual había que diseñar un dispositivo capaz de realizar determinada tarea, enviándole las instrucciones desde una computadora o smartphone.
 
-Para esto desarrollamos un sistema de ejes con varillas de acero y uniones impresas en 3D (con el mismo método con el que se fabrican las impresoras 3D) que atravéz de varillas roscadas y motores paso a paso, lograban mover un servomotor que iba dibujando en un papel el archivo que nosotros le habíamos enviado por la computadora.
+Para esto desarrollamos un sistema de ejes con varillas de acero y uniones impresas en 3D (con el mismo método con el que se fabrican las impresoras 3D) que a través de varillas roscadas y motores paso a paso, lograban mover un servomotor que iba dibujando en un papel el archivo que nosotros le habíamos enviado por la computadora.
 
-PAra realizar este proyecto fué necesario aprender a programar en arduino y diseñar en 3D para realizar las instrucciones.
+PAra realizar este proyecto fué necesario aprender a programar en Arduino y diseñar en 3D para realizar las instrucciones.
 
 <div class="img-presentacion">
   <video 

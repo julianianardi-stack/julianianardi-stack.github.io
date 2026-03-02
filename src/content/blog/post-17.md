@@ -29,16 +29,16 @@ Obviamente como cualquier emprendimiento nuevo, todo se realiza "a pulmón". Las
   <img src="/images/bulg5.jpg" alt="bulgarus 3" />
 </div>
 
-Como cualquier emprendedor sabe, hacer todas estas tareas por mano propia, te obliga a aprender muchas cosas con las que no estas familiarizado. El aprendizaje y la evolución que se experimenta en estos tipos de proyectos es increible cuando se adentra en las tareas necesarias para sacar a flote un negocio así.
+Como cualquier emprendedor sabe, hacer todas estas tareas por mano propia, te obliga a aprender muchas cosas con las que no estas familiarizado. El aprendizaje y la evolución que se experimenta en estos tipos de proyectos es increíble cuando se adentra en las tareas necesarias para sacar a flote un negocio así.
 
-Nos tomamos tan enserio este proyecto que tuvimos que hacer una carpeta de negocios con proyeciones de crecimiento, graficos FODA, plan de acción a mediano y largo plazo, asi como todo tipo de información necesaria para levantar algo de capital en el momento en el que necesitabamos comenzar a crecer.
+Nos tomamos tan enserio este proyecto que tuvimos que hacer una carpeta de negocios con proyecciones de crecimiento, gráficos FODA, plan de acción a mediano y largo plazo, asi como todo tipo de información necesaria para levantar algo de capital en el momento en el que necesitábamos comenzar a crecer.
 
- Este trabajo, junto con lo llamativo de nuestras producciones visuales en redes, nos llevaron a conseguir un premio a joven emprendedor en la asociacion de jovenes empresarios de mendoza. No quiero pasar por alto que  la gestión de este premio fue mayormente de mi socio Nicolás, quien tenia la visión que un premio así apalancaría tanto clientes como inversores.
+ Este trabajo, junto con lo llamativo de nuestras producciones visuales en redes, nos llevaron a conseguir un premio a joven emprendedor en la asociación de jóvenes empresarios de Mendoza. No quiero pasar por alto que  la gestión de este premio fue mayormente de mi socio Nicolás, quien tenia la visión que un premio así apalancaría tanto clientes como inversores.
  <div class="img-flotante izq">
   <img src="/images/bulg4.jpg" alt="bulgarus 4" />
 </div>
 
- Llegó un momento del enprendimiento a fines del 2023 en donde los 3 socios teníamos planes distintos a futuro, en donde Nicolás decidio irse por un año a Nueva Zelanda, Federico decidió avocarse a sus estudios para recibirse y yo (Recien recibido de Bioingeniero) decidí empezar a tomar trabajos más desafiantes y mucha más responsabilidad en mis posiciones con el hospital e IBS. En ese momento decidimos poner en pausa el proyecto antes de abrir locales en el centro de la ciudad, para evitar responsabilidades que no ibamos a poder afrontar.
+ Llegó un momento del emprendimiento a fines del 2023 en donde los 3 socios teníamos planes distintos a futuro, en donde Nicolás decidió irse por un año a Nueva Zelanda, Federico decidió avocarse a sus estudios para recibirse y yo (Recién recibido de Bioingeniero) decidí empezar a tomar trabajos más desafiantes y mucha más responsabilidad en mis posiciones con el hospital e IBS. En ese momento decidimos poner en pausa el proyecto antes de abrir locales en el centro de la ciudad, para evitar responsabilidades que no íbamos a poder afrontar.
 
 <h3 class="titulo-galeria">Galería reducida</h3>
 <div class="photo-book">
