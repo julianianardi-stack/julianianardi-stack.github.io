@@ -16,7 +16,7 @@ seo:
 Delasser es una empresa que comercializa e instala muebles y colchones. Esta empresa contaba con 6 locales comerciales en Mendoza junto con un centro de logística y almacén. En este centro de logística era donde yo desempeñaba mi trabajo.
 
 <div class="img-flotante izq">
-  <img src="/images/Delasser1.png" alt="delasser 1" />
+  <img src="/images/delasser1.png" alt="delasser 1" />
 </div>
 
 Durante mis primeros años de universidad, tuve varios trabajos que me permitían cubrir mis costes. Este fué uno de los más importantes, ya que fué en el que más tiempo trabajé y en el que más puestos cubrí.
