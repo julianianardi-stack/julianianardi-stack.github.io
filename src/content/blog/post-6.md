@@ -21,9 +21,6 @@ El Hospital Regional Diego Paroissien es una institución pública de alta compl
 
 Este hospital fué mi primer acercamiento al mundo profesional de la bioingeniería, dónde entré a hacer mis prácticas profesionales finalizando mi 3er año de carrera. Luego de un tiempo me ofrecieron un puesto en el departamento de bioingeniería como técnico mientras finalizaba mis estudios universitarios.
 
-<div class="img-flotante der">
-  <img src="images\paroissien1.jpg" alt="hospital 2" />
-</div>
 
 La experiencia en este hospital fué maravillosa ya que en el departamento de bioingeniería eramos solo dos personas encargadas de atender los requerimientos de todos los servicios. Esto te obliga a estar al tanto del funcionamiento de todo tipo de equipamiento médico asi como también de todas las instalaciones del hospital. 
 

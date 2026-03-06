@@ -17,22 +17,19 @@ Este tipo de sistemas no puede fallar durante una cirugía, es por esta razón q
 
 Para realizar este protocolo de mantenimiento preventivo, obviamente es necesario conocer el funcionamiento del equipo asi como las normativas sujetas a este. Es por este motivo que realicé mi capacitación en torres de laparoscopía, para estar capacitado y poder resolver este tipo de situaciones. Una vez finalizado el curso me dispuse a desarrollar este protocolo necesario para el servicio.
 
-<div class="img-flotante izq">
-  <img src="/images/Paroissien1.jpg" alt="hospital 1" />
+<div class="pdf-container" style="margin: 2rem 0;">
+  <iframe 
+    src="/preventivo-torre-laparo.pdf" 
+    width="100%" 
+    height="600px" 
+    style="border: none; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
+  </iframe>
+  <p style="text-align: center; margin-top: 10px;">
+    <a href="/preventivo-torre-laparo.pdf" download class="btn-download">
+      📥 Descargar Protocolo (PDF)
+    </a>
+  </p>
 </div>
-
-<div class="img-flotante der">
-  <img src="/images/Paroissien2.jpg" alt="hospital 2" />
-</div>
-
-<div class="img-flotante izq">
-  <img src="/images/Paroissien3.jpeg" alt="hospital 3" />
-</div>
-
-<div class="img-flotante der">
-  <img src="/images/Paroissien4.jpg" alt="hospital 4" />
-</div>
-
 
 </div>
 

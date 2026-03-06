@@ -107,130 +107,130 @@ Una vez finalizado el desarrollo se contrastó su desempeño contra un dispositi
 <h3 class="titulo-galeria text-blue-600">Presentación del proyecto</h3>
 <div class="ppt-slider">
     <div class="ppt-slide">
-        <img src="/images/slide1.jpg" alt="Slide 1" />
+        <img src="/images/Slide1.JPG" alt="Slide 1" />
     </div>
     <div class="ppt-slide">
-        <img src="/images/slide2.jpg" alt="Slide 2" />
+        <img src="/images/Slide2.JPG" alt="Slide 2" />
     </div>
         <div class="ppt-slide">
-        <img src="/images/slide3.jpg" alt="Slide 1" />
+        <img src="/images/Slide3.JPG" alt="Slide 1" />
     </div>
     <div class="ppt-slide">
-        <img src="/images/slide4.jpg" alt="Slide 2" />
+        <img src="/images/Slide4.JPG" alt="Slide 2" />
     </div>
         <div class="ppt-slide">
-        <img src="/images/slide5.jpg" alt="Slide 1" />
+        <img src="/images/Slide5.JPG" alt="Slide 1" />
     </div>
     <div class="ppt-slide">
-        <img src="/images/slide6.jpg" alt="Slide 2" />
+        <img src="/images/Slide6.JPG" alt="Slide 2" />
     </div>
         <div class="ppt-slide">
-        <img src="/images/slide7.jpg" alt="Slide 1" />
+        <img src="/images/Slide7.JPG" alt="Slide 1" />
     </div>
     <div class="ppt-slide">
-        <img src="/images/slide8.jpg" alt="Slide 2" />
+        <img src="/images/Slide8.JPG" alt="Slide 2" />
     </div>
         <div class="ppt-slide">
-        <img src="/images/slide9.jpg" alt="Slide 1" />
+        <img src="/images/Slide9.JPG" alt="Slide 1" />
     </div>
     <div class="ppt-slide">
-        <img src="/images/slide10.jpg" alt="Slide 2" />
+        <img src="/images/Slide10.JPG" alt="Slide 2" />
     </div>
         <div class="ppt-slide">
-        <img src="/images/slide11.jpg" alt="Slide 1" />
+        <img src="/images/Slide11.JPG" alt="Slide 1" />
     </div>
     <div class="ppt-slide">
-        <img src="/images/slide12.jpg" alt="Slide 2" />
+        <img src="/images/Slide12.JPG" alt="Slide 2" />
     </div>
         <div class="ppt-slide">
-        <img src="/images/slide13.jpg" alt="Slide 1" />
+        <img src="/images/Slide13.JPG" alt="Slide 1" />
     </div>
     <div class="ppt-slide">
-        <img src="/images/slide14.jpg" alt="Slide 2" />
+        <img src="/images/Slide14.JPG" alt="Slide 2" />
     </div>
         <div class="ppt-slide">
-        <img src="/images/slide15.jpg" alt="Slide 1" />
+        <img src="/images/Slide15.JPG" alt="Slide 1" />
     </div>
     <div class="ppt-slide">
-        <img src="/images/slide16.jpg" alt="Slide 2" />
+        <img src="/images/Slide16.JPG" alt="Slide 2" />
     </div>
         <div class="ppt-slide">
-        <img src="/images/slide17.jpg" alt="Slide 1" />
+        <img src="/images/Slide17.JPG" alt="Slide 1" />
     </div>
     <div class="ppt-slide">
-        <img src="/images/slide18.jpg" alt="Slide 2" />
+        <img src="/images/Slide18.JPG" alt="Slide 2" />
     </div>
         <div class="ppt-slide">
-        <img src="/images/slide19.jpg" alt="Slide 1" />
+        <img src="/images/Slide19.JPG" alt="Slide 1" />
     </div>
     <div class="ppt-slide">
-        <img src="/images/slide20.jpg" alt="Slide 2" />
+        <img src="/images/Slide20.JPG" alt="Slide 2" />
     </div>
         <div class="ppt-slide">
-        <img src="/images/slide21.jpg" alt="Slide 1" />
+        <img src="/images/Slide21.JPG" alt="Slide 1" />
     </div>
     <div class="ppt-slide">
-        <img src="/images/slide22.jpg" alt="Slide 2" />
+        <img src="/images/Slide22.JPG" alt="Slide 2" />
     </div>
         <div class="ppt-slide">
-        <img src="/images/slide23.jpg" alt="Slide 1" />
+        <img src="/images/Slide23.JPG" alt="Slide 1" />
     </div>
     <div class="ppt-slide">
-        <img src="/images/slide24.jpg" alt="Slide 2" />
+        <img src="/images/Slide24.JPG" alt="Slide 2" />
     </div>
         <div class="ppt-slide">
-        <img src="/images/slide25.jpg" alt="Slide 1" />
+        <img src="/images/Slide25.JPG" alt="Slide 1" />
     </div>
     <div class="ppt-slide">
-        <img src="/images/slide26.jpg" alt="Slide 2" />
+        <img src="/images/Slide26.JPG" alt="Slide 2" />
     </div>
         <div class="ppt-slide">
-        <img src="/images/slide27.jpg" alt="Slide 1" />
+        <img src="/images/Slide27.JPG" alt="Slide 1" />
     </div>
     <div class="ppt-slide">
-        <img src="/images/slide28.jpg" alt="Slide 2" />
+        <img src="/images/Slide28.JPG" alt="Slide 2" />
     </div>
         <div class="ppt-slide">
-        <img src="/images/slide29.jpg" alt="Slide 1" />
+        <img src="/images/Slide29.JPG" alt="Slide 1" />
     </div>
     <div class="ppt-slide">
-        <img src="/images/slide30.jpg" alt="Slide 2" />
+        <img src="/images/Slide30.JPG" alt="Slide 2" />
     </div>
         <div class="ppt-slide">
-        <img src="/images/slide31.jpg" alt="Slide 1" />
+        <img src="/images/Slide31.JPG" alt="Slide 1" />
     </div>
     <div class="ppt-slide">
-        <img src="/images/slide32.jpg" alt="Slide 2" />
+        <img src="/images/Slide32.JPG" alt="Slide 2" />
     </div>
         <div class="ppt-slide">
-        <img src="/images/slide33.jpg" alt="Slide 1" />
+        <img src="/images/Slide33.JPG" alt="Slide 1" />
     </div>
     <div class="ppt-slide">
-        <img src="/images/slide34.jpg" alt="Slide 2" />
+        <img src="/images/Slide34.JPG" alt="Slide 2" />
     </div>
         <div class="ppt-slide">
-        <img src="/images/slide35.jpg" alt="Slide 1" />
+        <img src="/images/Slide35.JPG" alt="Slide 1" />
     </div>
     <div class="ppt-slide">
-        <img src="/images/slide36.jpg" alt="Slide 2" />
+        <img src="/images/Slide36.JPG" alt="Slide 2" />
     </div>
         <div class="ppt-slide">
-        <img src="/images/slide37.jpg" alt="Slide 1" />
+        <img src="/images/Slide37.JPG" alt="Slide 1" />
     </div>
     <div class="ppt-slide">
-        <img src="/images/slide38.jpg" alt="Slide 2" />
+        <img src="/images/Slide38.JPG" alt="Slide 2" />
     </div>
         <div class="ppt-slide">
-        <img src="/images/slide39.jpg" alt="Slide 1" />
+        <img src="/images/Slide39.JPG" alt="Slide 1" />
     </div>
     <div class="ppt-slide">
-        <img src="/images/slide40.jpg" alt="Slide 2" />
+        <img src="/images/Slide40.JPG" alt="Slide 2" />
     </div>
         <div class="ppt-slide">
-        <img src="/images/slide41.jpg" alt="Slide 1" />
+        <img src="/images/Slide41.JPG" alt="Slide 1" />
     </div>
     <div class="ppt-slide">
-        <img src="/images/slide42.jpg" alt="Slide 2" />
+        <img src="/images/Slide42.JPG" alt="Slide 2" />
     </div>
 
   </div>

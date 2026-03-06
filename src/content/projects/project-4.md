@@ -8,30 +8,30 @@ seo:
 ---
 <div class="post-contenido texto-pequeno">
 
-### Neotermómetro
+### Terneómetro
+
+<div class="img-presentacion">
+  <img src="/images/terneometro1.jpg" alt="hospital 1" />
+</div>
 
 Este fué un dispositivo que desarrollé durante mis años trabajando en el hospital Paroissien, donde no siempre teníamos acceso a todas las herramientas necesarias para realizar los mantenimientos preventivos a todos los equipos médicos.
 
 Uno de los casos fué el de las incubadoras para neonatología, las cuales entre los chequeos que se deben realizar es la temperatura de la incubadora en 5 puntos diferentes de ella a diferente altura y el tiempo que la incubadora llega en todos estos puntos a la temperatura deseada.
 
+<div class="img-presentacion">
+  <img src="/images/terneometro2.jpg" alt="hospital 2" />
+</div>
+
 Fué asi que con un esp 32, 4 sensores de temperatura ...., un display y el diseño en impresión 3D de soportes para los mismos; desarrollé un sistema capaz de realizar este censado en 5 puntos a la vez y graficar con respecto al tiempo la evolución de la temperatura en la incubadora.
 
-Obviamente para este desarrollo es necesario tener conocimientos tanto de electrónica como de Arduino, para poder construir el dispositivo
-<div class="img-flotante izq">
-  <img src="/images/Paroissien1.jpg" alt="hospital 1" />
+<div class="img-presentacion">
+  <img src="/images/terneometro3.jpg" alt="hospital 3" />
 </div>
 
-<div class="img-flotante der">
-  <img src="/images/Paroissien2.jpg" alt="hospital 2" />
-</div>
 
-<div class="img-flotante izq">
-  <img src="/images/Paroissien3.jpeg" alt="hospital 3" />
-</div>
+Obviamente para este desarrollo es necesario tener conocimientos tanto de electrónica como de Arduino, para poder construir el dispositivo.
 
-<div class="img-flotante der">
-  <img src="/images/Paroissien4.jpg" alt="hospital 4" />
-</div>
+
 
 
 </div>
@@ -94,4 +94,22 @@ Obviamente para este desarrollo es necesario tener conocimientos tanto de electr
       text-indent: 20px;
     }
   }
+
+    .img-presentacion {
+  display: block;
+  max-width: 100%; 
+  /* Eliminamos width: fit-content para que el contenedor no mande sobre el tamaño */
+  margin: 2rem auto; 
+  text-align: center; /* Esto asegura que la imagen de adentro se centre */
+}
+
+.img-presentacion img {
+  display: block;
+  width: 100%;       /* <--- Aquí le damos el 50% del ancho del párrafo */
+  max-width: 100%; 
+  height: auto; 
+  margin: 0 auto;   /* Centra la imagen dentro del bloque */
+  object-fit: contain;
+  border-radius: 8px;
+}
 </style>
