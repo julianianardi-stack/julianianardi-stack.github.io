@@ -5,12 +5,13 @@ seo:
   description: Resume personal
 ---
 <div style="font-size: 0.8rem;">
-Aqui tienes mi Curriculum vitae actualizado el dia 01/01/2026. Ten en cuenta que el historial laboral mostrado en este curriculum es el mas relevante para el puesto de Ingenierio Biomedico al que apunto. Hay muchos otros trabajos realizados a lo largo de mi vida en Australia asi como durante mi trayectoria estudiantil en Argentina que no se muestran aqui a fin de acortar la informacions.
+Aquí tienes mi Curriculum vitae actualizado el dia 01/01/2026. Ten en cuenta que el historial laboral mostrado en este curriculum es el mas relevante para el puesto de Ingenierio Biomédico al que apunto. Hay muchos otros trabajos realizados a lo largo de mi vida en Australia asi como durante mi trayectoria estudiantil en Argentina que no se muestran aquí a fin de acortar la información.
 
-Tambien ten en cuenta que los puestos de trabajo se muestran en orden cronologico y no en orden de reelevancia.
+También ten en cuenta que los puestos de trabajo se muestran en orden cronológico y no en orden de relevancia.
 
 ![Curriculum hoja  1](/CV1.jpg)
 ![Curriculum hoja 2](/CV2.jpg)
+![Curriculum hoja 2](/CV3.jpg)
 
 
 ### 📄 Mi Currículum
