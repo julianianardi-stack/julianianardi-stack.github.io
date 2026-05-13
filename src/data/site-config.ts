@@ -1,4 +1,5 @@
 import type { SiteConfig } from '../types';
+
 const avatar = "/images/avatar.jpg";
 const hero = '/images/portada.jpg';
 
@@ -11,10 +12,6 @@ const siteConfig: SiteConfig = {
     title: 'Julian Ianardi',
     subtitle: 'Portfolio personal',
     description: 'Este es mi portfolio personal donde comparto mi experiencia y proyectos',
-    image: {
-        src: '/dante-preview.jpg',
-        alt: 'Portfolio de Julian Ianardi'
-    },
     headerNavLinks: [
         {
             text: 'home',
@@ -46,15 +43,12 @@ const siteConfig: SiteConfig = {
             text: 'Contact',
             href: '/contact'
         },
-
-
     ],
     socialLinks: [
         {
             text: 'LinkedIn',
             href: 'https://www.linkedin.com/in/julian-ianardi-07b403233/?locale=en_US'
         },
-
     ],
     hero: {
         title: 'Hola, soy el Bioingeniero Julián Ianardi',
@@ -73,17 +67,7 @@ const siteConfig: SiteConfig = {
             text: 'Curriculum',
             href: '/contact'
         }
-    ]
-},
-    // subscribe: {
-    //     enabled: true,
-    //     title: 'Subscribe to Dante Newsletter',
-    //     text: 'One update per week. All the latest posts directly in your inbox.',
-    //     form: {
-    //         action: '#'
-    //     }
-    //},
-
+    ],
     projectsPerPage: 10,
     postsPerPage: 12
 };
