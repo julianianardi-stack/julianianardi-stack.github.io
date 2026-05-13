@@ -57,19 +57,24 @@ const siteConfig: SiteConfig = {
 
     ],
     hero: {
-        title: 'Hola soy el Bioingeniero Julián Ianardi y te doy la bienvenida a mi rincón personal',
-        text: "Soy un ingeniero de campo Argentino apasionado por la tecnología y la búsqueda de soluciones. Me encanta aprender cosas nuevas, investigar como funciona todo y encontrar soluciones u optimizar procesos. En esta página encontrarás algunos de mis proyectos, mis experiencias viajando y mi recorrido laboral y académico.",
-        image: {
-            src: hero,
-            alt: 'Foto personal'
-        },
-        actions: [
-            {
-                text: 'Curriculum',
-                href: '/contact'
-            }
-        ]
+        title: 'Hola, soy el Bioingeniero Julián Ianardi',
+        text: `Mi enfoque combina el rigor de la ingeniería con una curiosidad insaciable por optimizar procesos complejos. Desde el mantenimiento de tecnología médica hasta el desarrollo de sistemas IoT para la industria enológica y el monitoreo agrícola, mi objetivo es transformar la técnica en valor real sobre el terreno.
+
+    Creo en la ingeniería que se toca y se vive: ya sea creando valor en el hospital, en el laboratorio, en la bodega o en el viñedo.
+
+    Explora mis proyectos de desarrollo, mis bitácoras de viaje y mi trayectoria profesional.`
     },
+    image: {
+        src: hero,
+        alt: 'Foto personal'
+    },
+    actions: [
+        {
+            text: 'Curriculum',
+            href: '/contact'
+        }
+    ]
+},
     // subscribe: {
     //     enabled: true,
     //     title: 'Subscribe to Dante Newsletter',
