@@ -58,11 +58,11 @@ const siteConfig: SiteConfig = {
     ],
     hero: {
         title: 'Hola soy el Bioingeniero Julián Ianardi y te doy la bienvenida a mi rincón personal',
-        text: `Mi enfoque combina el rigor de la ingeniería con una curiosidad insaciable por optimizar procesos complejos. Desde el mantenimiento de tecnología médica hasta el desarrollo de sistemas IoT para la industria enológica y el monitoreo agrícola, mi objetivo es transformar la técnica en valor real sobre el terreno.
+        text: `Mi enfoque combina el rigor de la ingeniería con la curiosidad por la innovación en la solución de problemas. Desde el mantenimiento de tecnología médica hasta el desarrollo de sistemas IoT para la industria enológica, mi objetivo es transformar la ciencia y diseño en valor real sobre el terreno.
 
 Creo en la ingeniería que se toca y se vive: ya sea creando valor en el hospital, en el laboratorio, en la bodega o en el viñedo.
 
-Explora mis proyectos de desarrollo, mis bitácoras de viaje y mi trayectoria profesional.`,
+Explorá mis proyectos de desarrollo, mis bitácoras de viaje y mi trayectoria profesional en este sitio.`,
         image: {
             src: hero,
             alt: 'Foto personal'
